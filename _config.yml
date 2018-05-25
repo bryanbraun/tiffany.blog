@@ -35,9 +35,6 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
-# Comments
-comments: true
-
 # Disqus
 disqus:
   shortname: thatmacnerd
@@ -90,3 +87,4 @@ defaults:
     values:
       layout: post
       read_time: true
+      comments: true
