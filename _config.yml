@@ -26,18 +26,14 @@ author:
 twitter_username: "ThatMacNerd"
 github_username:
 logo: "/assets/images/TMN.png"
-search:
-search_full_content: false # true, false (default)
-search_provider: lunr
+search: true
+search_full_content: true # true, false (default)
+search_provider: algolia
 algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
-
-# Disqus
-disqus:
-  shortname: thatmacnerd
+  application_id: VVKLD2O8OY
+  index_name: thatmacnerd
+  search_only_api_key: ce7660039cd338fcfa54fbce856ddd0a
+  powered_by: true
 
 # Build settings
 markdown: kramdown
@@ -54,6 +50,9 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-algolia
 # Exclude from processing.
 exclude:
   - .asset-cache
@@ -88,3 +87,5 @@ defaults:
       layout: post
       read_time: true
       comments: true
+      disqus:
+        shortname: thatmacnerd
