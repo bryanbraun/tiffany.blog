@@ -1,6 +1,6 @@
 ---
 ID: 1236
-post_title: >
+title: >
   Airmail Gets Deeper Integration with
   DEVONthink
 # airmail-integration-devonthink
@@ -37,7 +37,7 @@ DEVONthink on iOS has a deeper integration with Airmail with DEVONthink's advanc
 
 You can add a custom action in the Settings, something like *Add to DEVONthink*. You would need to select the *Open URL* action and add this URL scheme:
 
-`x-devonthink://createhtml?title=[message_subject]&source=%3Cp%3E%3Cstrong%3EFrom%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22mailto%3A[message_sender]%22%3E[message_sender_name]%3C%2Fa%3E%3Cbr%2F%3E%0A%3Cstrong%3ESubject%3A%3C%2Fstrong%3E%20[message_subject]%3Cbr%2F%3E%0A%3Cstrong%3ELink%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22[message_linkback]%22%3E[message_linkback]%3C%2Fa%3E%20%3C%2Fp%3E%0A%0A%3Cp%3E[message_html]%3C%2Fp%3E`
+`x-devonthink://createhtml?title:=[message_subject]&source=%3Cp%3E%3Cstrong%3EFrom%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22mailto%3A[message_sender]%22%3E[message_sender_name]%3C%2Fa%3E%3Cbr%2F%3E%0A%3Cstrong%3ESubject%3A%3C%2Fstrong%3E%20[message_subject]%3Cbr%2F%3E%0A%3Cstrong%3ELink%3A%3C%2Fstrong%3E%20%3Ca%20href%3D%22[message_linkback]%22%3E[message_linkback]%3C%2Fa%3E%20%3C%2Fp%3E%0A%0A%3Cp%3E[message_html]%3C%2Fp%3E`
 
 Add to your swipes [^2] or however you'd like to access the action. The resulting email in DEVONthink looks like this:
 

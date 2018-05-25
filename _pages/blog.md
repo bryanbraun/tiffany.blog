@@ -1,6 +1,6 @@
 ---
 ID: 631
-post_title: Blog
+title: Blog
 # blog
 author: Tiffany White
 post_date: 2016-06-29 00:39:04

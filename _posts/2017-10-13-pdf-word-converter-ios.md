@@ -1,6 +1,6 @@
 ---
 ID: 2360
-post_title: 'PDF to Word Converter for iOS: Review'
+title: 'PDF to Word Converter for iOS: Review'
 # pdf-word-converter-ios
 author: Tiffany White
 post_date: 2017-10-13 21:53:13

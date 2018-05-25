@@ -1,6 +1,6 @@
 ---
 ID: 237
-post_title: OCR Research with PDFPen and Hazel
+title: OCR Research with PDFPen and Hazel
 author: Tiffany White
 post_date: 2015-08-25 23:25:47
 layout: post

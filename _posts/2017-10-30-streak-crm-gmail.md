@@ -1,6 +1,6 @@
 ---
 ID: 2408
-post_title: 'Streak CRM for Gmail: Overview'
+title: 'Streak CRM for Gmail: Overview'
 # streak-crm-gmail
 author: Tiffany White
 post_date: 2017-10-30 14:08:24

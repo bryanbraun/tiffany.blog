@@ -1,6 +1,6 @@
 ---
 ID: 2919
-post_title: On Moving on Up and Smart Homes
+title: On Moving on Up and Smart Homes
 # moving-up-smart-homes
 author: Tiffany White
 post_date: 2018-04-25 05:30:17

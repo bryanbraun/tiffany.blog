@@ -1,6 +1,6 @@
 ---
 ID: 338
-post_title: Todoist Screencast
+title: Todoist Screencast
 # todoist-screencast
 author: Tiffany White
 post_date: 2016-01-12 19:56:15

@@ -1,6 +1,6 @@
 ---
 ID: 2385
-post_title: 'Email Clients: My Weakness'
+title: 'Email Clients: My Weakness'
 # email-clients-my-weakness
 author: Tiffany White
 post_date: 2017-10-17 17:46:22

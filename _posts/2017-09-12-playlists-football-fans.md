@@ -1,6 +1,6 @@
 ---
 ID: 2290
-post_title: Playlists for Football Fans
+title: Playlists for Football Fans
 # playlists-football-fans
 author: Tiffany White
 post_date: 2017-09-12 08:13:25

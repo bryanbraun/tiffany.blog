@@ -1,6 +1,6 @@
 ---
 ID: 2269
-post_title: 'Pick of the Month: Transmit 5 for Mac'
+title: 'Pick of the Month: Transmit 5 for Mac'
 # pick-month-transmit-5
 author: Tiffany White
 post_date: 2017-09-06 08:35:13

@@ -1,6 +1,6 @@
 ---
 ID: 2486
-post_title: Apps for Working Remotely
+title: Apps for Working Remotely
 # apps-working-remotely
 author: Tiffany White
 post_date: 2017-11-25 21:54:25

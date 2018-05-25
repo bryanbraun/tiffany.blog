@@ -1,6 +1,6 @@
 ---
 ID: 2284
-post_title: 'A New Addition: Amazon Echo'
+title: 'A New Addition: Amazon Echo'
 # new-addition-amazon-echo
 author: Tiffany White
 post_date: 2017-09-10 23:43:03

@@ -1,6 +1,6 @@
 ---
 ID: 604
-post_title: 10 Best Productivity Apps for Mac
+title: 10 Best Productivity Apps for Mac
 # 10-best-productivity-apps-mac
 author: Tiffany White
 post_date: 2016-06-06 00:21:40

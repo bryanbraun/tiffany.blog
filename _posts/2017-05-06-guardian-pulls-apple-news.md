@@ -1,6 +1,6 @@
 ---
 ID: 1228
-post_title: >
+title: >
   The Guardian Pulls Out of Apple News and
   Facebook Instant Articles
 # guardian-pulls-apple-news

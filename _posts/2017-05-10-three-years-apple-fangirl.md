@@ -1,6 +1,6 @@
 ---
 ID: 1259
-post_title: 3 Years An Apple Fangirl
+title: 3 Years An Apple Fangirl
 # three-years-apple-fangirl
 author: Tiffany White
 post_date: 2017-05-10 00:29:16

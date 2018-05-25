@@ -1,6 +1,6 @@
 ---
 ID: 798
-post_title: 'macOS Sierra: Siri for Mac Is Practically Worthless'
+title: 'macOS Sierra: Siri for Mac Is Practically Worthless'
 # siri-for-mac-practically-worthless
 author: Tiffany White
 post_date: 2016-10-28 00:48:32
@@ -26,7 +26,7 @@ I am not the only one who needs this. From the Apple Discussion Forums:
 
 &gt;" *Hiya*:
 &gt;
-> *Just updated to MacOS Sierra, and I am trying to use Siri to find files on my computer and like the title says, Siri's not coughing up files on my external drives (both connected via USB 3 through back of iMac). I've tried turning Siri on/off, Spotlight doesn't have any excluded folders, I tried signing in/out of my iCloud account. I've tried creating a new user account on my Mac (which won't find anything at all). Permissions on my external hard drive seem ok: Read/Write is enabled for Me, Everyone, and admin; "ignore ownership" is turned on.*
+> *Just updated to MacOS Sierra, and I am trying to use Siri to find files on my computer and like the title: says, Siri's not coughing up files on my external drives (both connected via USB 3 through back of iMac). I've tried turning Siri on/off, Spotlight doesn't have any excluded folders, I tried signing in/out of my iCloud account. I've tried creating a new user account on my Mac (which won't find anything at all). Permissions on my external hard drive seem ok: Read/Write is enabled for Me, Everyone, and admin; "ignore ownership" is turned on.*
 &gt;
 > *I’m starting to think this is a design limitation of the software. Anyone else using Siri able to get her to fetch files on your external drives?*"
 

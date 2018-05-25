@@ -1,6 +1,6 @@
 ---
 ID: 1399
-post_title: My WWDC 2017 Wish List
+title: My WWDC 2017 Wish List
 # my-wwdc-2017-wishlist
 author: Tiffany White
 post_date: 2017-06-01 18:35:47

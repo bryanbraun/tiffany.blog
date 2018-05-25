@@ -1,6 +1,6 @@
 ---
 ID: 2248
-post_title: >
+title: >
   David Hewson on Ulysses Subscription
   Model
 # david-hewson-ulysses

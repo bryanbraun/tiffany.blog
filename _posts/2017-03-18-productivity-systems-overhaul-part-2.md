@@ -1,6 +1,6 @@
 ---
 ID: 1053
-post_title: 'Productivity Systems Overhaul, Part 2: Apps and Systems'
+title: 'Productivity Systems Overhaul, Part 2: Apps and Systems'
 # productivity-systems-overhaul-part-2
 author: Tiffany White
 post_date: 2017-03-18 16:56:56

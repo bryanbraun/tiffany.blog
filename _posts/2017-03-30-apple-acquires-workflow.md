@@ -1,6 +1,6 @@
 ---
 ID: 1059
-post_title: >
+title: >
   Apple Acquires Powerful Automation App
   Workflow
 # apple-acquires-workflow

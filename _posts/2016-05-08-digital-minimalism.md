@@ -1,6 +1,6 @@
 ---
 ID: 502
-post_title: Digital Minimalism on Your Mac
+title: Digital Minimalism on Your Mac
 # digital-minimalism
 author: Tiffany White
 post_date: 2016-05-08 11:19:00

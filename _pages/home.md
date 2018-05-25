@@ -1,6 +1,6 @@
 ---
 ID: 8
-post_title: Home
+title: Home
 # home
 author: Tiffany White
 post_date: 2014-12-13 07:56:52

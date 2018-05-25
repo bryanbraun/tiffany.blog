@@ -1,6 +1,6 @@
 ---
 ID: 403
-post_title: 'Mike Vardy&#8217;s Three Words'
+title: 'Mike Vardy&#8217;s Three Words'
 # mike-vardys-three-words
 author: Tiffany White
 post_date: 2016-03-15 04:33:34

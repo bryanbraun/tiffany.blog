@@ -1,6 +1,6 @@
 ---
 ID: 1491
-post_title: Sections
+title: Sections
 # sections
 author: Tiffany White
 post_date: 2017-06-13 16:21:31

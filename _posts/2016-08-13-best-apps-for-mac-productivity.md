@@ -1,6 +1,6 @@
 ---
 ID: 743
-post_title: Best Apps for Mac Productivity
+title: Best Apps for Mac Productivity
 # best-apps-for-mac-productivity
 author: Tiffany White
 post_date: 2016-08-13 21:23:13

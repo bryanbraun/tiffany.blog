@@ -1,6 +1,6 @@
 ---
 ID: 1220
-post_title: RSS for Sections
+title: RSS for Sections
 # rss-for-sections
 author: Tiffany White
 post_date: 2017-05-06 00:36:41

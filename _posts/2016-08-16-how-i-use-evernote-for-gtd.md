@@ -1,6 +1,6 @@
 ---
 ID: 747
-post_title: How I Use Evernote for GTD
+title: How I Use Evernote for GTD
 # how-i-use-evernote-for-gtd
 author: Tiffany White
 post_date: 2016-08-16 10:30:27

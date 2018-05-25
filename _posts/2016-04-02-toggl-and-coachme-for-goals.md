@@ -1,6 +1,6 @@
 ---
 ID: 447
-post_title: >
+title: >
   Toggl and Coach.me to Keep Track of
   Goals and Time
 # toggl-and-coachme-for-goals

@@ -1,6 +1,6 @@
 ---
 ID: 2927
-post_title: >
+title: >
   Google Offering Material Design for iOS
   Apps
 # material-design-ios

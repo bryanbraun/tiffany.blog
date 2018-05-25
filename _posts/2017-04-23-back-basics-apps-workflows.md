@@ -1,6 +1,6 @@
 ---
 ID: 1151
-post_title: 'Back to Basics: Apps and Workflows'
+title: 'Back to Basics: Apps and Workflows'
 # back-basics-apps-workflows
 author: Tiffany White
 post_date: 2017-04-23 19:10:13

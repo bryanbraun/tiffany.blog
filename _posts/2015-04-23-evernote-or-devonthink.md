@@ -1,6 +1,6 @@
 ---
 ID: 154
-post_title: Evernote or DEVONthink?
+title: Evernote or DEVONthink?
 # evernote-or-devonthink
 author: Tiffany White
 post_date: 2015-04-23 17:39:04

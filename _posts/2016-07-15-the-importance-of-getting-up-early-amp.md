@@ -1,6 +1,6 @@
 ---
 ID: 650
-post_title: The Importance of Getting Up Early
+title: The Importance of Getting Up Early
 # the-importance-of-getting-up-early-amp
 author: Tiffany White
 post_date: 2016-07-15 22:43:38

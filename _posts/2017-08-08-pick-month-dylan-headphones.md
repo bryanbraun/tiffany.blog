@@ -1,6 +1,6 @@
 ---
 ID: 2204
-post_title: 'Pick of the Month: Dylan Wireless Headphones'
+title: 'Pick of the Month: Dylan Wireless Headphones'
 # pick-month-dylan-headphones
 author: Tiffany White
 post_date: 2017-08-08 15:34:55

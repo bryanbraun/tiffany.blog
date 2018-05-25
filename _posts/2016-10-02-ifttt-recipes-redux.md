@@ -1,6 +1,6 @@
 ---
 ID: 785
-post_title: 'IFTTT Recipes: Using IFTTT To Automate Your Hustle'
+title: 'IFTTT Recipes: Using IFTTT To Automate Your Hustle'
 # ifttt-recipes-redux
 author: Tiffany White
 post_date: 2016-10-02 02:38:38

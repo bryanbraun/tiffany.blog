@@ -1,6 +1,6 @@
 ---
 ID: 1006
-post_title: 'Productivity System Overhaul: Tidying and Tools'
+title: 'Productivity System Overhaul: Tidying and Tools'
 # productivity-system-overhaul
 author: Tiffany White
 post_date: 2017-03-07 19:22:44
