@@ -12,7 +12,7 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-[caption id="attachment_750" align="aligncenter" width="620"]<img class="size-large wp-image-750" src="http://thatmacnerd.com/wp-content/uploads/2016/08/Evernote-1024x571.jpg" alt="Photo credit: Win Beta" width="620" height="346" /> Photo credit: Win Beta[/caption]
+[caption id="attachment_750" align="aligncenter" width="620"]<img class="size-large wp-image-750" src="https://thatmacnerd.com/wp-content/uploads/2016/08/Evernote-1024x571.jpg" alt="Photo credit: Win Beta" width="620" height="346" /> Photo credit: Win Beta[/caption]
 
 In the <a href="https://thatmacnerd.com/2016/08/13/best-apps-for-mac-productivity/">previous post</a>, I mentioned I was using Evernote for productivity and GTD.
 

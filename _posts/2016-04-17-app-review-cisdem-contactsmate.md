@@ -18,7 +18,7 @@ When you open ContactsMate you are greeted with a screen that asks for permissio
 
 Once you do this, you have a screen that looks similar to this:
 
-<img class="aligncenter size-large wp-image-490" src="http://thatmacnerd.com/wp-content/uploads/2016/04/Screenshot2016-04-16_12-33-07_AM-1-1024x612.png" alt="Screenshot2016-04-16_12-33-07_AM" width="740" height="442" />
+<img class="aligncenter size-large wp-image-490" src="https://thatmacnerd.com/wp-content/uploads/2016/04/Screenshot2016-04-16_12-33-07_AM-1-1024x612.png" alt="Screenshot2016-04-16_12-33-07_AM" width="740" height="442" />
 
 &nbsp;
 
@@ -26,7 +26,7 @@ On the left you have all your iCloud/Gmail groups. In the main pane you have you
 <h2>Scanning Contacts</h2>
 Scanning contacts is relatively simple and fast, depending on how many contacts you have. I have around 850, with about 80-100 duplicates.
 
-<img class="aligncenter size-large wp-image-487" src="http://thatmacnerd.com/wp-content/uploads/2016/04/Screenshot2016-04-17_06-34-10_PM-1-1024x636.png" alt="Screenshot2016-04-17_06-34-10_PM" width="740" height="460" />
+<img class="aligncenter size-large wp-image-487" src="https://thatmacnerd.com/wp-content/uploads/2016/04/Screenshot2016-04-17_06-34-10_PM-1-1024x636.png" alt="Screenshot2016-04-17_06-34-10_PM" width="740" height="460" />
 
 &nbsp;
 <h2>Fixing Contacts</h2>
@@ -36,7 +36,7 @@ Batch merging of duplicate contacts froze the app. I had to force quit the app. 
 
 Merging contacts one by one resulted in deleted contacts as well. Some were missing names, some were missing numbers, some were just flat out deleted. What I needed from the app is to merge the contacts, which it did not do well.
 
-<img class="aligncenter size-large wp-image-485" src="http://thatmacnerd.com/wp-content/uploads/2016/04/Screenshot2016-04-16_12-47-35_AM-1024x815.png" alt="Screenshot2016-04-16_12-47-35_AM" width="740" height="589" />
+<img class="aligncenter size-large wp-image-485" src="https://thatmacnerd.com/wp-content/uploads/2016/04/Screenshot2016-04-16_12-47-35_AM-1024x815.png" alt="Screenshot2016-04-16_12-47-35_AM" width="740" height="589" />
 <h2>Fixing Other Problems</h2>
 As with the other fixes, I lost names, numbers, and other data that could tell me who was who in my contacts. I had to restore from another BusyContacts backup to get my data back. I didn’t try to delete the duplicate as I wouldn't know which one was being deleted. It doesn’t give much control over which one is the right one, or other granular controls.
 <h2>Conclusion</h2>

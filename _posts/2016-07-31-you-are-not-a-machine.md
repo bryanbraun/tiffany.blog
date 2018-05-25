@@ -12,7 +12,7 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-<img class="size-large wp-image-703 aligncenter" src="http://thatmacnerd.com/wp-content/uploads/2016/07/Optimized-machine-1024x682.jpeg" alt="Optimized-machine" width="620" height="413" />
+<img class="size-large wp-image-703 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2016/07/Optimized-machine-1024x682.jpeg" alt="Optimized-machine" width="620" height="413" />
 I am trying to remember this:
 
 You are not a machine.

@@ -15,7 +15,7 @@ categories:
 ---
 &nbsp;
 
-<img class="aligncenter size-full wp-image-514" src="http://thatmacnerd.com/wp-content/uploads/2015/08/hazel-hero.png" alt="hazel-hero" width="412" height="259" />
+<img class="aligncenter size-full wp-image-514" src="https://thatmacnerd.com/wp-content/uploads/2015/08/hazel-hero.png" alt="hazel-hero" width="412" height="259" />
 
 &nbsp;
 
@@ -62,6 +62,6 @@ end tell</code></pre>
 </ol>
 </li>
 </ol>
-Thanks to <a href="http://katiefloyd.com/blog/automatically-ocr-documents-with-hazel-and-pdfpen">Katie Floyd</a> of Mac Power Users for the modified AppleScript. All in all, your setup should look something like this:<a href="http://thatmacnerd.com/wp-content/uploads/2015/08/Screenshot-2015-08-25-3.jpg"><img class="aligncenter wp-image-239 size-large" src="http://thatmacnerd.com/wp-content/uploads/2015/08/Screenshot-2015-08-25-3-1024x749.jpg" alt="Screenshot 2015-08-25-3" width="760" height="556" /></a>
+Thanks to <a href="http://katiefloyd.com/blog/automatically-ocr-documents-with-hazel-and-pdfpen">Katie Floyd</a> of Mac Power Users for the modified AppleScript. All in all, your setup should look something like this:<a href="https://thatmacnerd.com/wp-content/uploads/2015/08/Screenshot-2015-08-25-3.jpg"><img class="aligncenter wp-image-239 size-large" src="https://thatmacnerd.com/wp-content/uploads/2015/08/Screenshot-2015-08-25-3-1024x749.jpg" alt="Screenshot 2015-08-25-3" width="760" height="556" /></a>
 
 &nbsp;

@@ -12,7 +12,7 @@ tags: [ ]
 categories:
   - App Review
 ---
-<img class="aligncenter size-large wp-image-337" src="http://thatmacnerd.com/wp-content/uploads/2016/01/todoist-new-logo-red-1024x667.png" alt="todoist-new-logo-red.png" width="620" height="404" />
+<img class="aligncenter size-large wp-image-337" src="https://thatmacnerd.com/wp-content/uploads/2016/01/todoist-new-logo-red-1024x667.png" alt="todoist-new-logo-red.png" width="620" height="404" />
 
 &nbsp;
 
