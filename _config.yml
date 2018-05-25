@@ -43,6 +43,9 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-cloudinary
+  - jekyll-sitemap
+  - jekyll-algolia
 feed:
   path: atom.xml
 
@@ -50,9 +53,16 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-algolia
+cloudinary:
+  cloud_name: thatmacnerd
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 50rem) 50rem, 90vw"
+
 # Exclude from processing.
 exclude:
   - .asset-cache
