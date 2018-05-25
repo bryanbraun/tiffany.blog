@@ -16,8 +16,8 @@
 lang: en-US
 title: "That Mac Nerd"
 email: "hello@thatmacnerd.com"
-description: "A Blog About Apple, Workflows, and Other"
-baseurl: # the optional subpath of your site, e.g. "/blog"
+description: "A Blog About Apple, Workflows, and Other Interesting Bits"
+baseurl:
 url: "https://thatmacnerd.com"
 author:
   name: "That Mac Nerd"
