@@ -1,14 +1,7 @@
 ---
-ID: 114
-post_title: 'New Screencast App Review: Contacts &#038; Calendars'
-post_name: >
-  new-screencast-app-review-contacts-calendars
-author: Tiffany White
-post_date: 2015-03-18 22:19:59
-layout: post
-link: >
-  https://thatmacnerd.com/new-screencast-app-review-contacts-calendars/
-published: true
+title: "New Screencast App Review: Contacts & Calendars"
+excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
+last_modified_at: 2015-03-18
 tags:
   - BusyCal
   - BusyContacts
