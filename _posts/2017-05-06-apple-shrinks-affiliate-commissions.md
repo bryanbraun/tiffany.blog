@@ -1,7 +1,7 @@
 ---
 ID: 1231
 post_title: 'Apple Shrinks Affiliate Commissions to 2.5%'
-post_name: apple-shrinks-affiliate-commissions
+# apple-shrinks-affiliate-commissions
 author: Tiffany White
 post_date: 2017-05-06 01:23:44
 post_excerpt: |

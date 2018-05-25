@@ -1,7 +1,7 @@
 ---
 ID: 1109
 post_title: GTD Resources
-post_name: gtd-resources
+# gtd-resources
 author: Tiffany White
 post_date: 2017-04-16 02:20:47
 layout: page

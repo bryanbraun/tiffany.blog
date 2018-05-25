@@ -1,7 +1,7 @@
 ---
 ID: 170
 post_title: Trello for Project Management
-post_name: trello-for-project-management
+# trello-for-project-management
 author: Tiffany White
 post_date: 2015-05-30 02:10:12
 layout: post

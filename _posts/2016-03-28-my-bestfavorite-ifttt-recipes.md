@@ -1,7 +1,7 @@
 ---
 ID: 418
 post_title: My Best/Favorite IFTTT Recipes
-post_name: my-bestfavorite-ifttt-recipes
+# my-bestfavorite-ifttt-recipes
 author: Tiffany White
 post_date: 2016-03-28 01:18:02
 layout: post

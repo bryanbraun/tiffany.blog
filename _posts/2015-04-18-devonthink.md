@@ -1,7 +1,7 @@
 ---
 ID: 142
 post_title: DEVONthink
-post_name: devonthink
+# devonthink
 author: Tiffany White
 post_date: 2015-04-18 17:33:07
 layout: post

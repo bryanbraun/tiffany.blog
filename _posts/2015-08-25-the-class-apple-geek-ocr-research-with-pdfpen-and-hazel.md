@@ -1,8 +1,6 @@
 ---
 ID: 237
 post_title: OCR Research with PDFPen and Hazel
-post_name: >
-  the-class-apple-geek-ocr-research-with-pdfpen-and-hazel
 author: Tiffany White
 post_date: 2015-08-25 23:25:47
 layout: post

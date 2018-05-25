@@ -1,7 +1,7 @@
 ---
 ID: 361
 post_title: The GTD Bookshelf
-post_name: gtd-bookshelf
+# gtd-bookshelf
 author: Tiffany White
 post_date: 2016-03-04 04:52:50
 layout: page

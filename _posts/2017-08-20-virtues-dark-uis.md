@@ -1,7 +1,7 @@
 ---
 ID: 2209
 post_title: On the Virtues of Dark UIs
-post_name: virtues-dark-uis
+# virtues-dark-uis
 author: Tiffany White
 post_date: 2017-08-20 19:40:52
 post_excerpt: >

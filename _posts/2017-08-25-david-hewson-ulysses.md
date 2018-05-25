@@ -3,7 +3,7 @@ ID: 2248
 post_title: >
   David Hewson on Ulysses Subscription
   Model
-post_name: david-hewson-ulysses
+# david-hewson-ulysses
 author: Tiffany White
 post_date: 2017-08-25 11:30:31
 post_excerpt: >

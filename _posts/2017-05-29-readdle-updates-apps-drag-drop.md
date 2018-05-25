@@ -1,7 +1,7 @@
 ---
 ID: 1367
 post_title: Readdle Updates Apps with Drag and Drop
-post_name: readdle-updates-apps-drag-drop
+# readdle-updates-apps-drag-drop
 author: Tiffany White
 post_date: 2017-05-29 20:07:41
 post_excerpt: |

@@ -1,7 +1,7 @@
 ---
 ID: 350
 post_title: About
-post_name: about
+# about
 author: Tiffany White
 post_date: 2014-12-13 06:29:27
 layout: page

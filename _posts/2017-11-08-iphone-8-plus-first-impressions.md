@@ -1,7 +1,7 @@
 ---
 ID: 2421
 post_title: 'iPhone 8 Plus: First Impressions'
-post_name: iphone-8-plus-first-impressions
+# iphone-8-plus-first-impressions
 author: Tiffany White
 post_date: 2017-11-08 11:30:41
 post_excerpt: >

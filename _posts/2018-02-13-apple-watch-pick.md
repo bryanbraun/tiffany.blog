@@ -1,7 +1,7 @@
 ---
 ID: 2611
 post_title: 'Apple Watch: Pick of the Month'
-post_name: apple-watch-pick
+# apple-watch-pick
 author: Tiffany White
 post_date: 2018-02-13 11:30:46
 post_excerpt: >

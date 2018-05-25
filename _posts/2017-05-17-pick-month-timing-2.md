@@ -1,7 +1,7 @@
 ---
 ID: 1314
 post_title: 'Pick of the Month: Timing 2'
-post_name: pick-month-timing-2
+# pick-month-timing-2
 author: Tiffany White
 post_date: 2017-05-17 10:30:43
 post_excerpt: |

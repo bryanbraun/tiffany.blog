@@ -3,7 +3,7 @@ ID: 2927
 post_title: >
   Google Offering Material Design for iOS
   Apps
-post_name: material-design-ios
+# material-design-ios
 author: Tiffany White
 post_date: 2018-05-09 22:12:07
 post_excerpt: >

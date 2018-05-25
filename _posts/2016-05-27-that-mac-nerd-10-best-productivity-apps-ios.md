@@ -1,8 +1,6 @@
 ---
 ID: 561
 post_title: 'That Mac Nerd: 10 Best Productivity Apps for iOS'
-post_name: >
-  that-mac-nerd-10-best-productivity-apps-ios
 author: Tiffany White
 post_date: 2016-05-27 02:41:36
 layout: post

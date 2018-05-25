@@ -1,7 +1,7 @@
 ---
 ID: 699
 post_title: You Are Not A Machine
-post_name: you-are-not-a-machine
+# you-are-not-a-machine
 author: Tiffany White
 post_date: 2016-07-31 01:18:24
 layout: post

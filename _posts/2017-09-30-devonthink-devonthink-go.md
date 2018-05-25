@@ -1,7 +1,7 @@
 ---
 ID: 2317
 post_title: 'DEVONthink &#038; DEVONthink to Go: Dynamic Duo'
-post_name: devonthink-devonthink-go
+# devonthink-devonthink-go
 author: Tiffany White
 post_date: 2017-09-30 20:51:48
 post_excerpt: >

@@ -1,7 +1,7 @@
 ---
 ID: 2154
 post_title: 'iOS 11 Public Beta: First Impressions'
-post_name: ios-11-public-beta-first-impressions
+# ios-11-public-beta-first-impressions
 author: Tiffany White
 post_date: 2017-07-19 23:01:04
 post_excerpt: >

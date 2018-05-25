@@ -1,7 +1,7 @@
 ---
 ID: 798
 post_title: 'macOS Sierra: Siri for Mac Is Practically Worthless'
-post_name: siri-for-mac-practically-worthless
+# siri-for-mac-practically-worthless
 author: Tiffany White
 post_date: 2016-10-28 00:48:32
 layout: post

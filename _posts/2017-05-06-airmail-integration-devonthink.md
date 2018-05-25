@@ -3,7 +3,7 @@ ID: 1236
 post_title: >
   Airmail Gets Deeper Integration with
   DEVONthink
-post_name: airmail-integration-devonthink
+# airmail-integration-devonthink
 author: Tiffany White
 post_date: 2017-05-06 01:22:13
 post_excerpt: >

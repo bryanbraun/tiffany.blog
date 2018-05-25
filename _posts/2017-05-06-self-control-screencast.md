@@ -1,7 +1,7 @@
 ---
 ID: 81
 post_title: Self-Control Screencast
-post_name: self-control-screencast
+# self-control-screencast
 author: Tiffany White
 post_date: 2017-05-06 01:23:45
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1295
 post_title: 'App Spotlight: Calibre 3 Beta Now With Retina'
-post_name: app-spotlight-calibre-3-beta
+# app-spotlight-calibre-3-beta
 author: Tiffany White
 post_date: 2017-05-16 21:08:53
 post_excerpt: |

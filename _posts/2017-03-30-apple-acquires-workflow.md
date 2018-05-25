@@ -3,7 +3,7 @@ ID: 1059
 post_title: >
   Apple Acquires Powerful Automation App
   Workflow
-post_name: apple-acquires-workflow
+# apple-acquires-workflow
 author: Tiffany White
 post_date: 2017-03-30 20:39:45
 post_excerpt: >

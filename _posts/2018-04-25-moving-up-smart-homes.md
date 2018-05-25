@@ -1,7 +1,7 @@
 ---
 ID: 2919
 post_title: On Moving on Up and Smart Homes
-post_name: moving-up-smart-homes
+# moving-up-smart-homes
 author: Tiffany White
 post_date: 2018-04-25 05:30:17
 post_excerpt: "I'm sure that you've seen that I haven't posted here for a couple months. In between my internship ending and the abrupt ending of my lease, I have had a pretty stressful couple of months."
