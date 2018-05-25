@@ -18,7 +18,7 @@ title: "That Mac Nerd"
 email: "hello@thatmacnerd.com"
 description: "A Blog About Apple, Workflows, and Other"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://thatmacnerd.com"
 author:
   name: "That Mac Nerd"
   twitter: "ThatMacNerd"
@@ -35,6 +35,13 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
+# Comments
+comments: true
+
+# Disqus
+disqus:
+  shortname: thatmacnerd
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
@@ -45,10 +52,6 @@ plugins: # previsously gems
   - jekyll-paginate
 feed:
   path: atom.xml
-
-# Disqus
-disqus:
-  shortname: thatmacnerd
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
