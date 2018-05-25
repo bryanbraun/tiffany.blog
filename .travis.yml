@@ -17,8 +17,9 @@ branches:
 
 deploy:
   provider: surge
-  project: ./_site/
-  domain: https://thatmacnerd.com
+  project: ./_site
+  skip_cleanup: true
+
 
 env:
   global:
