@@ -4,7 +4,10 @@
       {% if site.copyright %}
         {{ site.copyright | markdownify }}
       {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+        <p style="text-align: center;">
+          &copy; 2015 - {{ site.time | date: '%Y' }} {{ site.title }}.
+           Made with ❤️ in Pittsburgh
+        </p>
       {% endif %}
     </div>
   </div>
