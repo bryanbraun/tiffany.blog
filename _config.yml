@@ -53,6 +53,7 @@ feed:
 paginate: 10
 paginate_path: /page:num/
 
+
 cloudinary:
   cloud_name: thatmacnerd
   presets:

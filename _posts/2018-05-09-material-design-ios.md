@@ -21,6 +21,7 @@ tags:
   - material design
 categories:
   - News
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1528942561/ios-documents-trying-components-2x1-large.png
 ---
 *[From Google’s Material Design for iOS FAQ](https://material.io/develop/ios/docs/faq/)*:
 <blockquote><strong>We don’t want our iOS app to stand out as looking like a Google app.</strong></blockquote>
