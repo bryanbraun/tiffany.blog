@@ -8,6 +8,7 @@ post_excerpt: >
   I have finally gotten my hands on an
   iPhone 8 Plus.
 layout: post
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1527286131/iPhone_8_Plus.jpg
 link: >
   https://thatmacnerd.com/iphone-8-plus-first-impressions/
 published: true
@@ -23,9 +24,8 @@ categories:
 
 I have finally gotten my hands on an iPhone 8 Plus.
 
-[masterslider id="4"]
+<img src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286123/IMG_0009-min.jpg" class="align-center" />
 
-&nbsp;
 
 Ever since I have had an iPhone [^1], I’ve always had relatively small phones and silver. When I got my 5s, I wanted it in Gold but T-Mobile didn’t have the Gold 64gb in stock. At the time, they only sold the 16gb models in the store. The rep convinced me I didn’t need 64gb, though I wouldn’t get the 64gb, I wouldn’t relent on storage and ended up ordering a 32gb in-store [^2].
 
@@ -40,22 +40,38 @@ I got the 8 Plus Space Gray 256gb model.
 
 Also the Plus models had the better camera since the 6s. It really didn’t matter to me that the phone was so big, I *needed* the better camera as I start to get back into iPhone Photography.
 
-[masterslider id="5"]
+
 
 &nbsp;
 
 ## Lust
 After I realized how beautiful Space Gray was, I started making plans to get an iPhone in Space Gray. I was starting to use dark mode in most of the app UIs I was using, so it only fit that I would want to get a dark phone as well.
 
-[caption id="attachment_2419" align="aligncenter" width="569"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/11/PNG-image-C6C3EE7942B4-1-min.png"><img class="wp-image-2419" src="https://thatmacnerd.com/wp-content/uploads/2017/11/PNG-image-C6C3EE7942B4-1-min.png" alt="Text editors and Working Copy, a full-featured Git client" width="569" height="376" /></a> Text editors and Working Copy, a full-featured Git client[/caption]
+<figure>
+    <img src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286136/PNG_image-C6C3EE7942B4-1.png" class="align-center" />
+    <figcaption>
+      Text editors and Working Copy, a full-featured Git client
+    </figcaption>
+</figure>
+
 
 You just have to look at the above photos to see how beautiful that is.
 
-[caption id="attachment_2417" align="aligncenter" width="389"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/11/PNG-image-85F891BF8B42-1-min.png"><img class="wp-image-2417" src="https://thatmacnerd.com/wp-content/uploads/2017/11/PNG-image-85F891BF8B42-1-min.png" alt="Tweetbot and a BBS forum Mobileread in Tapatalk Pro" width="389" height="388" /></a> Tweetbot and a BBS forum Mobileread in Tapatalk Pro[/caption]
+<figure>
+    <img src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286136/PNG_image-85F891BF8B42-1.png" class="align-center" />
+    <figcaption>
+      Tweetbot and a BBS forum Mobileread in Tapatalk Pro  
+  </figcaption>
+</figure>
 
 Since I bought the original Overcast, I have unlocked the dark UI and Spotify has almost always had a dark UI. I’m in love.
 
-[caption id="attachment_2418" align="aligncenter" width="389"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/11/PNG-image-FE6745E5C3CA-1-min.png"><img class="wp-image-2418" src="https://thatmacnerd.com/wp-content/uploads/2017/11/PNG-image-FE6745E5C3CA-1-min.png" alt="" width="389" height="381" /></a> Spotify and Overcast[/caption]
+<figure>
+    <img src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286131/PNG_image-FE6745E5C3CA-1-min.png" class="align-center" />
+    <figcaption>
+      Spotify and Overcast
+    </figcaption>
+</figure>
 
 ## Functionality
 It may not be the X, but this phone is damn *fast*. Much faster than my 6s [^3].

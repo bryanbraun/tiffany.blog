@@ -26,7 +26,7 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "PT Sans"
+  - name: "Source Sans Pro"
     weights: "400,400i,600,600i"
 
 # Link to specific internal pages in the navigation.
@@ -36,3 +36,6 @@ google_fonts:
 navigation_pages:
   - about.md
   - cv.md
+  - gtd-bookshelf.md
+  - gtd-toolkit.md
+  - archive.md

@@ -18,6 +18,7 @@ tags:
   - reviews
 categories:
   - Headphone Reviews
+image: https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_1900/v1527286203/opt_woman_headphones.jpg
 ---
 I am writing this article as the year comes to a close. While it has been a trying year for the world and US in particular, it has been a great year professionally for me as I got an internship in the hopes of landing a junior developer job with the company or some other company.
 
@@ -45,7 +46,7 @@ Let’s take a look at MSR7s.
 
 Depending on the way you place them on your ears, the MSR7s have comfortable ear cups that don’t hurt after a few hours of use. However, this depends on the size of your ears. In my testing, the bottom of the cups press against my ear lobes after long usage and start to hurt. I have been wearing them for the past 7 hours and they are beginning to become uncomfortable.
 
-<img class="wp-image-2566 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2018/01/IMG_0467.jpg" width="837" height="648">
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_1464/v1527286204/IMG_0467.jpg" />
 
 The cups are made of faux leather and are pretty soft. I have had the headphones for a little over a week now. Will report back in a few months time as to how they have held up.
 
@@ -55,15 +56,28 @@ They are light on your head and fit tightly, which is something I need as headph
 
 These are gorgeous headphones. They aren’t overly bulky like the M50s, also by Audio Technica.
 
-[caption id="attachment_2567" align="aligncenter" width="770"]<img class="alignnone wp-image-2567" src="https://thatmacnerd.com/wp-content/uploads/2018/01/IMG_0394.jpg" alt="Audio Technic M50s" width="770" height="577"> Audio Technica M50s[/caption]
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_1573/v1529804650/IMG_0414.jpg" />
+    <figcaption style="text-align: center">
+      Audio Technica M50s
+    </figcaption>
+</figure>
 
 They also have a removable cord that hooks into the left ear cup, which makes the life of the cord longer as if you pull on it or get it caught on something by accident, it will disconnect.
 
 The cups have a blue accent on them that give them personality.
-<img class=" wp-image-2569 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2018/01/IMG_0459.jpg" width="415" height="553">
+
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_489/v1527286181/IMG_0459.jpg" />
+
 I really wanted the Gun Metal Grey version of these as they look so much better; the brown color and red cup accent are quite beautiful.
 
-[caption id="attachment_2568" align="aligncenter" width="500"]<img class="alignnone size-full wp-image-2568" src="https://thatmacnerd.com/wp-content/uploads/2018/01/gun_metal.jpg" alt="The [Audio-Technia MSR7GM, Gun Metal Gray](http://www.amazon.com/dp/product/B00PEUBIKM/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=thatmacnerd-20)" width="500" height="500"> The <a href="http://www.amazon.com/dp/product/B00PEUBIKM/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=thatmacnerd-20">Audio-Technia MSR7GM, Gun Metal Gray</a>[/caption]&nbsp;
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286099/gun_metal.jpg" />
+    <figcaption style="text-align: center">
+      Audio-Technia MSR7GM, Gun Metal Gray
+    </figcaption>
+</figure>
+
 <h3>Portability</h3>
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #e0e019; color: #ffffff;">Okay</a>
 You can certainly wear these out on your commute; they are light enough and small enough to do so. But for long commutes, it could be a struggle as the longer you wear them, the more they begin to fatigue your ears and hurt.
