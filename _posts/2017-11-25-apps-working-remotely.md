@@ -29,7 +29,7 @@ It has only been a week but I am finding I am starting to get into a rhythm.
 Here are some of the apps I am using to stay productive while working from home.
 
 ## HoursTracker: The Time Card App We Deserve
-<img class="wp-image-2481 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/Image-4-1.jpeg" width="506" height="492" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_1142/v1529807259/IMG_2225.jpg" />
 
 There are a few time tracking apps in the App Store. There are apps such as [Hours](https://itunes.apple.com/us/app/hours-time-tracking/id895933956?mt=8&amp;at=+1001lnT5&amp;ct=That+Mac+Nerd+iOS) and [Toggl](https://itunes.apple.com/us/app/toggl-work-time-tracker/id885767775?mt=8&amp;at=+1001lnT5&amp;ct=That+Mac+Nerd+iOS) but none of these apps are really *time card* apps. These apps are geared towards freelancers tracking just hours.
 
@@ -42,20 +42,21 @@ I remembered I had a few time trackers and found [HoursTracker](https://itunes.a
 ### Basic Functions of HoursTracker
 
 You can use the three + in the top of the app to set up a job, and from there you can add your information, such as your hourly rate, taxes, and the like.
-<img class=" wp-image-2482 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/Image-1.png" width="348" height="618" />
+
 From the main jobs screen, you can edit your job by tapping the three button menu at the top.
-<img class="wp-image-2476 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/Image-5-4.jpeg" width="572" height="499" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_370/v1529807625/IMG_2227.jpg" />
 
 From the job details screen, you can clock in and out.
 
-https://vimeo.com/244423567
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/244423567" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/244423567">HoursTracker: Breaks and Clocking In and Out</a> from <a href="https://vimeo.com/trwhitesmac">Tiffany White</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 These are some of my favorite things about this app over others.
 
 <!--nextpage-->
 
 ## Freedom
-<img class="wp-image-2478 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/freedom_mac-4.png" width="788" height="509" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_2254/v1527286167/freedom_mac.png" />
 
 Freedom is a little Mac, iOS, and Windows utility that blocks distracting websites and apps.
 
@@ -63,11 +64,12 @@ I downloaded it for iOS a while ago and while it worked well, sometimes the VPN 
 
 The reason I downloaded it on my Mac was for the ability to block apps. I needed a way to stop opening my text editor and working on issues and features all night long, which isn’t healthy. I’ve blocked the apps I would use to do development, essentially quitting the app right as its launched so I never get to do anything when I am off the clock. I do this on the weekdays, as weekends I can work on side projects if I’d like.
 
-https://vimeo.com/244425069
+<div style="padding:53.23% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/244425069" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/244425069">Freedom on Mac</a> from <a href="https://vimeo.com/trwhitesmac">Tiffany White</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <!--nextpage-->
 <h2>OmniFocus</h2>
-<img class=" wp-image-2475 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/OmniFocus-4.png" width="1086" height="746" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_2103/v1527286194/OmniFocus.png" />
 
 OmniFocus’s first incarnation was a hack on OmniOutliner called Kinkless. It was essentially a bunch of AppleScripts hacked together to give OO a GTD system within the app in 2006.
 
@@ -75,7 +77,10 @@ In 2007, The OmniGroup asked Ethan Schoonover. the creator of the AppleScripts a
 
 The first beta of OmniFocus was released in the summer of 2007, with version 1.0 being released in 2008. Here are a couple screenshots of the app’s first UI:
 
-<img class="size-full wp-image-2480 alignleft" src="https://thatmacnerd.com/wp-content/uploads/2017/11/of_1-1.jpg" width="400" height="296" />  <img class="alignnone wp-image-2483" src="https://thatmacnerd.com/wp-content/uploads/2017/11/omnifocus-reveal-1.png" width="634" height="455" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286191/of_1.jpg" />  
+
+
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286191/omnifocus-reveal.png" />
 
 The beta was sent out to over 5,000 people in 2007. Now The OmniGroup have amassed over 30,000 OmniFocus users from 2007-2014, and the number of new users keeps increasing.
 
@@ -90,16 +95,16 @@ This worked well but I was still not using it the best way I knew I could.
 I discovered [using energy levels as contexts](http://productivityist.com/using-energy-levels-as-contexts/) and decided to give it a shot.
 
 It’s working well for me, however I decided to add other contexts as well, such as *iPhone*, *iPad Pro*, *Work*, and *iMac*.
-<img class="wp-image-2477 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/Screenshot-2017-11-25_07-03-56_PM-4.png" width="1275" height="876" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_2322/v1527286211/Screenshot-2017-11-25_07-05-47_PM.png" />
 
 ### Perspectives
 In my opinion, Perspectives and Defer dates are what sets OmniFocus apart from the competition. No other task managers have these two things, and if they do, they don’t implement them as powerfully as OmniFocus has.
-<img class="wp-image-2479 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/Screenshot-2017-11-25_07-04-52_PM-3.png" width="249" height="828" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286208/Screenshot-2017-11-25_07-04-52_PM.png" />
 
 Perspectives allow you to adjust *just what you want to see at any given time*. If I want to see what work tasks I have for today in a certain project, then I can create a perspective that shows me that.
 
 Here is my **Contexts by Project** perspective.
-<img class=" wp-image-2484 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/Screenshot-2017-11-25_07-06-35_PM-2.png" width="692" height="514" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286214/Screenshot-2017-11-25_07-06-35_PM.png" />
 
 Filtering what you want to see and when is probably the most powerful way to use a task manager and OmniFocus is best in class at this.
 
@@ -108,11 +113,11 @@ I open OmniFocus every morning I wake up and start my day from there.
 <!--nextpage-->
 
 ## Fantastical
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/11/fantastical.png"><img class="aligncenter size-large wp-image-2512" src="https://thatmacnerd.com/wp-content/uploads/2017/11/fantastical-1024x656.png" alt="" width="960" height="615" /></a>
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_2507/v1527286164/fantastical.png" />
 
 I was a long-time BusyCal user. The calendar is powerful and plenty capable, but, it's *ugly* and the iOS counterpart isn't nearly as fleshed out as Fantastical 2.
 
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/11/fantastical_ios.jpeg"><img class="aligncenter wp-image-2513" src="https://thatmacnerd.com/wp-content/uploads/2017/11/fantastical_ios-1024x993.jpeg" alt="" width="516" height="500" /></a>
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_608/v1527286160/fantastical_ios.jpg" />
 
 ### Humble Beginnings
 Fantastical on the Mac started as a menubar app that you could invoke with a keyboard shortcut. It found a lot of fans immediately. I was one of them. With the love it received on the Mac, it wasn't too long before Apple fans wanted it on their iPhones and eventually, iPads.
@@ -125,7 +130,8 @@ Calendar sets allow you to show or hide sets of calendars you have set up. You c
 ### Natural Language Processing
 You can use *natural language processing* to input your appointments and meetings. In fact, Fantastical was the first of app to do this sort of thing when it launched. You enter a name and date like you would say to someone at work and Fantastical parses your text just as if it was a conversation.
 
-https://vimeo.com/244497108
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/244497108" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/244497108">Fantastical NLP</a> from <a href="https://vimeo.com/trwhitesmac">Tiffany White</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Exchange and Calendar Invites
 No calendar worth its salt doesn't have calendar invites. If you are a power user, and most 3rd Party calendar users are just that, than you *need* this feature and Fantastical does an excellent job with this.
@@ -133,18 +139,23 @@ No calendar worth its salt doesn't have calendar invites. If you are a power use
 ### Time Zones
 Along the main calendar window on the Mac, you can have another timezone available in case you are working with a team in another timezone. My team is in New York and I am in Pittsburgh so I don't have to rely on this. If I did, I know it is rock solid.
 
-<!--nextpage-->
+---
 
 ## BeFocused Pro
 This is one of the ways I use the pomodoro technique. I have it on my iPhone and Mac but mainly use it on my Mac as that is where I am working most of the day.
 
-[caption id="attachment_2474" align="aligncenter" width="747"]<img class="alignnone wp-image-2474" src="https://thatmacnerd.com/wp-content/uploads/2017/11/befocused_pro-4.jpeg" alt="BeFocused Pro on iPhone" width="747" height="477" /> BeFocused Pro on iPhone[/caption]
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_1714/v1527286150/befocused_pro.jpg" />
+    <figcaption style="text-align: center">
+      BeFocused Pro on iPhone
+    </figcaption>
+</figure>
 
 There’s not much to say about it. The Pro version gives you detailed reports and sync which is what I needed. It’s $4.99 on all platforms.
 
 ## Slack
 You’ve heard of it. Nerds have communities in it. But it started as an app for small teams.
-<img class="wp-image-2473 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/11/slack-5.png" width="880" height="587" />
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_1912/v1527286215/slack.png" />
 
 We use Slack almost exclusively for communication. Even our sprints and meetings are in Slack.
 
@@ -157,8 +168,6 @@ I need to get out and get more exercise, find a co-working space, just to get ou
 
 But yeah. The tools are nice, too.
 
-https://vimeo.com/244496132
+<div style="padding:56.39% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/244496132" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/244496132">New Keyboard from Work</a> from <a href="https://vimeo.com/trwhitesmac">Tiffany White</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-&nbsp;
-
-&nbsp;
