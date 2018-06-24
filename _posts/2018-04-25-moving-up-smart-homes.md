@@ -17,7 +17,7 @@ tags:
   - smart lights
 categories:
   - Random Thoughts
-image: https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_3463/v1529646147/IMG_2632.jpg
+image: https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_3191/v1529811469/IMG_2127_edited.jpg
 ---
 I'm sure that you've seen that I haven't posted here for a couple of months.
 
