@@ -87,7 +87,8 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
-
+disqus:
+  shortname: thatmacnerd
 # Front Matter Defaults
 defaults:
   # _posts
@@ -98,5 +99,3 @@ defaults:
       layout: post
       read_time: true
       comments: true
-      disqus:
-        shortname: thatmacnerd
