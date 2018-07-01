@@ -1,6 +1,6 @@
 ---
 title: Task Management
-date: 2018-06-28 03:05
+date: 2018-06-30 23.52.54
 excerpt: The task management do si do is in full swing at Casa de White.
 comments: true
 author: Tiffany White
