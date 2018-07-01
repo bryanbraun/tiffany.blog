@@ -29,7 +29,9 @@ I am also a football fan though I am trying to cut back on how much I watch as I
 
 I found a few playlists that cater to tailgating. The first one was a country playlist but I can’t stand country music so I went searching for a hip-hop or rock playlist and I found this one, a rock one, with some classics and some new ones.
 
-https://open.spotify.com/embed/user/spotify/playlist/37i9dQZF1DXauOWFg72pbl
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://open.spotify.com/embed?uri=spotify%3Auser%3Aspotify%3Aplaylist%3A37i9dQZF1DXauOWFg72pbl" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
 
 &nbsp;
 

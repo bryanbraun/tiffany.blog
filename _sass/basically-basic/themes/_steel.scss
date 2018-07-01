@@ -6,10 +6,17 @@
 $base-color: #3a4750 !default;
 $text-color: #303841 !default;
 $accent-color: #d72323 !default;
-$background-color: #eee !default;
+$background-color: #fff !default;
 $code-background-color: #fff !default;
 $border-color: rgba($text-color, 0.25) !default;
 $overlay-color: #fff !default;
+
+.lines {
+  line-height: .8px;
+}
+.lines2 {
+  line-height: .3px;
+}
 
 /* Syntax highlighting (base16) colors */
 $base00: #1d1f21 !default;
