@@ -18,7 +18,7 @@ tags:
   - reviews
 categories:
   - Headphone Reviews
-image: https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_2856/v1527286167/cans.jpg
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1531446720/IMG_3124.jpg
 ---
 I am writing this article as the year comes to a close. While it has been a trying year for the world and US in particular, it has been a great year professionally for me as I got an internship in the hopes of landing a junior developer job with the company or some other company.
 
