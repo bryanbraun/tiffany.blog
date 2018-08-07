@@ -64,6 +64,9 @@ cloudinary:
       steps: 5
       sizes: "(min-width: 50rem) 50rem, 90vw"
 
+# Google Analytics
+google_analytics: UA-74642295-1
+
 # Exclude from processing.
 exclude:
   - .asset-cache

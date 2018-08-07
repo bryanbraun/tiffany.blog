@@ -16,8 +16,8 @@ tags:
   - App Store
 categories:
   - News
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1533602676/itunes.jpg
 ---
-<img class="alignnone size-full wp-image-1230" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-4-25-17-6-18-AM.jpeg" width="1280" height="905">
 
 Apple has shrunk its Affiliate Program commission from 7% to 2.5%.
 
@@ -27,7 +27,7 @@ But even so, it it's a move that's going to hurt many indie Apple bloggers who r
 
 As Brett Terpstra [writes](http://brettterpstra.com/2017/04/24/killing-the-itunes-affiliate/):
 
-&gt; Most people don’t make significant income off affiliate linking...But there are many sites whose business model is built on affiliate linking, in part or in whole. And it works. Well, it used to. I’m guessing some sites you read are going to be showing you a few more ads. Some may shut down completely. I won’t be one of them, but I’ll be going out to eat less often until I replace the revenue.
+> Most people don’t make significant income off affiliate linking...But there are many sites whose business model is built on affiliate linking, in part or in whole. And it works. Well, it used to. I’m guessing some sites you read are going to be showing you a few more ads. Some may shut down completely. I won’t be one of them, but I’ll be going out to eat less often until I replace the revenue.
 
 Let's hope that guys like Brett and sites like MacStories continue to find ways to make their bacon [^3] doing what they love.
 
