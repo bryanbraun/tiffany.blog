@@ -1,16 +1,18 @@
 <footer id="footer" class="site-footer">
   <div class="inner">
     <div class="copyright">
-      {% if site.copyright %}
-        {{ site.copyright | markdownify }}
-      {% else %}
-        <p class="lines" style="text-align: center;">
-          &copy; 2015 - {{ site.time | date: '%Y' }} {{ site.title }}
-          <p class="lines2" style="text-align: center;">Design by <a href="https://mmistakes.github.io/jekyll-theme-basically-basic/">mmistakes</a> | Hosted on <a href="https://surge.sh">Surge.sh</a></p>
-          <p class="lines" style="text-align: center;">Made with ❤️ in Pittsburgh</p>
-          <p class="lines2" style="text-align: center;">v.5.0</p>
-          <img class="align-center lines2" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1530338714/command-symbol_2.svg" alt="">
+      {% if site.copyright %} {{ site.copyright | markdownify }} {% else %}
+      <p class="lines" style="text-align: center;">
+        &copy; 2015 - {{ site.time | date: '%Y' }} {{ site.title }}
+        <p class="lines2" style="text-align: center;">Design by
+          <a href="https://mmistakes.github.io/jekyll-theme-basically-basic/">mmistakes</a> | Hosted on
+          <a href="https://www.netlify.com/">Netlify</a>
         </p>
+        <p class="lines" style="text-align: center;">Made with ❤️ in Pittsburgh</p>
+        <p class="lines2" style="text-align: center;">v.5.0</p>
+        <img class="align-center lines2" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1530338714/command-symbol_2.svg"
+          alt="">
+      </p>
       {% endif %}
     </div>
   </div>
