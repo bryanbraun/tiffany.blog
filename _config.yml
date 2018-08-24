@@ -20,9 +20,9 @@ description: "A Blog About Apple, Workflows, and Other Interesting Bits"
 baseurl:
 url: "https://thatmacnerd.com"
 author:
-  name: "That Mac Nerd"
-  twitter: "ThatMacNerd"
-  picture:
+  name: "Tiffany White"
+  twitter: "TiffanyW_412"
+  picture: "https://res.cloudinary.com/twhiteblog/image/upload/v1535078967/profile2_tsiewu.png"
 twitter_username: "ThatMacNerd"
 github_username:
 logo: "/assets/images/TMN.png"
