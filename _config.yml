@@ -103,3 +103,4 @@ defaults:
       read_time: true
       comments: true
       permalink: /:title/
+
