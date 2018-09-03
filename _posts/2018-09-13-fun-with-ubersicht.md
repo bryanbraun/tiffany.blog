@@ -1,10 +1,14 @@
 ---
 title: Fun with Übersicht Widgets
 date: 2018-09-02 18:58
-excerpt:
+excerpt: I am a nerd. I am sure everyone who reads this blog is a nerd of some sort. As such, I traipse around the internet looking for Mac setups and desktop screenshots.
 layout: post
 categories:
+  - The Apple Experience
 tags:
+  - übersicht
+  - widgets
+  - desktops
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1535928990/Header%20Images/%C3%9Cbersicht%20Widget%20Post/U%CC%88bersicht.png
 description:
 ---
