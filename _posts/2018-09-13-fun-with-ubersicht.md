@@ -10,7 +10,7 @@ tags:
   - widgets
   - desktops
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1535928990/Header%20Images/%C3%9Cbersicht%20Widget%20Post/U%CC%88bersicht.png
-description:
+description: Übersicht widgets are pretty much the coup de grâce of desktop widgets.
 ---
 
 I am a nerd. I am sure everyone who reads this blog[^1] is a nerd of some sort.
