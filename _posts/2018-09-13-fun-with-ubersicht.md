@@ -39,14 +39,14 @@ What do my desktops look like?
 <figure>
     <img src="https://res.cloudinary.com/thatmacnerd/image/upload/v1535927580/Fun%20with%20%C3%9Cbersicht%20Widgets%20Post/Screenshot-2018-08-24_08-37-07_PM.png" />
     <figcaption>
-       Main 5K iMac desktop
+       LG 4K monitor desktop
     </figcaption>
 </figure>
 
 <figure>
     <img src="https://res.cloudinary.com/thatmacnerd/image/upload/v1535927580/Fun%20with%20%C3%9Cbersicht%20Widgets%20Post/Screenshot-2018-08-24_08-37-33_PM.png" />
     <figcaption>
-       LG 4K monitor desktop
+       Main 5K iMac desktop
     </figcaption>
 </figure>
 
