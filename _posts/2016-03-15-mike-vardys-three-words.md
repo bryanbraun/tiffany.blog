@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/mike-vardys-three-words/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Uncategorized
 ---

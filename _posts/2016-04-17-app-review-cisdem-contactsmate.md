@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/app-review-cisdem-contactsmate/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - App Review
 ---

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/todoist-screencast/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - App Review
 ---

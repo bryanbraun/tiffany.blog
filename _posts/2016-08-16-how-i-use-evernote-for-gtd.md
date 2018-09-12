@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/how-i-use-evernote-for-gtd/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Uncategorized
 ---

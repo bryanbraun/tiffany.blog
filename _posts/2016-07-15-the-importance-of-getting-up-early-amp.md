@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/the-importance-of-getting-up-early-amp/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Uncategorized
 ---

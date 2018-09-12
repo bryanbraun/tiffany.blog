@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/digital-minimalism/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Uncategorized
 ---

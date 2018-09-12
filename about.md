@@ -7,7 +7,7 @@ post_date: 2014-12-13 06:29:27
 layout: page
 link: https://thatmacnerd.com/about/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 permalink: /about/
 ---

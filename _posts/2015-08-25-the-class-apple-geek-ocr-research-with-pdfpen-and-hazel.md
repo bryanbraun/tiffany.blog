@@ -7,7 +7,7 @@ layout: post
 link: >
   https://thatmacnerd.com/the-class-apple-geek-ocr-research-with-pdfpen-and-hazel/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Mac Automation
 ---
