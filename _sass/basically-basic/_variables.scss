@@ -53,6 +53,12 @@ $base-color: #393e46 !default;
 $text-color: #222831 !default;
 $accent-color: #D72323 !default;
 
+$primary-color: #00638a;
+$success-color: #40c057;
+$warning-color: #fcc419;
+$danger-color: #f03e3e;
+$info-color: #1c7cd6;
+
 $background-color: white !default;
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;

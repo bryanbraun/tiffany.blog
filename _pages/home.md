@@ -7,6 +7,6 @@ post_date: 2014-12-13 07:56:52
 layout: page
 link: https://thatmacnerd.com/home/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---

@@ -12,7 +12,7 @@ post_excerpt: >
 layout: post
 link: https://thatmacnerd.com/im-still-here/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - News
 ---

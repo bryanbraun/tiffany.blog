@@ -20,9 +20,9 @@ description: "A Blog About Apple, Workflows, and Other Interesting Bits"
 baseurl:
 url: "https://thatmacnerd.com"
 author:
-  name: "That Mac Nerd"
-  twitter: "ThatMacNerd"
-  picture:
+  name: "Tiffany White"
+  twitter: "TiffanyW_412"
+  picture: "https://res.cloudinary.com/twhiteblog/image/upload/v1535078967/profile2_tsiewu.png"
 twitter_username: "ThatMacNerd"
 github_username:
 logo: "/assets/images/TMN.png"
@@ -64,6 +64,9 @@ cloudinary:
       steps: 5
       sizes: "(min-width: 50rem) 50rem, 90vw"
 
+# Google Analytics
+google_analytics: UA-74642295-1
+
 # Exclude from processing.
 exclude:
   - .asset-cache
@@ -87,8 +90,8 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
-disqus:
-  shortname: thatmacnerd
+# disqus:
+#   shortname: thatmacnerd
 # Front Matter Defaults
 defaults:
   # _posts
@@ -100,3 +103,4 @@ defaults:
       read_time: true
       comments: true
       permalink: /:title/
+

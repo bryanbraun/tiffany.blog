@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/my-bestfavorite-ifttt-recipes/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Uncategorized
 ---

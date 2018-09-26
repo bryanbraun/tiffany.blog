@@ -8,7 +8,7 @@ layout: post
 link: >
   https://thatmacnerd.com/you-are-not-a-machine/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Uncategorized
 ---

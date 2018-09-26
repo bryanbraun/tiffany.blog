@@ -34,8 +34,9 @@ I decided after a lot of research to give Things 3 a go. And I haven't been disa
 
 The main two sections in Things are *Inbox* and *Today*. This is where I spend most of my time. I add things to the Inbox by way of [Drafts](http://getdrafts.com/) or by dragging and dropping the `+` button onto the inbox:
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/277453846" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://player.vimeo.com/video/277453846?color=d72323" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <!-- <figure>
     
     <figcaption style="text-align: center">
@@ -75,7 +76,9 @@ Working with Projects in Things is a simple concept. You can have single project
 <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1530316652/IMG_0646.png" />
 
 Much like adding a todo, you can add a project in Things by dragging and dropping:
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/277453869" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://player.vimeo.com/video/277453869?color=d72323" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 You can also just tap the `+` button in the bottom right corner to add a new *Project*, *Area* or *To-Do*.
 
@@ -92,7 +95,9 @@ Much like Todoist, you can add what Things calls *tags* and what Todoist calls *
 
 I found the gestures for Things to be best-in-class as evidenced by the screencast below. Simply swipe left on a task to reveal a set of radio buttons and swipe down on those radio buttons to select. Genius.
 
-<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/277501555" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://player.vimeo.com/video/277501555?color=d72323" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 ## The Apple Watch
 

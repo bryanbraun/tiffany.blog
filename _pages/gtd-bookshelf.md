@@ -7,7 +7,7 @@ post_date: 2016-03-04 04:52:50
 layout: page
 link: https://thatmacnerd.com/gtd-bookshelf/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 <img class="aligncenter size-full wp-image-813" src="https://thatmacnerd.com/wp-content/uploads/2016/03/dhk_mju83z0-kazuend_shrink.jpg" alt="dhk_mju83z0-kazuend_shrink" width="6000" height="4000">

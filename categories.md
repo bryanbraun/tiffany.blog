@@ -1,5 +1,7 @@
 ---
 title: Posts by Category
 layout: categories
-entries_layout: grid
+permalink: /categories/
+entries_layout: list
+paginate: true
 ---

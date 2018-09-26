@@ -8,7 +8,7 @@ layout: page
 link: >
   https://thatmacnerd.com/rss-for-sections/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 [category_specific_rss_menu]
