@@ -1,7 +1,7 @@
 ---
 title: Broke Down and Bought the New iPhone
 date: 2018-09-29 00.03.50
-excerpt: "I wasn't going to upgrade". Famous last words of technophiles everywhere.
+excerpt: I wasn't going to upgrade. Famous last words of technophiles everywhere.
 layout: post    
 categories: 
   - Pick of the Month
