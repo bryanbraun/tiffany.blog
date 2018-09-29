@@ -1,7 +1,7 @@
 ---
 title: Broke Down and Bought the New iPhone
 date: 2018-09-29 00.03.50
-excerpt:
+excerpt: "I wasn't going to upgrade". Famous last words of technophiles everywhere.
 layout: post    
 categories: 
   - Pick of the Month
@@ -14,8 +14,6 @@ tags:
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1536882969/Header%20Images/Apple%20Event/iphone-xs-max-gold-select-2018.jpg
 description: A person of my means can only upgrade by things like JUMP! or yearly cycle upgrades. Did you get a new device?
 ---
-
-new-iphones
 
 "I wasn't *going* to upgrade". 
 
