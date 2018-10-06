@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-algolia"
   gem 'jekyll-cloudinary'
+  gem 'jekyll-pwa-plugin'
 end
