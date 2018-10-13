@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: Being the early bird can sometimes be beneficial.
 ---
 <img class="alignnone size-large wp-image-654" src="https://thatmacnerd.com/wp-content/uploads/2016/07/Dawn-1024x682.jpeg" alt="Dawn" width="620" height="413" />
 

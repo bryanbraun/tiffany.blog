@@ -4,7 +4,7 @@ title: 'Apple Shrinks Affiliate Commissions to 2.5%'
 # apple-shrinks-affiliate-commissions
 author: Tiffany White
 post_date: 2017-05-06 01:23:44
-post_excerpt: |
+excerpt: >
   Apple has shrunk its Affiliate Program commission from 7% to 2.5%.
   This makes business sense for Apple: Affiliates most likely don't generate the kind of revenue that Apple would like. It also doesn't bring as much traffic to its App Stores.
 layout: post

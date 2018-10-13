@@ -4,7 +4,7 @@ title: 'DEVONthink &#038; DEVONthink to Go: Dynamic Duo'
 # devonthink-devonthink-go
 author: Tiffany White
 post_date: 2017-09-30 20:51:48
-post_excerpt: >
+excerpt: >
   Evernote or DEVONthink Pro Office? This
   is the question I’ve been asking
   myself for several years now.

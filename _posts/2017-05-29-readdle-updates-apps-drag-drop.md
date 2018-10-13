@@ -4,7 +4,7 @@ title: Readdle Updates Apps with Drag and Drop
 # readdle-updates-apps-drag-drop
 author: Tiffany White
 post_date: 2017-05-29 20:07:41
-post_excerpt: |
+excerpt: |
   Readdle, maker of apps like Spark Mail App, Documents+, and PDF Expert, has released v6 of their popular iOS apps.
   
   

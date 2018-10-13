@@ -4,7 +4,7 @@ title: 'App Spotlight: Calibre 3 Beta Now With Retina'
 # app-spotlight-calibre-3-beta
 author: Tiffany White
 post_date: 2017-05-16 21:08:53
-post_excerpt: |
+excerpt: |
   You could never chastise me for not reading enough.
   
   I have been reading since I was three years old.

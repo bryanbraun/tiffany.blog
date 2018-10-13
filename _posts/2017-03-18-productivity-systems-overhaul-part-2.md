@@ -16,6 +16,7 @@ tags:
   - productivity
 categories:
   - Uncategorized
+excerpt: Getting to bed earlier has had a very profound effect on my productivity systems and productivity in general.
 ---
 ## Morning Rituals
 

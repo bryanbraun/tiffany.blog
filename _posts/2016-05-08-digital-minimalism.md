@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: Reading an article on The Productivityist, as I often do, the topic of digital decluttering or digital minimalism was broached.
 ---
 Reading an article on <em>The Productivityist</em>, as I often do, the topic of <em>digital decluttering</em> or digital minimalism was broached.
 

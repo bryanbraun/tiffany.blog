@@ -4,7 +4,7 @@ title: 'KickMe App Review: Anti-Procrastination Tool'
 # kickme-app-review
 author: Tiffany White
 post_date: 2017-09-04 21:00:07
-post_excerpt: >
+excerpt: >
   KickMe is a cross-platform app built
   using a Node framework called Electron
   which allows a developer to write one

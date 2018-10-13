@@ -4,7 +4,7 @@ title: 'Back to Basics: Apps and Workflows'
 # back-basics-apps-workflows
 author: Tiffany White
 post_date: 2017-04-23 19:10:13
-post_excerpt: |
+excerpt: >
   I wanted to write a quick post on the focus of the blog going forward.
   Last year, I was inspired by a few of my productivity heroes to write about productivity instead of just apps. I thought it was a perfect opportunity to expand my reach and grow the blog beyond what it had become.
 layout: post

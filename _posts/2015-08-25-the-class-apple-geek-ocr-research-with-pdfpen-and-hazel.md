@@ -10,6 +10,7 @@ published: true
 tags: uncategorized
 categories:
   - Mac Automation
+excerpt: I have a lot of productivity apps that I use, perhaps my vice. But still, I can get work done quickly and efficiently. Here's my setup to OCR pdfs I find on the internet and import them automatically to my reference managers of choice.
 ---
 &nbsp;
 

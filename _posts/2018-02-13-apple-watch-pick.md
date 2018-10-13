@@ -4,7 +4,7 @@ title: 'Apple Watch: Pick of the Month'
 # apple-watch-pick
 author: Tiffany White
 post_date: 2018-02-13 11:30:46
-post_excerpt: >
+excerpt: >
   I finally bought an Apple Watch after
   watching the space for 4 years. The
   internship I had allowed me to buy a

@@ -4,7 +4,7 @@ title: Audio Technica MSR7 Headphones Review
 # audio-technica-msr7-headphones-review
 author: Tiffany White
 post_date: 2018-01-01 22:52:28
-post_excerpt: >
+excerpt: >
   This article, one of four for the next
   couple months, chronicles my time with
   the Audio Technica MSR7 entry-level

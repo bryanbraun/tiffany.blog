@@ -6,7 +6,7 @@ title: >
 # david-hewson-ulysses
 author: Tiffany White
 post_date: 2017-08-25 11:30:31
-post_excerpt: >
+excerpt: >
   The subscription model only works when
   the people you are selling to use your
   app a lot and find it indispensable.

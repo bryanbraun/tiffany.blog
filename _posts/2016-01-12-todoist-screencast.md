@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - App Review
+excerpt: A look at how I use Todoist. I will probably update this screencast as I have paid for premium and have a new workflow.
 ---
 <img class="aligncenter size-large wp-image-337" src="https://thatmacnerd.com/wp-content/uploads/2016/01/todoist-new-logo-red-1024x667.png" alt="todoist-new-logo-red.png" width="620" height="404" />
 

@@ -4,7 +4,7 @@ title: I’m Still Here…
 # im-still-here
 author: Tiffany White
 post_date: 2017-07-17 21:56:39
-post_excerpt: >
+excerpt: >
   If you have been reading my blog for any
   length of time this year, I have
   regularly updated it for months until

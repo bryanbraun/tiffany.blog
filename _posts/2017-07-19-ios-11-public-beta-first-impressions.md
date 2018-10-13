@@ -4,7 +4,7 @@ title: 'iOS 11 Public Beta: First Impressions'
 # ios-11-public-beta-first-impressions
 author: Tiffany White
 post_date: 2017-07-19 23:01:04
-post_excerpt: >
+excerpt: >
   So I have played with the iOS 11 public
   beta, first on my iPad Pro and then the
   2nd beta on my iPhone. First, I should

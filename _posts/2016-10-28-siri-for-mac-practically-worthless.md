@@ -13,12 +13,12 @@ tags:
   - siri for mac
 categories:
   - Uncategorized
+excerpt: Siri for Mac is worthless for people with MacBook Pros with limited storage.
 ---
 <img class="wp-image-797 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2016/10/macos-sierra-siri-app-icon.png" width="346" height="346" />
 
 Let me preface this with a caveat:  **for MacBook Pros with 256gb of storage of less**.
 
-[bctt tweet="Siri for Mac is worthless for people with MacBook Pros with limited storage." username="ThatMacNerd"]
 
 Why? Because she doesn’t search, or grab the index from Spotlight on external drives, at least not yet.
 

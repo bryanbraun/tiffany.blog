@@ -6,7 +6,7 @@ title: >
 # airmail-integration-devonthink
 author: Tiffany White
 post_date: 2017-05-06 01:22:13
-post_excerpt: >
+excerpt: >
   Airmail finally adds DEVONthink Pro
   Office support to its Mac App.
 layout: post

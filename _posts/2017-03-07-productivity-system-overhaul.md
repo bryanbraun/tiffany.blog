@@ -16,6 +16,7 @@ tags:
   - tidying
 categories:
   - Uncategorized
+excerpt: I recently overhauled my productivity system.
 ---
 <img class="alignnone size-full wp-image-1005" src="https://thatmacnerd.com/wp-content/uploads/2017/03/DeathtoStock_ModernWorkshop-05.compressed.jpg" width="5760" height="3840" />
 

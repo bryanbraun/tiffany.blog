@@ -4,7 +4,7 @@ title: 'Workflow: Drafts to Trello for Content Management'
 # drafts-workflow-content-management
 author: Tiffany White
 post_date: 2017-10-10 18:06:02
-post_excerpt: >
+excerpt: >
   After watching watching a video on using
   Trello for an editorial calendarI was
   pretty excited to start doing so for my

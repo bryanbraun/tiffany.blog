@@ -6,7 +6,7 @@ title: >
 # apple-acquires-workflow
 author: Tiffany White
 post_date: 2017-03-30 20:39:45
-post_excerpt: >
+excerpt: >
   I have had write post about Workflow in
   my OmniFocus list for weeks now. Looks
   like I am too late. Apple has acquired

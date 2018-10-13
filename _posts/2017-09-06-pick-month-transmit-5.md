@@ -4,7 +4,7 @@ title: 'Pick of the Month: Transmit 5 for Mac'
 # pick-month-transmit-5
 author: Tiffany White
 post_date: 2017-09-06 08:35:13
-post_excerpt: >
+excerpt: >
   I had Code 2 by Panic, Inc for a while
   when I heard about their FTP client,
   Transmit 4.

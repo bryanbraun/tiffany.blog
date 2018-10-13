@@ -4,7 +4,7 @@ title: 'Pick of the Month: Timing 2'
 # pick-month-timing-2
 author: Tiffany White
 post_date: 2017-05-17 10:30:43
-post_excerpt: |
+excerpt: |
   When I first came across timing, it was recommended to me by my good friend Nick Lash. We were talking about time tracking apps and his possible employment as an iOS developer for time tracking juggernaut Toggl.
   
   He was thinking of rewriting their Mac app in the vein of Timing.app.

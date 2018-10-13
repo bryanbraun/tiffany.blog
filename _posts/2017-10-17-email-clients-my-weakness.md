@@ -4,7 +4,7 @@ title: 'Email Clients: My Weakness'
 # email-clients-my-weakness
 author: Tiffany White
 post_date: 2017-10-17 17:46:22
-post_excerpt: >
+excerpt: >
   There are few things on the App Store
   that get me to download them almost
   immediately like email clients.

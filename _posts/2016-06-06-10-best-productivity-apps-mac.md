@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: The latest in productivity apps for iOS
 ---
 Following from my last post about <a href="http://thatmacnerd.com/2016/05/27/that-mac-nerd-10-best-productivity-apps-ios/" target="_blank">The 10 Best Productivity Apps for iOS</a>, I wanted to dig into the best for OS X as well.
 

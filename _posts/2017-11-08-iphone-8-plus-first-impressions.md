@@ -4,7 +4,7 @@ title: 'iPhone 8 Plus: First Impressions'
 # iphone-8-plus-first-impressions
 author: Tiffany White
 post_date: 2017-11-08 11:30:41
-post_excerpt: >
+excerpt: >
   I have finally gotten my hands on an
   iPhone 8 Plus.
 layout: post

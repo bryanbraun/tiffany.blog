@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - App Review
+excerpt: ContactsMate by Cisdem is a supplemental contacts manager for Mac that can help you clean up duplicate contacts, delete contacts, fix suffixes, prefixes, and unusual character names or just a first name.
 ---
 ContactsMate by Cisdem is a supplemental contacts manager for Mac that can help you clean up duplicate contacts, delete contacts, fix suffixes, prefixes, and unusual character names or just a first name.
 

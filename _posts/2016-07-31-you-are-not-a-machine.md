@@ -11,13 +11,12 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: Take a break. Smell the flowers. Be human.
 ---
 <img class="size-large wp-image-703 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2016/07/Optimized-machine-1024x682.jpeg" alt="Optimized-machine" width="620" height="413" />
 I am trying to remember this:
 
 You are not a machine.
-
-[Tweet "You are not a machine."]
 
 Working late into the night, working on weekends: <a href="http://www.theatlantic.com/business/archive/2015/02/the-alarming-long-term-consequences-of-workplace-stress/385397/" target="_blank">it’s killing us</a>.
 

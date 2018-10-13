@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: The above caveat aside, IFTTT remains a significant tool in home and web service automation. It is the glue to the Internet of Things and remains an important part of many workflows, including my own.
 ---
 <img src="https://thatmacnerd.com/wp-content/uploads/2016/03/IFTTT.jpg" alt="IFTTT" width="640" height="466" class="aligncenter size-full wp-image-476" />
 

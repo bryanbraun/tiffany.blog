@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: Top iOS productivity apps for fall 2016.
 ---
 <img class="wp-image-763 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2016/09/Portable-Network-Graphics-image-8B9CE402E893-1.png" width="225" height="458" />
 

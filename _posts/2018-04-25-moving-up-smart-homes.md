@@ -5,7 +5,7 @@ title: On Moving on Up and Smart Homes
 author: Tiffany White
 post_date: 2018-04-25 05:30:17
 last_modified_at: 2018-06-22 01.43.55
-post_excerpt: "I'm sure that you've seen that I haven't posted here for a couple months. In between my internship ending and the abrupt ending of my lease, I have had a pretty stressful couple of months."
+excerpt: "I'm sure that you've seen that I haven't posted here for a couple months. In between my internship ending and the abrupt ending of my lease, I have had a pretty stressful couple of months."
 layout: post
 link: >
   https://thatmacnerd.com/moving-up-smart-homes/

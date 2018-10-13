@@ -4,7 +4,7 @@ title: 'Streak CRM for Gmail: Overview'
 # streak-crm-gmail
 author: Tiffany White
 post_date: 2017-10-30 14:08:24
-post_excerpt: >
+excerpt: >
   I am a heavy G Suite user. You can add
   extensions in Chrome to make it
   exceptional. This is what I have done,

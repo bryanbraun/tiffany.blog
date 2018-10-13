@@ -4,7 +4,7 @@ title: Playlists for Football Fans
 # playlists-football-fans
 author: Tiffany White
 post_date: 2017-09-12 08:13:25
-post_excerpt: >
+excerpt: >
   I listen to all genres of music but my
   favorite is alternative rock, metal, and
   dubstep. Eclectic mix, I know. Here is a

@@ -4,7 +4,7 @@ title: 'Working on iPad Pro: The Beginning'
 # working-ipad-pro-beginning-2
 author: Tiffany White
 post_date: 2017-08-22 08:30:36
-post_excerpt: >
+excerpt: >
   It is no secret in the Apple tech
   community that people are dumping their
   MacBooks and working solely on the iPad.

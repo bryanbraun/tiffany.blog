@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: Mike Vardy is the ultra-successful productivity blogger, podcaster, and coach. He runs The Productivityist blog and podcast.
 ---
 <img class="aligncenter size-full wp-image-401" src="https://thatmacnerd.com/wp-content/uploads/2016/03/Productivityist_20Podcast_20-_20Patreon_20September_202014.jpg" alt="Productivityist_20Podcast_20-_20Patreon_20September_202014.jpg" width="402" height="402" />
 

@@ -4,7 +4,7 @@ title: 'PDF to Word Converter for iOS: Review'
 # pdf-word-converter-ios
 author: Tiffany White
 post_date: 2017-10-13 21:53:13
-post_excerpt: >
+excerpt: >
   For businesses and power users who work
   with a lot of PDFs, converting to and
   from PDF on iOS can be cumbersome. Going

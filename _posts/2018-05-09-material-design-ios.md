@@ -6,7 +6,7 @@ title: >
 # material-design-ios
 author: Tiffany White
 post_date: 2018-05-09 22:12:07
-post_excerpt: >
+excerpt: >
   I’m not sure what the play is here for
   Google but while I like Material Design,
   I am not sure that look really belongs

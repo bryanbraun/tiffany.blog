@@ -11,6 +11,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: This is an updated list of my favorite productivity apps for Mac.
 ---
 This is an updated list of my favorite productivity apps for Mac.
 

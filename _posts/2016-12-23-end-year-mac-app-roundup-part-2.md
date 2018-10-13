@@ -17,6 +17,7 @@ tags:
   - Trello
 categories:
   - Uncategorized
+excerpt: So as promised, I am penning the second part to my best Mac productivity apps of 2016. So without further ado, let's get into it.
 ---
 <img class="aligncenter size-full wp-image-1001" src="https://thatmacnerd.com/wp-content/uploads/2016/12/Optimized-IMG_2596.jpg" alt="" width="1200" height="799" />So as promised, I am penning the second part to my best Mac productivity apps of 2016. So without further ado, let's get into it.
 

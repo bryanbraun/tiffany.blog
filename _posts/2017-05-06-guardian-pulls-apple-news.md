@@ -6,7 +6,7 @@ title: >
 # guardian-pulls-apple-news
 author: Tiffany White
 post_date: 2017-05-06 01:24:50
-post_excerpt: >
+excerpt: >
   Good E-reader reports that Apple News
   partner, The Guardian, is pulling its
   news site from the app.

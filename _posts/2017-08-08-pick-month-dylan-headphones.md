@@ -15,6 +15,7 @@ tags:
   - Plantronics BeatBack PRO
 categories:
   - Pick of the Month
+excerpt: I am finally back to writing the Pick of the month.
 ---
 <img class="alignnone wp-image-2202 size-full" src="https://thatmacnerd.com/wp-content/uploads/2017/08/Image-8-7-17-9-28-PM.jpeg" alt="Mac-desk-setup" width="4752" height="3168" />
 

@@ -4,7 +4,7 @@ title: 'Drafts 4 for iOS: A Worthy Tool'
 # drafts-4-ios-worthy-tool
 author: Tiffany White
 post_date: 2017-04-01 19:10:21
-post_excerpt: >
+excerpt: >
   When we think about iOS automation these
   days, we tend to think about
   Workflow.app, which is the most powerful

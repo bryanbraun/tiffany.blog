@@ -16,6 +16,7 @@ tags:
   - productivity
 categories:
   - Uncategorized
+excerpt: The end of the year is here and with that comes end of year mac app roundup posts of the best apps for productivity, games, and other popular app genres.
 ---
 <img class="alignnone size-full wp-image-902" src="https://thatmacnerd.com/wp-content/uploads/2016/12/Image-12-13-16-12-25-AM.jpeg" width="900" height="599" />
 

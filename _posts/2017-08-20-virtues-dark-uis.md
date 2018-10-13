@@ -4,7 +4,7 @@ title: On the Virtues of Dark UIs
 # virtues-dark-uis
 author: Tiffany White
 post_date: 2017-08-20 19:40:52
-post_excerpt: >
+excerpt: >
   I wasn’t a dark mode person. When I
   was programming in Coda 2 on my Mac when
   I just started doing it, the UI was

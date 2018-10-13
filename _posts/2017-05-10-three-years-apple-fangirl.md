@@ -4,9 +4,7 @@ title: 3 Years An Apple Fangirl
 # three-years-apple-fangirl
 author: Tiffany White
 post_date: 2017-05-10 00:29:16
-post_excerpt: |
-  I have been writing about Apple in some form or another for the past two years. Starting as an app blog for non-traditional students, to moving my work over to The Apple Fancast, then back to my blog.
-  I've had this thing running just a fraction of the time of other indie blogs and that's because I didn't get my first Apple device until October of 2013.
+excerpt: I have been writing about Apple in some form or another for the past two years. Starting as an app blog for non-traditional students, to moving my work over to The Apple Fancast, then back to my blog. I've had this thing running just a fraction of the time of other indie blogs and that's because I didn't get my first Apple device until October of 2013.
 layout: post
 link: >
   https://thatmacnerd.com/three-years-apple-fangirl/

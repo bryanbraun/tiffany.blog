@@ -4,7 +4,7 @@ title: Apps for Working Remotely
 # apps-working-remotely
 author: Tiffany White
 post_date: 2017-11-25 21:54:25
-post_excerpt: >
+excerpt: >
   Here are some of the apps I am using to
   stay productive while working remotely.
 layout: post

@@ -10,6 +10,7 @@ published: true
 tags: uncategorized
 categories:
   - Uncategorized
+excerpt: We Apple and productivity nerds love our devices and we use them to Get Things Done™.
 ---
 &nbsp;
 
