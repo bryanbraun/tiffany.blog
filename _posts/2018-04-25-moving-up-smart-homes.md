@@ -31,8 +31,8 @@ Luckily for me there are plenty of remote opportunities and a company that asked
 
 The internship allowed me to save enough money to move into *my dream place*. It is super nice and super cheap. This place could go for so much more but I am glad it is what it is.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/e1zc3isQFvE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/e1zc3isQFvE"></iframe>
 </div>
 
 ## New Office Space
@@ -47,16 +47,16 @@ Rocking dual monitors is key for developer productivity and all the rest is grav
 
 I bought a set of LIFX lights and a LIFX LED strip, another Echo but this time an Echo Dot. I am still cleaning things up and putting things together but I am having fun with the *smart home* stuff as evidenced here:
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LO9URkHL2x8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/LO9URkHL2x8"></iframe>
 </div>
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6CnrWshsPU0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/6CnrWshsPU0"></iframe>
 </div>
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/v2UZEEOFSlQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/v2UZEEOFSlQ"></iframe>
 </div>
 
 ## That's All For Now
