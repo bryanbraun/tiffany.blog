@@ -1,4 +1,16 @@
-tiffanywhite:
-  name: Tiffany White
-  twitter: TiffanyW_412
-  picture: https://res.cloudinary.com/thatmacnerd/image/upload/v1536021608/About%20Page%20Photos/profile3.png
+# Sample Authors
+# Remove file or replace with your own
+
+Billy Rick:
+  name: Billy Rick
+  picture: /images/bio-photo-2.jpg
+  twitter: "@billyrick"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
+
+Cornelius Fiddlebone:
+  name: Cornelius Fiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone

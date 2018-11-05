@@ -2,7 +2,7 @@
 ID: 350
 title: About
 # about
-layout: about
+layout: page
 author: 
   name: Tiffany White
   picture: https://res.cloudinary.com/thatmacnerd/image/upload/v1539314064/About%20Page%20Photos/profile3_no_trasnparency.png

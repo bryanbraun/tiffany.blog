@@ -1,15 +1,16 @@
 source "https://rubygems.org"
-gemspec
 
-gem 'json'
-gem "jekyll", "~> 3.8.2"
+gem "jekyll"
+gem "jekyll-theme-so-simple"
 
+
+# If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-  gem "jekyll-sitemap"
   gem "jekyll-paginate"
-  gem "jekyll-algolia"
-  gem 'jekyll-cloudinary'
-  gem 'jekyll-pwa-plugin'
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jemoji"
+  gem "jekyll-redirect-from"
+  gem "jekyll-pwa-plugin"
 end
