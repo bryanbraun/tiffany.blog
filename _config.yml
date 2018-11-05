@@ -108,7 +108,12 @@ author:
     - title: Pinterest
       url: https://www.pinterest.com/trwhite412
       icon: fab fa-pinterest-square
-
+    - title: Instagram
+      url: https://www.instagram.com/twhitephoto412
+      icon: fab fa-instagram
+    - title: Podcast
+      url: https://anchor.fm/thatmacnerd
+      icon: fas fa-microphone
 # Footer Links
 footer_links:
   - title: Twitter
@@ -117,6 +122,9 @@ footer_links:
   - title: Instagram
     url: https://www.instagram.com/twhitephoto412
     icon: fab fa-instagram
+  - title: Podcast
+    url: https://anchor.fm/thatmacnerd
+    icon: fas fa-microphone
   - title: Pinterest
     url: https://www.pinterest.com/trwhite412
     icon: fab fa-pinterest-square
