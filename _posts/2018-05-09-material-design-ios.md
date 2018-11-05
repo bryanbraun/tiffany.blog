@@ -13,7 +13,7 @@ excerpt: >
   on iOS.
 layout: post
 link: >
-  https://thatmacnerd.com/material-design-ios/
+  https://material.io/develop/ios/docs/faq/
 published: true
 tags:
   - develop for iOS
