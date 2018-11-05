@@ -157,7 +157,6 @@
 .page-pagination {
   margin: 2em 0 1em;
   clear: both;
-  background-color: $accent-color;
 
   @include breakpoint($large) {
     display: -webkit-box;
@@ -173,6 +172,7 @@
   -ms-flex: 1;
   flex: 1;
   text-decoration: none;
+  background-color: $accent-color;
   color: $text-color;
 }
 
