@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "That Mac Nerd"
-description: "A Blog About Apple, Workflows, and Things I Like, and Other Quasi Interesting Bits"
+description: "A Blog About Apple, Workflows, Things I Like, and Other Quasi Interesting Bits"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://thatmacnerd.com
 logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1541377614/TMN_round.png
