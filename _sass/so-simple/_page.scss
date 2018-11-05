@@ -157,6 +157,7 @@
 .page-pagination {
   margin: 2em 0 1em;
   clear: both;
+  background-color: $accent-color;
 
   @include breakpoint($large) {
     display: -webkit-box;
