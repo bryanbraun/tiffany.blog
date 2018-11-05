@@ -117,7 +117,7 @@ You can get a roundabout view of everything you need in the Favorites section of
 
 ### Streaks, Due for Motivation
 
-Getting started is the hardest part of setting up and exercise routine. I know it was for me. Staying consistent is the second hardest part. Some days you're tired. Some days your work is going so well you don't want to stop. How do you avoid the trap of, *I'll do it tomorrow*? 
+Getting started is the hardest part of setting up an exercise routine. I know it was for me. Staying consistent is the second hardest part. Some days you're tired. Some days your work is going so well you don't want to stop. How do you avoid the trap of, *I'll do it tomorrow*? 
 
 I don't have an answer for this. I am not a motivational guru. But I will say that I found the perfect YouTube channel, [FitnessBlender](https://www.youtube.com/user/FitnessBlender/featured) that is easy enough for someone getting back into the exercise groove and hard enough for someone who has done it before.
 
