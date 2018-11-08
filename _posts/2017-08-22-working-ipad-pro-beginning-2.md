@@ -1,7 +1,6 @@
 ---
 ID: 2241
 title: 'Working on iPad Pro: The Beginning'
-# working-ipad-pro-beginning-2
 author: Tiffany White
 post_date: 2017-08-22 08:30:36
 excerpt: >
@@ -12,8 +11,6 @@ excerpt: >
   iPad and has several guides on how to do
   great things with iPad.
 layout: post
-link: >
-  https://thatmacnerd.com/working-ipad-pro-beginning-2/
 published: true
 tags:
   - IOS 11
@@ -21,10 +18,10 @@ tags:
   - writing
 categories:
   - Working on iPad
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1527286190/maxresdefault.jpg
 ---
-[caption id="attachment_2243" align="aligncenter" width="1920"]<img class="size-full wp-image-2243" src="https://thatmacnerd.com/wp-content/uploads/2017/08/maxresdefault.jpg" alt="iPad_Pro_with_Keyboard" width="1920" height="1080" /> Image Credit: <a href="https://www.youtube.com/watch?v=hDQL-0EAzB4">Andrew Ohara</a>[/caption]
+Image Credit: <a href="https://www.youtube.com/watch?v=hDQL-0EAzB4">Andrew Ohara</a>
 
-&nbsp;
 
 It is no secret in the Apple tech community that people are dumping their MacBooks and working solely on the iPad. Federico Viticci writes solely on his iPad and has [several](https://www.macstories.net/ios/ipad-diaries-devonthinks-new-advanced-automation/) [guides](https://www.macstories.net/ios/ipad-diaries-numbers-accounting-and-currency-conversions/) on how to [do great things](https://www.macstories.net/ios/ipad-diaries-working-with-zip-archives/) with [iPad](https://www.macstories.net/tag/ipad-diaries/).
 
@@ -34,7 +31,9 @@ I was recently doing the mundane task of laundry and decided to take my iPad Pro
 
 *I was completely blown away by how awesome it was*.
 
-[video width="1366" height="1024" mp4="https://thatmacnerd.com/wp-content/uploads/2017/08/Multitasking.mp4"][/video]
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/AZoRv2m5XLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;   picture-in-picture" allowfullscreen></iframe>
+</div>
 
 I edited a screencast, wrote the article, connected to my GitHub through a WebDAV connection in Transmit of iOS and Working Copy. I was *flying*. It made my work *fun*.
 
