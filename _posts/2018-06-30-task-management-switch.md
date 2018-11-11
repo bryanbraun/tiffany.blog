@@ -5,8 +5,6 @@ excerpt: The task management do si do is in full swing at Casa de White.
 comments: true
 author: Tiffany White
 layout: post
-link: >
-    
 categories: 
   - App Review
 tags:

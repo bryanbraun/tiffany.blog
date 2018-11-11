@@ -4,8 +4,6 @@ date: 2018-07-12 21:54
 excerpt:
 comments: true
 layout: post
-link: >
-    
 categories:
   - iOS Automation
 tags:

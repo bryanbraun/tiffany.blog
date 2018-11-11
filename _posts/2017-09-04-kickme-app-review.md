@@ -21,21 +21,21 @@ tags:
 categories:
   - App Review
 ---
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/09/KickMe_logo.jpg"><img class="aligncenter wp-image-2259 size-large" src="https://thatmacnerd.com/wp-content/uploads/2017/09/KickMe_logo-1024x576.jpg" alt="" width="960" height="540" /></a>
-
 *Thanks to Alif Aleph Sajan for letting me test [KickMe](http://www.kickmeapp.com)*.
 
 KickMe is a cross-platform app built using a Node framework called Electron which allows a developer to write one app and port it to Windows, Mac, and Linux.
 
 For a video overview of the app, check the YouTube video below.
 
-https://www.youtube.com/watch?v=LxUaHBYLbFw&t
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/LxUaHBYLbFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## The Good
 
 This is a really interesting concept. I too often have windows upon windows snapped in different locations using BetterSnapTool as well as multiple desktops.
 
-[caption id="attachment_2260" align="aligncenter" width="1190"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/09/multi-desktop.jpeg"><img class="wp-image-2260" src="https://thatmacnerd.com/wp-content/uploads/2017/09/multi-desktop.jpeg" alt="multi-desktop life" width="1190" height="669" /></a> multi-desktop life[/caption]
+![](https://res.cloudinary.com/thatmacnerd/image/upload/v1527286142/multi-desktop.jpg)
 
 As the video showed, you can activate KickMe with ⌘⌥K or when the app is in your dock, you can tap the icon provided you have a trackpad or Magic Mouse [^1].
 
