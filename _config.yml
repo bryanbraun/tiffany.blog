@@ -39,7 +39,7 @@ twitter:
 # Liquid
 liquid:
   error_mode: strict
-
+future: false
 pwa:
   sw_src_filepath: service-worker.js # Optional
   sw_dest_filename: service-worker.js # Optional
