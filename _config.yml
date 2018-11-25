@@ -125,6 +125,9 @@ footer_links:
   - title: Podcast
     url: https://anchor.fm/thatmacnerd
     icon: fas fa-microphone
+  - title: YouTube
+    url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
+    icon: fab fa-youtube
   - title: Pinterest
     url: https://www.pinterest.com/trwhite412
     icon: fab fa-pinterest-square

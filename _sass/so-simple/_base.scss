@@ -108,13 +108,39 @@ figcaption {
   font-size: 80%;
 }
 
+.fa-twitter-square {
+  color: #1da1f2;
+}
+
+.fa-instagram {
+  color: #e4405f;
+}
+
+.fa-youtube {
+  color: #cd201f;
+}
+
+
+.fa-pinterest-square {
+  color: #bd081c;
+}
+
+
+.fa-rss-square {
+  color: #fe7a16;
+}
+
+.fa-microphone {
+  color: #6638F0;
+}
+
 a {
-  color: $accent-color;
+  color: $link-color;
   -webkit-transition: $global-transition;
   transition: $global-transition;
 
   &:hover {
-    color: shade($accent-color, 25%);
+    color: shade($link-color, 25%);
   }
 }
 
