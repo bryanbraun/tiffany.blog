@@ -140,7 +140,7 @@ a {
   transition: $global-transition;
 
   &:hover {
-    color: shade($link-color, 25%);
+    color: shade($accent-color, 25%);
   }
 }
 
