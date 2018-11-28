@@ -6,7 +6,7 @@ layout: post
 categories: 
 tags:
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1543365595/Header%20Images/New%20iPad%20Pro%20Post/new_ipad_pro.jpg
-description:
+description: This iPad puts the Pro in iPad Pro.
 ---
 
 *My new iPad Pro is here*. Let me tell you, *it's beautiful*. From the industrial design all the way down to the screen, this thing is gorgeous.
