@@ -2,14 +2,14 @@
 title: "New iPad Pro: First Impressions"
 date: 2018-11-27 19:32
 excerpt:
-layout: post    
+layout: post
 categories:
     - Pick of the Month
 tags:
     - iPad Pro
     - hardware
     - real work
-image: https://res.cloudinary.com/thatmacnerd/image/upload/v1543365595/Header%20Images/New%20iPad%20Pro%20Post/new_ipad_pro.jpg
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1543443226/Header%20Images/New%20iPad%20Pro%20Post/ipad-pro-pencil-2018.jpg
 description: This iPad puts the Pro in iPad Pro.
 ---
 
@@ -43,7 +43,7 @@ Everything about this feels pro outside of the software. The software quirks are
     </figcaption>
 </figure>
 
-When I work with the iPad more, I'll write up a couple posts on how I am using it to get work done. The following video shows some of what I was doing a year ago on my iPad Pro 1st Gen. 
+When I work with the iPad more, I'll write up a couple posts on how I am using it to get work done. The following video shows some of what I was doing a year ago on my iPad Pro 1st Gen.
 
 <div class="responsive-embed responsive-embed-16by9">
   <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/AZoRv2m5XLw"></iframe>
