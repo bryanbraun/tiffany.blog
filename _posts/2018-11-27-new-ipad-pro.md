@@ -3,8 +3,12 @@ title: "New iPad Pro: First Impressions"
 date: 2018-11-27 19:32
 excerpt:
 layout: post    
-categories: 
+categories:
+    - Pick of the Month
 tags:
+    - iPad Pro
+    - hardware
+    - real work
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1543365595/Header%20Images/New%20iPad%20Pro%20Post/new_ipad_pro.jpg
 description: This iPad puts the Pro in iPad Pro.
 ---
