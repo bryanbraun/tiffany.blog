@@ -64,6 +64,10 @@ h6 {
 }
 
 h1 {
+  text-align: center;
+}
+
+h1 {
   @include fluid-type($min-vw, $max-vw, $h1-min, $h1-max);
 }
 
@@ -145,5 +149,14 @@ a {
 }
 
 .link-arrow {
-  margin: 1rem;
+  text-align: center;
+  text-decoration: none;
+  color: $link-color;
+  margin-top: -1rem;
+  // margin-right: 4rem;
+}
+
+.no-color {
+  color: $text-color;
+  text-decoration: none;
 }
