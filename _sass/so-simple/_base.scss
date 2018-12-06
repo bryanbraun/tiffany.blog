@@ -12,6 +12,14 @@ body {
   border-top: solid 0.25em $nav-background-color;
 }
 
+body {
+  transition: background 1s ease-in, color 1s ease-in;
+}
+.dark {
+  color: rgb(247, 247, 247);
+  background:#191919
+}
+
 .fasc-button {
   border-radius: 5px;
   padding: 4px;
@@ -153,10 +161,31 @@ a {
   text-decoration: none;
   color: $link-color;
   margin-top: -1rem;
+  font-style: normal;
   // margin-right: 4rem;
+}
+
+.link-arrow:hover {
+  color: shade($accent-color, 25%);
 }
 
 .no-color {
   color: $text-color;
   text-decoration: none;
+}
+
+// .move {
+//   text-align: right;
+//   margin-left: 30rem;
+//   margin-top: -20rem;
+// }
+
+.pad {
+  padding: .2em;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: .6rem;
+  margin-left: -.9rem;
 }
