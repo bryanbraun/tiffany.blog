@@ -1,0 +1,31 @@
+---
+title: Gear
+layout: page
+permalink: /gear/
+---
+
+On my technical blog I have a [/uses](https://tiffanywhite.tech/uses/) page where I list my desk setup and software I use to develop web applications. Here, I'd like to do something similar only with [kit.com](https://kit.com). Below you can find some of the things I use to make the podcasts, screencasts, and other things. Check them out if you're interested.
+
+## Desk and Other Gear
+
+<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Fdesk-setup" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
+
+## iPad Pro Software
+
+<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Fipad-pro-software-for-creatives-developers" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
+
+## Podcast Gear
+
+<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Fpodcast-equipment" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
+
+## Very Old Camera Gear
+
+Probably not the best thing to use but I'll upgrade soon.
+
+<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Fphoto-gear" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
+
+## Random Fun Stuff
+
+Robots and DIY anyone?
+
+<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Frobotics" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
