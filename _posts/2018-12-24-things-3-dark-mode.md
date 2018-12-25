@@ -1,7 +1,7 @@
 ---
-title: Things 3: Dark Mode and Beyond 
+title: "Things 3: Dark Mode and Beyond" 
 date: 2018-12-24 15:47
-excerpt:
+excerpt: Things 3 recently got an update which included dark mode.
 layout: post    
 categories:
   - App Review
@@ -9,7 +9,7 @@ tags:
   - Things 3
   - dark mode
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1544947091/Things%203%20Post/image_5.png
-description:
+description: Dark mode all the...Things?
 ---
 
 [Things 3 for iPad](https://itunes.apple.com/us/app/things-3-for-ipad/id904244226?mt=8&uo=4) and [Things 3 for iPhone](https://itunes.apple.com/us/app/things-3/id904237743?mt=8&uo=4)
