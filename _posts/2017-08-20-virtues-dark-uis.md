@@ -15,6 +15,7 @@ layout: post
 link: >
   https://thatmacnerd.com/virtues-dark-uis/
 published: true
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1527286157/computer-apple-business-workplace-159807.jpg
 tags:
   - Atom
   - dark mode
@@ -24,7 +25,6 @@ tags:
 categories:
   - Random Thoughts
 ---
-<img class="alignnone size-full wp-image-2233" src="https://thatmacnerd.com/wp-content/uploads/2017/08/opt_computer-apple-business-workplace-1598071.jpeg" alt="business_man_at_imac" width="2048" height="1365" />
 
 I never liked dark UIs.
 
@@ -42,15 +42,34 @@ As someone who sits in front of a computer for long periods during the day, I ne
 
 Dark UIs are perfect for this. And as you can see, I have it pretty much *everywhere*.
 
-[caption id="attachment_2228" align="aligncenter" width="960"]<img class="size-large wp-image-2228" src="https://thatmacnerd.com/wp-content/uploads/2017/08/Atom-min-1024x660.jpg" alt="atom_editor" width="960" height="619" /> Atom[/caption]
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286211/Screenshot-2017-11-25_07-05-47_PM.png" />
+    <figcaption style="text-align: center;">
+       Omnifocus
+    </figcaption>
+</figure>
 
-[caption id="attachment_2229" align="aligncenter" width="960"]<img class="size-large wp-image-2229" src="https://thatmacnerd.com/wp-content/uploads/2017/08/Dash_fullscreen-min-1024x576.jpg" alt="dash_docs" width="960" height="540" /> Dash Docs[/caption]
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286109/Atom-min.jpg" />
+    <figcaption style="text-align: center;">
+       Atom text editor which I no longer use
+    </figcaption>
+</figure>
 
-[caption id="attachment_2230" align="aligncenter" width="960"]<img class="size-large wp-image-2230" src="https://thatmacnerd.com/wp-content/uploads/2017/08/OmniFocus-min-1024x694.jpg" alt="omnifocus" width="960" height="651" /> OmniFocus Custom Theme[/caption]
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286101/Dash_fullscreen-min.jpg" />
+    <figcaption style="text-align: center;">
+       Dash offline documentation browser
+    </figcaption>
+</figure>
 
-[caption id="attachment_2231" align="aligncenter" width="960"]<img class="size-large wp-image-2231" src="https://thatmacnerd.com/wp-content/uploads/2017/08/Ulysses-min-1024x648.jpg" alt="ulysses_text_editor" width="960" height="608" /> Ulysses[/caption]
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286104/Ulysses-min.jpg" />
+    <figcaption style="text-align: center;">
+       Ulysses
+    </figcaption>
+</figure>
 
-&nbsp;
 
 [^1]: I *still* love crisp white UIs. iOS is a boon to me in this way.
 [^2]: I squint. A lot. I attribute that to computer use and age.
