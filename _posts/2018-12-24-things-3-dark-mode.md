@@ -27,7 +27,7 @@ I am a [big time fan of dark mode](https://thatmacnerd.com/virtues-dark-uis/) on
 But with the iPhone XS Max and OLED screen, the ability to have a true black background was appealing to me as someone who *already* had a preference for dark and black modes.
 
 
-But what really sold it for me was getting the iPad Pro 2018 and the "bezeless" screen, the liquid retina, as well as True Tone, that is what sold it for me.
+But what really sold it for me was getting the iPad Pro 2018 and the "bezeless" screen, the liquid retina, as well as True Tone.
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1544947078/Things%203%20Post/things3_dark_ipad_pro.png" />
