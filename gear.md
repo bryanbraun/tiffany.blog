@@ -4,7 +4,7 @@ layout: page
 permalink: /gear/
 ---
 
-On my technical blog I have a [/uses](https://tiffanywhite.tech/uses/) page where I list my desk setup and software I use to develop web applications. Here, I'd like to do something similar only with [kit.com](https://kit.com). Below you can find some of the things I use to make the podcasts, screencasts, and other things. Check them out if you're interested.
+On my technical blog I used to have a `/uses` page where I list my desk setup and software I use to develop web applications. Here, I'd like to do something similar only with [kit.com](https://kit.com/TiffanyW_412). Below you can find some of the things I use to make the podcasts, screencasts, and other things. Check them out if you're interested.
 
 ## Desk and Other Gear
 

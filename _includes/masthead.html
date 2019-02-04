@@ -9,5 +9,8 @@
       <h1 class="site-title animated fadeIn"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
       <p class="site-description animated fadeIn" itemprop="description">{{ site.description }}</p>
     {% endunless %}
+    <!-- <p>
+      <a href="/" onclick="localStorage.setItem('mode', (localStorage.getItem('mode') || 'dark') === 'dark' ? 'bright' : 'dark'); localStorage.getItem('mode') === 'dark' ? document.querySelector('body').classList.add('dark') : document.querySelector('body').classList.remove('dark')" title="Dark/bright mode">🌓 Light/dark</a>
+    </p> -->
   </div>
 </header><!-- /.masthead -->
