@@ -29,3 +29,13 @@ Probably not the best thing to use but I'll upgrade soon.
 Robots and DIY anyone?
 
 <iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Frobotics" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
+
+## Resulting Setup
+
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1549341265/Gear_Page_Setup/1.jpg" />
+    <figcaption style="text-align: center;">
+       <em>Home</em>
+    </figcaption>
+</figure>
+
