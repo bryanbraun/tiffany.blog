@@ -65,7 +65,7 @@
 /* Primary notice */
 
 .notice--primary {
-  @include notice(mix(#fff, $primary-color, 70%));
+  @include notice(mix(#fff, $flickr-color, 70%));
 }
 
 /* Info notice */

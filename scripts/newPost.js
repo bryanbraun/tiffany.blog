@@ -1,7 +1,10 @@
-const fs = require('fs');
-const slugify = require('slug');
-const dateFns = require('date-fns');
-const title = process.argv[2];
+#! /usr/bin/env node
+
+const fs = require('fs')
+const slugify = require('slug')
+const dateFns = require('date-fns')
+const title = process.argv[2]
+
 if (!title) {
  throw 'a title is required!';
 }
@@ -31,4 +34,4 @@ description:
  }
  console.log(`${title} was created!`)
  },
-);
+)
