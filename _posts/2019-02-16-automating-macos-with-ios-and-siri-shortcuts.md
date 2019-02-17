@@ -61,7 +61,7 @@ In order to add an action sequence, click the **Attach Additional Action** butto
 
 ![](https://res.cloudinary.com/thatmacnerd/image/upload/v1550306683/Automating%20macOS%20with%20iOS/Screenshot-2019-02-16_03-20-45_AM.png)
 
-Now that we have this setup, we can right click on an action sequence to get the UUID of the sequence. We need this for to execute our BetterTouchTool Applescripts.
+Now that we have this setup, we can right click on an action sequence to get the UUID of the sequence. We need this to execute our BetterTouchTool Applescripts.
 
 Here is an example of one of my BetterTouchTool Applescripts:
 
