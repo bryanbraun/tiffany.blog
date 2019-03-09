@@ -1,27 +1,22 @@
 ---
 ID: 2204
 title: 'Pick of the Month: Dylan Wireless Headphones'
-# pick-month-dylan-headphones
-author: Tiffany White
-post_date: 2017-08-08 15:34:55
+date: 2017-08-08
 layout: post
-link: >
-  https://thatmacnerd.com/pick-month-dylan-headphones/
-published: true
 tags:
   - Bluetooth headphones
-  - Dylan Quiet Speace S1
+  - Dylan Quiet Space S1
   - headphones
   - Plantronics BeatBack PRO
 categories:
   - Pick of the Month
 excerpt: I am finally back to writing the Pick of the month.
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1552082511/IMG_3245.jpg
 ---
-<img class="alignnone wp-image-2202 size-full" src="https://thatmacnerd.com/wp-content/uploads/2017/08/Image-8-7-17-9-28-PM.jpeg" alt="Mac-desk-setup" width="4752" height="3168" />
 
 I am finally back to writing the *Pick of the month*.
 
-This month, my pick is [Dylan Quiet Speace Wireless Headphones](http://www.amazon.com/dp/B01MPZLYQV/?tag=thatmacnerd-20).
+This month, my pick is [Dylan Quiet Space Wireless Headphones](http://www.amazon.com/dp/B01MPZLYQV/?tag=thatmacnerd-20).
 
 ## Between A BeatBack Pro and a Hard Place
 
@@ -31,48 +26,53 @@ That said, I find myself using the Dylan set more.
 
 ## Comparison
 
-[caption id="attachment_2203" align="alignnone" width="4015"]<img class="wp-image-2203 size-full" src="https://thatmacnerd.com/wp-content/uploads/2017/08/Image-8-7-17-9-43-PM.jpeg" alt="Dylan-BeatBack-headphones" width="4015" height="2943" /> From left to right: Plantronics BeatBack Pro, Dylan Quiet Speace S1[/caption]
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1552080996/ECEFF3DC-4FF4-46CE-A61E-88FF08BB7B10.jpg" />
+    <figcaption style="text-align: center;">
+       From left to right: Plantronics BeatBack Pro, Dylan Quiet Space
+    </figcaption>
+</figure>
 
 As you can see, the Dylan’s have a metal band with a fantastic cushion. It fits my head better than any other headphones, wireless or wired [^2].
 
-The Plantronics BeatBack PRO is $155 while the Dylan Quiet Speace is $70. The difference in price and quality is most felt in the controls and the sound, though not in the way you’d think.
+The Plantronics BeatBack PRO is $155 while the Dylan Quiet Space is $70. The difference in price and quality is most felt in the controls and the sound, though not in the way you’d think.
 
 ### Controls Comparison
 
 - Plantronics BeatBack PRO: Excellent controls. This is probably why the headphones are so bulky and heavy. Easy to navigate without seeing them.
-- Dylan Quiet Speace S1: Controls are inset into the outside of the cups where there are notches for cosmetic purposes. It is hard to feel your way around to the controls without looking initially [^3].
+- Dylan Quiet Space S1: Controls are inset into the outside of the cups where there are notches for cosmetic purposes. It is hard to feel your way around to the controls without looking initially [^3].
 
 **Winner**: Plantronics BeatBack PRO
 
 ### Sound
 
 - Plantronics BeatBack PRO: Heavy bass. Distortion when using an equalizer on your Mac like Boom 2 or [Boom 3D](http://www.globaldelight.com/boom3d/index.php). Sync issues with video are pretty bad.
-- Dylan Quiet Speace S1: Flat sound which works well with equalizers. You can hear mids and highs quite well though not very loud. No noticeable sync issues with video.
+- Dylan Quiet Space S1: Flat sound which works well with equalizers. You can hear mids and highs quite well though not very loud. No noticeable sync issues with video.
 
-**Winner**: Dylan Quiet Speace S1
+**Winner**: Dylan Quiet Space S1
 
 ### Fit
 
 - Plantronics: Heavy and tend to fall of my head. Plastic inner headband not good for fros on big heads.
-- Dylan Quiet Speace: They have a metal band and fit my head so well I am surprised that they only cost $70. The cushion on the cups are *amazing*.
+- Dylan Quiet Space: They have a metal band and fit my head so well I am surprised that they only cost $70. The cushion on the cups are *amazing*.
 
-**Winner**: Dylan Quiet Speace
+**Winner**: Dylan Quiet Space
 
 ### Aesthetics
 
 - Plantronics: Good looking cans just very bulky.
-- Dylan Quiet Speace: Very good looking cans though the cups are small. The metal makes them look premium when they really are cheap.
+- Dylan Quiet Space: Very good looking cans though the cups are small. The metal makes them look premium when they really are cheap.
 
-**WInner**: Dylan Quiet Speace
+**WInner**: Dylan Quiet Space
 
 ### Noise Cancellation
 
 - Plantronics: Great noise cancellation but they are open back headphones which means the sound leaks from the headphones. Not ideal if you are on a bus or train; you are liable to annoy your fellow commuters with your black metal.
-- Dylan Quiet Speace: Also great at noise cancellation. Maybe a bit better than the Plantronics. I am not sure if they are closed back headphones but it is hard to hear the music even when I have my headphones off and sound playing.
+- Dylan Quiet Space: Also great at noise cancellation. Maybe a bit better than the Plantronics. I am not sure if they are closed back headphones but it is hard to hear the music even when I have my headphones off and sound playing.
 
-**Winner**: Slight edge to Dylan Quiet Speace
+**Winner**: Slight edge to Dylan Quiet Space
 
-## Dylan Quiet Speace S1 is My Daily Driver
+## Dylan Quiet Space S1 is My Daily Driver
 
 The Dylan’s win out for now as far as what I’m wearing on a regular basis. As soon as I start a dev job I’ll probably buy a pair of AirPods, just to see what everyone is talking about.
 
