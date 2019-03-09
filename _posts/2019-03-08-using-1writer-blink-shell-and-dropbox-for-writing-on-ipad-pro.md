@@ -23,7 +23,7 @@ What I needed in order to move some of my writing off my Mac and to my iPad Pro 
 
 With the last article I wrote here, I shared some of MacStories team's shortcuts, specifically Federico's *fantastic* Mac shortcuts which I modified and posted here on the site, going a bit more in depth for non-technical readers.
 
-Using these shortcuts forced me to finally learn about how to ssh into my Mac, which was surprisingly not difficult[^2].
+Using these shortcuts forced me to finally learn about how to ssh into my Mac, which was surprisingly easy[^2].
 
 I found an article on sshing into a Mac and by looking at the comments and structure of the shortcut, I was able to figure it out quickly. This was the impetus I needed to learn how to use an app I have had on my iPad Pro for some time.
 
