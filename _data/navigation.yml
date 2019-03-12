@@ -18,7 +18,8 @@
   url: /gear/
 - title: Privacy Policy
   url: /privacy-policy/
-- title: Contact
-  url: /contact/
 - title: Podcast
   url: https://thatmacnerdpod-netlify.com
+- title: Contact
+  url: /contact/
+
