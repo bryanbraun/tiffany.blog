@@ -18,6 +18,7 @@ tags:
 categories:
   - App Review
 ---
+
 I have finally gotten a software developer position after three years of self and university study.
 
 I began looking seriously earlier this year and with the help of friends and Twitter, I have gotten an apprenticeship and hope to be hired on at the end of it.
@@ -27,6 +28,8 @@ It is a remote position which means I have to keep an eye on my hours, my produc
 It has only been a week but I am finding I am starting to get into a rhythm.
 
 Here are some of the apps I am using to stay productive while working from home.
+
+{% include toc %}
 
 ## HoursTracker: The Time Card App We Deserve
 <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,w_1142/v1529807259/IMG_2225.jpg" />
@@ -77,7 +80,7 @@ In 2007, The OmniGroup asked Ethan Schoonover. the creator of the AppleScripts a
 
 The first beta of OmniFocus was released in the summer of 2007, with version 1.0 being released in 2008. Here are a couple screenshots of the app’s first UI:
 
-<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286191/of_1.jpg" />  
+<img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286191/of_1.jpg" /> 
 
 
 <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1527286191/omnifocus-reveal.png" />

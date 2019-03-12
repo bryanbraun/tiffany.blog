@@ -26,6 +26,8 @@ It is a paid internship and as such, it allows me to be able to buy and test thi
 
 Reading [Marco Arment’s headphone reviews](https://marco.org/headphones-closed-portable), and me being the music fiend I am, I decided to dedicate some time to reviewing mid to high-end headphones that I purchase throughout the next couple years. This article, one of four for the next couple months, chronicles my time with the [Audio Technica MSR7](http://www.amazon.com/dp/product/B00OTADUJA/ref=as\_li\_ss\_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=thatmacnerd-20) entry-level audiophile headphones.
 
+{% include toc %}
+
 ## Criteria
 
 I am going to give a rating to the following properties:
