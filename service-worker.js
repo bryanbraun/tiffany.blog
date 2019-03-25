@@ -3,7 +3,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
   prefix: 'that-mac-nerd',
-  suffix: 'v8.2',
+  suffix: 'v8.3',
   precache: 'precache',
   runtime: 'runtime-cache'
 });
