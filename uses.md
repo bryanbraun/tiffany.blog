@@ -5,7 +5,7 @@ permalink: /uses/
 ---
 
 
-![](https://res.cloudinary.com/thatmacnerd/image/upload/v1553495012/full_setup.jpg)
+![](https://res.cloudinary.com/thatmacnerd/image/upload/v1549341265/Gear_Page_Setup/1.jpg)
 
 Seems that a lot of developers are creating these `/uses` pages after discovering [Wes Bos’s](https://twitter.com/wesbos) [/uses page](http://wesbos.com/uses).
 
