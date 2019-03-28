@@ -1,25 +1,19 @@
 ---
-ID: 2317
-title: 'DEVONthink &#038; DEVONthink to Go: Dynamic Duo'
-# devonthink-devonthink-go
-author: Tiffany White
+title: 'DEVONthink & DEVONthink to Go: Dynamic Duo'
 post_date: 2017-09-30 20:51:48
 excerpt: >
   Evernote or DEVONthink Pro Office? This
   is the question I’ve been asking
   myself for several years now.
 layout: post
-link: >
-  https://thatmacnerd.com/devonthink-devonthink-go/
-published: true
 tags:
   - DEVONthink
   - devonthink to go
   - Evernote
 categories:
   - App Review
+image: https://res.cloudinary.com/thatmacnerd/image/upload/v1527286105/IMG_0429.jpg
 ---
-&nbsp;
 
 *Evernote or DEVONthink Pro Office?* This is the question I’ve been asking myself for several years now.
 
@@ -43,7 +37,7 @@ DEVONthink Pro Office and DEVONthink to Go are where I store web archives *I kno
 
 I also use DEVONthink Pro Office and DEVONthink to Go to archive my blog posts, screenshots, and screen recordings from iOS.
 
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/09/Screenshot2017-09-30_08-08-58_PM.png"><img class="aligncenter wp-image-2314" src="https://thatmacnerd.com/wp-content/uploads/2017/09/Screenshot2017-09-30_08-08-58_PM.png" alt="" width="1401" height="852" /></a>
+![](https://res.cloudinary.com/thatmacnerd/image/upload/v1527286212/Screenshot2017-09-30_08-08-58_PM.jpg)
 
 Evernote is for the ephemeral, things like newsletters and recent web clippings I will delete eventually because I will not be referring back to them more than a couple times.
 

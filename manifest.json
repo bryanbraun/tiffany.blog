@@ -14,8 +14,8 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "/images/favicon.ico",
-            "sizes": "256x256 48x48 32x32 16x16"
+            "src": "/icons/apple-icon.png",
+            "sizes": "192x192 180x180"
         }
     ]
 }
