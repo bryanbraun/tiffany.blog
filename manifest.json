@@ -1,0 +1,21 @@
+{
+  "short_name": "That Mac Nerd",
+  "name": "That Mac Nerd",
+  "icons": [
+    {
+      "src": "/icons/apple-icon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/icons/apple-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#efef",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#D72323"
+}
