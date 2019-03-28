@@ -3,11 +3,28 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
   <link rel="stylesheet" href="/assets/css/bigfoot-number.css">
   <link rel="stylesheet" href="/assets/css/dark-mode.css">
+  <link rel="manifest" href="/manifest.json">
   <script type="text/javascript">
     var bigfoot = $.bigfoot({
       actionOriginalFN: "hide",
       positionContent: "true"
     });
+  </script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      if (navigator.serviceWorker.controller) {
+        console.log("active service worker found, no need to register");
+      } else {
+        // Register the service worker
+        navigator.serviceWorker
+          .register("service-worker.js", {
+            scope: "../"
+          })
+          .then(function (reg) {
+            console.log("Service worker has been registered for scope: " + reg.scope);
+          });
+      }
+    }
   </script>
   <meta name="p:domain_verify" content="bb20259b85b3f08bfc5e30d9cf8be2cc"/>
   <!-- <script>
