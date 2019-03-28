@@ -1,21 +1,21 @@
 {
-  "short_name": "That Mac Nerd",
-  "name": "That Mac Nerd",
-  "icons": [
-    {
-      "src": "/icons/apple-icon-180x180.png",
-      "type": "image/png",
-      "sizes": "180x180"
-    },
-    {
-      "src": "/icons/apple-icon.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-  ],
-  "start_url": "/",
-  "background_color": "#efef",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#D72323"
+    "dir": "ltr",
+    "lang": "en-US",
+    "name": "That Mac Nerd",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://thatmacnerd.com/",
+    "short_name": "That Mac Nerd",
+    "theme_color": "transparent",
+    "description": "A Blog About Apple, Workflows, Things I Like, and Other Quasi Interesting Bits",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "256x256 48x48 32x32 16x16"
+        }
+    ]
 }
