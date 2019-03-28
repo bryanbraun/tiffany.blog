@@ -1,3 +1,4 @@
+// service-worker.js
 // This is the "Offline page" service worker
 
 const CACHE = "pwabuilder-page";
@@ -53,3 +54,4 @@ self.addEventListener("refreshOffline", function () {
     });
   });
 });
+
