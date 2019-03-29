@@ -12,6 +12,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-redirect-from"
-  gem "jekyll-pwa-plugin"
   gem "jekyll-archives"
 end
