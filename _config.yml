@@ -116,12 +116,12 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/ThatMacNerd
     icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://www.instagram.com/twhitephoto412
-    icon: fab fa-instagram
   - title: YouTube
     url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
     icon: fab fa-youtube
+  - title: Instagram
+    url: https://www.instagram.com/twhitephoto412
+    icon: fab fa-instagram
   - title: Pinterest
     url: https://www.pinterest.com/trwhite412
     icon: fab fa-pinterest-square
