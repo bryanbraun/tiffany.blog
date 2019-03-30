@@ -25,7 +25,7 @@ Let’s start with my gear.
 
 - [27” iMac, Retina 5K, late 2015](https://www.bhphotovideo.com/c/product/1190385-REG/apple_mk462ll_a_27_imac_with_retina.html)
 	- I just bought this earlier this year and Apple updates it five months later. Oh well.
-- [iPhone 8 Plus 256gb, Space Gray](https://www.t-mobile.com/cell-phone/apple-iphone-8-plus?color=spacegray&memory=256gb) [^1]
+- [iPhone XS Max 256gb, Space Gray](https://www.t-mobile.com/cell-phone/apple-iphone-8-plus?color=spacegray&memory=256gb) [^1]
 - [iPad Pro 12.9” late 2018 256 gb](https://www.bhphotovideo.com/c/product/1441845-REG/apple_mtfn2ll_a_12_9_ipad_pro_late.html)
   - This thing is a *beast*. Fast, and the industrial design is my *favorite* of Apple's iPads to date.
 - [Brydge Keyboard for 2018 iPad Pro](https://www.brydge.com/pages/2018-ipad-pro-keyboard-interest-form)
@@ -45,8 +45,7 @@ Let’s start with my gear.
 	- I bought this when I thought I was serious about pod and screencasting. Heh. I still do a short show for Productivity in Tech.
 - [AirPods](https://www.apple.com/airpods/)
 
-<del datetime="2018-04-22T02:27:20+00:00">Next Gen gear
-|Since I am moving and I have the money I decided to *upgrade* my desk setup. So here are some of the things I've purchased to get that rad *YouTuber setup* I so desperately envy.|</del>
+---
 
 As you can see I finally moved into my new place. My cable management game is all off and I haven't yet put the whole ALEX drawer together[^2] but soon. Soon.
 
@@ -66,7 +65,7 @@ As you can see I finally moved into my new place. My cable management game is al
 	- Since I will be moving soon, some of these items I haven’t used yet. This is one of those items. Everyone raves about this mouse so I want to give it a go.
 - [Aenfor aluminum gaming mousepad](https://www.amazon.com/gp/product/B074L6Z5P3/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [M-Audio M-Track C-Series USB Audio Interface](https://www.amazon.com/gp/product/B01FFH5XMC/ref=oh_aui_detailpage_o04_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- This will drive a lot of audio…as well as record from an XLR mic which I have. Said I was cooking things up. [I am](https://15minutesindev.io/home/).
+	- This will drive a lot of audio…as well as record from an XLR mic which I have. Said I was cooking things up.
 - [MAKETECH Swivel Under-the-Desk USB 3.0 Hub](https://www.amazon.com/gp/product/B01LWIIAOR/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Finally got a new hub.
 -  [Choetech Wireless Charging Stand](https://www.amazon.com/gp/product/B010B6PSMC/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
@@ -76,11 +75,11 @@ As you can see I finally moved into my new place. My cable management game is al
 	- [Amazon Echo 1st Gen](http://www.amazon.com/dp/product/B076PSZL29/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thatmacnerd-20)
 - [LIFX Z Wi-Fi Smart LED Strip Starter Kit](https://www.amazon.com/gp/product/B073168F4Y/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Yeah. I am on the bandwagon. I am a programmer and I want my desk to feel like a rocket ship. Sue me.
-- [LIFX A19 Wi-fi Smart LED Bulb](https://www.amazon.com/gp/product/B01KY02MS8/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
+- [LIFX A19 Wi-fi Smart LED Bulbs](https://www.amazon.com/gp/product/B01KY02MS8/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [TP-Link Smart Plug No Hub Required](https://www.amazon.com/gp/product/B0178IC734/ref=oh_aui_detailpage_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- For all lights that aren't smart, *now they can be*. Win.
 - [Brainwavz Hengja - The Headphone Desk Hanger](https://www.amazon.com/dp/B012VIWG28/_encoding=UTF8?coliid=I38T2GSP88G72&colid=1DRWNUK8ZGQIY&psc=0&tag=thatmacnerd-20)
-- [IKEA Holmo 46" Floor Lamp](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
+- [IKEA Holmo 46" Floor Lamps](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
 	- Where else am I going to put the LIFX Bulb?
 - [LUXCOMS RGB Soft Gaming Mouse Pad Large](https://www.amazon.com/gp/product/B07GSXJZSV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
@@ -88,12 +87,10 @@ As you can see I finally moved into my new place. My cable management game is al
 
 - [VS Code](https://code.visualstudio.com/)
 	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^3] and couldn’t be happier.
-- [Hyper.js](https://hyper.is/)
+- [iTerm2](https://www.iterm2.com/)
 	- Back to iTerm. It's just *better*.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 	- I will never use a terminal without this installed.
-- [Mac CLI](https://github.com/guarinogabriel/Mac-CLI)
-	- Control pretty much every function your Mac can do, plus updating all packages across package managers, ssh, MySQL etc, right from your command line. Excellent tool.
 - [Sketch](https://www.sketchapp.com/) for UI design
 - [Boom 3D](http://www.globaldelight.com/boom3d/index.php)
 	- This makes everything sound *amazing*.
@@ -111,12 +108,11 @@ As you can see I finally moved into my new place. My cable management game is al
 - [Alfred](https://www.alfredapp.com/)
 	- Workflows make this my favorite app. I can’t live without it. You can find my workflows [here](https://cl.ly/1W2N1P1z213i/Alfred_workflows.jpg). I have way too many, I admit.
 - Text Expander
-- [Affinity Designer](https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
-	- I am trying to learn how to use this better.
-- [Affinity Photo](https://itunes.apple.com/us/app/affinity-photo/id824183456?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
-	- Definitely replaces Adobe CC for me.
+- [Lightroom CC](https://www.adobe.com/products/photoshop-lightroom.html)
+	- For basic edits. Yeah, I bit on the Adobe train but only the photography bundle with 1TB of storage.
+- [Lightroom Classic CC](https://www.adobe.com/products/photoshop-lightroom-classic.html)
+  - For all my editing needs. It is what I started using years ago. Muscle memory, and all that.
 - Amphetamine to keep my Mac awake
-- Spark for email that isn’t Gmail
 - [Shell Runner](https://itunes.apple.com/us/app/shell-runner/id689441182?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
 	- To test shell scripts
 - [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is my choice for window snapping.
@@ -124,11 +120,13 @@ As you can see I finally moved into my new place. My cable management game is al
 - [SnippetsLab](https://itunes.apple.com/us/app/snippetslab/id1006087419?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
 	- Starting to manage snippets with Alfred and GitHub gists but this is a great way to organize snippets with a keystroke.
 - [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^4].
-- Twitter on the desktop using a cool little npm utility called [nativefier](https://github.com/jiahaog/nativefier). In order to get Twitter with 2FA to work follow [these instructions](https://github.com/jiahaog/nativefier/issues/420#issuecomment-325625125) and you have a sort of native Twitter client on your Mac or Windows computer.
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527851251/Screenshot-2018-04-21_10-30-31_PM_isae1w.png" />
+- [Tweetbot 2](https://itunes.apple.com/us/app/tweetbot-2-for-twitter/id557168941?mt=12)
+  - The 3rd iteration hogs CPU and memory. If it was more efficient I'd use it; the ability to add gifs right in the app is killer. But it freezes constantly. So I use v2.
 - [Franz](https://meetfranz.com/). This is a chat aggregator. Open source and wayyyyyy better looking than Rambox.
 - [Things 3](https://culturedcode.com/things/) for tasks.[^5]
 - [Notion](https://www.notion.so) for Project management.[^6]
+- [Evernote](https://evernote.com/)
+  - Nothing beats it for note-taking and archiving.
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
 - [Dash 4](https://kapeli.com/dash). [^7]
 - [Sip for Mac](https://sipapp.io/) for a color picker
@@ -136,8 +134,12 @@ As you can see I finally moved into my new place. My cable management game is al
   - As I get into making egghead lessons and more screencasts for That Mac Nerd, I need a heavy duty piece of software to do so. Screenflow fits the bill.
 - [Open Broadcaster Software](https://obsproject.com/welcome)
   - Going to stream at Twitch soon enough. This is the gold standard but their Mac app is terribly behind the Windows app.
+- [Private Internet Access VPN](https://www.privateinternetaccess.com/)
+  - Should always have a VPN.
 - [CloudApp](https://www.getcloudapp.com/)
   - This is how I share bugs and other things with devs and dev teams. Also an easy way to make a gif of a feature of bug on my Mac.
+- [Setapp](https://setapp.com/)
+  - It finally has enough utilities to make it worth the subscription price for me.
 
 ## I Use a lot of software, I admit
 
@@ -148,7 +150,7 @@ So this is my setup and what I am currently using. You can show me your dev setu
 ![](https://res.cloudinary.com/thatmacnerd/image/upload/v1553495064/rgb_magenta_setup.jpg)
 
 
-[^1]: Ordered the iPhone 8 Plus. Put away some money and with T-Mobile JUMP! I was able to get it for less than it would be outright. Got it in Space Gray, 256gb.
+[^1]: Got the gold and this will be my last iPhone for a while. No need to upgrade yearly as these phones are more than capable of lasting a couple years.
 [^2]: Done and done
 [^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
 [^4]: Even brainfuck!
