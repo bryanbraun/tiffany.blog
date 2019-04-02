@@ -8,7 +8,7 @@ On my technical blog I used to have a `/uses` page where I list my desk setup an
 
 ## Desk and Other Gear
 
-<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Fdesk-setup" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
+<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2Ftiffanywhitedev%2Fdesk-setup" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
 
 ## iPad Pro Software
 
@@ -33,7 +33,7 @@ Robots and DIY anyone?
 ## Resulting Setup
 
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1549341265/Gear_Page_Setup/1.jpg" />
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1553495064/rgb_magenta_setup.jpg" />
     <figcaption style="text-align: center;">
        <em>Home</em>
     </figcaption>

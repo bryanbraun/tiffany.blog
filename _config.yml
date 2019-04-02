@@ -17,10 +17,10 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "That Mac Nerd"
-description: "A Blog About Apple, Workflows, Things I Like, and Other Quasi Interesting Bits"
+description: "A Blog About Apple, Workflows, and Things I Like"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://thatmacnerd.com
-logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1541377614/TMN_round.png
+logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1554081599/tmn.svg
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -50,7 +50,6 @@ pwa:
     - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
     - index.html
   precache_glob_ignores: # Optional
-    - sw-register.js
     - "fonts/**/*"
 
 # Build settings

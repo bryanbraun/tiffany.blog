@@ -25,7 +25,7 @@ Let’s start with my gear.
 
 - [27” iMac, Retina 5K, late 2015](https://www.bhphotovideo.com/c/product/1190385-REG/apple_mk462ll_a_27_imac_with_retina.html)
 	- I just bought this earlier this year and Apple updates it five months later. Oh well.
-- [iPhone XS Max 256gb, Space Gray](https://www.t-mobile.com/cell-phone/apple-iphone-8-plus?color=spacegray&memory=256gb) [^1]
+- [iPhone XS Max 256gb, Gold](https://www.t-mobile.com/cell-phone/apple-iphone-8-plus?color=spacegray&memory=256gb) [^1]
 - [iPad Pro 12.9” late 2018 256 gb](https://www.bhphotovideo.com/c/product/1441845-REG/apple_mtfn2ll_a_12_9_ipad_pro_late.html)
   - This thing is a *beast*. Fast, and the industrial design is my *favorite* of Apple's iPads to date.
 - [Brydge Keyboard for 2018 iPad Pro](https://www.brydge.com/pages/2018-ipad-pro-keyboard-interest-form)
@@ -137,7 +137,7 @@ As you can see I finally moved into my new place. My cable management game is al
 - [Private Internet Access VPN](https://www.privateinternetaccess.com/)
   - Should always have a VPN.
 - [CloudApp](https://www.getcloudapp.com/)
-  - This is how I share bugs and other things with devs and dev teams. Also an easy way to make a gif of a feature of bug on my Mac.
+  - This is how I share bugs and other things with devs and dev teams. Also an easy way to make a gif of a feature or bug on my Mac.
 - [Setapp](https://setapp.com/)
   - It finally has enough utilities to make it worth the subscription price for me.
 
@@ -145,7 +145,7 @@ As you can see I finally moved into my new place. My cable management game is al
 
 But I use ALL OF IT.
 
-So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/TiffanyW_412).
+So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/tiffanywhitedev).
 
 ![](https://res.cloudinary.com/thatmacnerd/image/upload/v1553495064/rgb_magenta_setup.jpg)
 
