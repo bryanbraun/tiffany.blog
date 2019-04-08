@@ -82,6 +82,8 @@ As you can see I finally moved into my new place. My cable management game is al
 - [IKEA Holmo 46" Floor Lamps](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
 	- Where else am I going to put the LIFX Bulb?
 - [LUXCOMS RGB Soft Gaming Mouse Pad Large](https://www.amazon.com/gp/product/B07GSXJZSV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- [Logitech C920S Pro HD Webcam with Privacy Shutter](https://www.amazon.com/gp/product/B07K95WFWM/ref=ppx_yo_dt_b_asin_title_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
+  - As I do more webinars, Egghead videos, and yes, soon, streaming, I need a good webcam. I have a [Streaming Amazon List](https://www.amazon.com/hz/wishlist/ls/WYX3PZGSUJWN?tag=thatmacnerd-20&sort=default) that I'll be adding to my arsenal in the next couple months.
 
 ## Software
 
