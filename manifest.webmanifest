@@ -1,0 +1,55 @@
+{
+    "name": "That Mac Nerd",
+    "short_name": "That Mac Nerd",
+    "description": "A Blog About Apple, Workflows, and Things I Like.",
+    "dir": "auto",
+    "lang": "en-US",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "/index.html",
+    "background_color": "#fff",
+    "theme_color": "#D72323",
+    "icons": [
+      {
+        "src": "/icons/apple-icon-57x57.png",
+        "sizes": "57x57",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-60x60.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-76x76.png",
+        "sizes": "76x76",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-180x180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon.png",
+        "sizes": "57x57",
+        "type": "image/png"
+      }
+    ]
+  }
+
