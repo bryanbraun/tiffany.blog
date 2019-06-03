@@ -19,7 +19,7 @@ locale: en-US
 title: "That Mac Nerd"
 description: "A Blog About Apple, Workflows, and Things I Like"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://thatmacnerd.com
+url: https://thatmacnerd.netlify.com
 logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1554081599/tmn.svg
 date_format: "%B %-d, %Y"
 read_time: true
