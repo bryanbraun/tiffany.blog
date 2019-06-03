@@ -18,11 +18,11 @@ On my technical blog I used to have a `/uses` page where I list my desk setup an
 
 <iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Fpodcast-equipment" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
 
-## Very Old Camera Gear
+## New Camera Gear
 
-Probably not the best thing to use but I'll upgrade soon.
+Got an #upgrade.
 
-<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2FTiffanyW_412%2Fphoto-gear" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
+<iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2Ftiffanywhitedev%2Fcamera-gear" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe>
 
 ## Random Fun Stuff
 
