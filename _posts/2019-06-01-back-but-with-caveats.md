@@ -1,6 +1,6 @@
 ---
 title: "Back...But with Caveats"
-date: 2019-05-19
+date: 2019-06-01
 layout: post
 categories:
   - Life
