@@ -25,11 +25,11 @@ I code and work on things pretty much during the week until about 9 or 10pm. I t
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1559449343/ipad_maple_read.jpg" />
     <figcaption style="text-align: center;">
-       MapleRead is just to good and this iPad way too beautiful to ignore.
+       MapleRead is just too good and this iPad way too beautiful to ignore.
     </figcaption>
 </figure>
 
-For this blog and my [other](https://booknotesbytiffany.net/) [hobby blogs](https://wtfrobots.netlify.com/), there is no pressure to actually *write* to them. Of course, everyone wants to build traffic, and as Gabe Weatherhead of Macdrifter said [in one of his latest blog post](http://www.macdrifter.com/2019/05/a-long-hard-winter.html):
+For this blog and my [other](https://booknotesbytiffany.net/) [hobby blogs](https://wtfrobots.netlify.com/), there is no pressure to actually *write* to them. Of course, everyone wants to build traffic, and as Gabe Weatherhead of Macdrifter said [in one of his latest blog posts](http://www.macdrifter.com/2019/05/a-long-hard-winter.html):
 
 > Sites like Macdrifter run on ego . I love recognition from readers and other writers.
 
