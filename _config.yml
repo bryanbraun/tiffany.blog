@@ -36,6 +36,10 @@ disqus:
 twitter:
   username: ThatMacNerd
 
+collections:
+  homescreens:
+    output: true
+    permalink: /:collection/:path/
 # Liquid
 liquid:
   error_mode: strict
@@ -95,6 +99,13 @@ defaults:
       type: posts
     values:
       layout: post
+      share: true
+  - scope:
+      path: "_homescreens"
+      type: homescreens
+    values:
+      layout: post
+      comments: false
       share: true
 
 # Site Author
