@@ -5,7 +5,7 @@ image:
   thumbnail: /images/iphone-screen-thumb.jpg
 ---
 
-Upgrade and The Summer of Fun and...homescreens.
+Upgrade and The Summer of Fun and...home screens.
 
 On [Upgrade 250: Building a Home Screen Together](https://overcast.fm/+Fcm-cflM0) they have challenged each other to build their home screens. I love sharing my home screens as they are ever-changing.
 
