@@ -1,7 +1,7 @@
 ---
 title: "iPadOS and Chill"
 image:
-  path: https://res.cloudinary.com/thatmacnerd/image/upload/v1561702127/daniel-korpai-FjCBPYHZx3A-unsplash_1.jpg
+  path: https://res.cloudinary.com/thatmacnerd/image/upload/v1561701948/roberto-nickson-hLgYtX0rPgw-unsplash-1.jpg
   thumbnail: /images/ipados-thumb.jpg
 ---
 
