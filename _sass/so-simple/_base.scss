@@ -28,7 +28,7 @@ body {
 blockquote,
 q {
   border-color: #d72323;
-  border-width: 2.5px;
+  border-width: 0.5em;
   background-color:rgb(247, 247, 247);
   footer {
     font-size: 80%;
@@ -156,16 +156,16 @@ a {
   }
 }
 
-.link-arrow {
+.cmd {
   text-align: center;
   text-decoration: none;
   color: $link-color;
-  margin-top: -1rem;
+  margin-top: 1rem;
   font-style: normal;
   // margin-right: 4rem;
 }
 
-.link-arrow:hover {
+.cmd:hover {
   color: shade($accent-color, 25%);
 }
 

@@ -33,7 +33,7 @@ Robots and DIY anyone?
 ## Resulting Setup
 
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1553495064/rgb_magenta_setup.jpg" />
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1561846903/20190614-_desk_bubly_ipad_pro.jpg" />
     <figcaption style="text-align: center;">
        <em>Home</em>
     </figcaption>
