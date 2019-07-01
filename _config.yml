@@ -36,7 +36,7 @@ google_analytics: UA-74642295-1
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: ThatMacNerd
+  username: tiffanywhitedev
 
 collections:
   homescreens:
