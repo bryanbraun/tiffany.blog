@@ -20,4 +20,3 @@ permalink: /archive/
 
 </section>
 
-Any input to share? Reach out to me on Twitter: <a href="https://twitter.com/tiffanywhitedev" rel="me">twitter.com/tiffanywhitedev</a>
