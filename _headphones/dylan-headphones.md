@@ -1,17 +1,8 @@
 ---
-ID: 2204
-title: 'Pick of the Month: Dylan Wireless Headphones'
-date: 2017-08-08
-layout: post
-tags:
-  - Bluetooth headphones
-  - Dylan Quiet Space S1
-  - headphones
-  - Plantronics BeatBack PRO
-categories:
-  - Pick of the Month
-excerpt: I am finally back to writing the Pick of the month.
-image: https://res.cloudinary.com/thatmacnerd/image/upload/v1552082511/IMG_3245.jpg
+title: "Pick of the Month: Dylan Wireless Headphones"
+image:
+  path: https://res.cloudinary.com/thatmacnerd/image/upload/v1552082511/IMG_3245.jpg
+  thumbnail: /images/dylan-quiet-peace.jpg
 ---
 
 I am finally back to writing the *Pick of the month*.

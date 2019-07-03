@@ -2,8 +2,8 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
+# - title: Posts
+#   url: /posts/
 - title: Categories
   url: /categories/
 - title: Tags
@@ -20,6 +20,8 @@
   url: /privacy-policy/
 - title: Home Screens
   url: /home-screens/
+- title: Headphone Reviews
+  url: /headphones/
 - title: Contact
   url: /contact/
 

@@ -1,24 +1,8 @@
 ---
-ID: 2571
-title: Audio Technica MSR7 Headphones Review
-# audio-technica-msr7-headphones-review
-author: Tiffany White
-post_date: 2018-01-01 22:52:28
-excerpt: >
-  This article, one of four for the next
-  couple months, chronicles my time with
-  the Audio Technica MSR7 entry-level
-  audiophile headphones.
-layout: post
-link: >
-  https://thatmacnerd.com/audio-technica-msr7-headphones-review/
-published: true
-tags:
-  - headphones
-  - reviews
-categories:
-  - Headphone Reviews
-image: https://res.cloudinary.com/thatmacnerd/image/upload/v1531446720/IMG_3124.jpg
+title: "Audio Technica MSR7 Headphones Review"
+image:
+  path: https://res.cloudinary.com/thatmacnerd/image/upload/v1531446720/IMG_3124.jpg
+  thumbnail: /images/audio-technica-review.jpg
 ---
 I am writing this article as the year comes to a close. While it has been a trying year for the world and US in particular, it has been a great year professionally for me as I got an internship in the hopes of landing a junior developer job with the company or some other company.
 

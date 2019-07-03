@@ -42,6 +42,9 @@ collections:
   homescreens:
     output: true
     permalink: /:collection/:path/
+  headphones:
+    output: true
+    permalink: /:collection/:path/
 # Liquid
 liquid:
   error_mode: strict
@@ -105,6 +108,13 @@ defaults:
   - scope:
       path: "_homescreens"
       type: homescreens
+    values:
+      layout: post
+      comments: false
+      share: true
+  - scope:
+      path: "_headphones"
+      type: headphones
     values:
       layout: post
       comments: false
