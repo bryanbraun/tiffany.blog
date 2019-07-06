@@ -30,7 +30,7 @@ I will give each criterion a rating of&nbsp; <a class="fasc-button fasc-size-med
 
 ## See what's up next (well, soon enough)
 
-You can check out my [Collection of Cans Pinterest board](https://www.pinterest.com/tiffanywhitedev/collection-of-cans/) or my [Cans Amazon Ideas List](http://a.co/8z3OUC20) to see the absurd amounts of money I'm willing to pay for cans[^1].
+You can check out my [Collection of Cans Pinterest board](https://www.pinterest.com/tiffanywhitedev/collection-of-cans/) or my [Cans Amazon Ideas List](http://a.co/8z3OUC2) to see the absurd amounts of money I'm willing to pay for cans[^1].
 
 
 [^1]: Let's be honest: the ones > $500 I am not *really* going to buy off the bat, more than likely saving for them. I am not Marco, and while I am finally, *finally* employed after a long wait making more than market rate for my title and area, I *still* just won't be Marco, not now, and probably not ever.
