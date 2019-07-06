@@ -4,6 +4,11 @@ image:
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1531446720/IMG_3124.jpg
   thumbnail: /images/audio-technica-review.jpg
 ---
+
+This is going to be a new feature on this site going forward.
+
+> First true review of semi-audiophile headphones on this site.
+
 I am writing this article as the year comes to a close. While it has been a trying year for the world and US in particular, it has been a great year professionally for me as I got an internship in the hopes of landing a junior developer job with the company or some other company.
 
 It is a paid internship and as such, it allows me to be able to buy and test things I wouldn’t have been able to a few months ago.
@@ -16,12 +21,12 @@ Reading [Marco Arment’s headphone reviews](https://marco.org/headphones-closed
 
 I am going to give a rating to the following properties:
 
-*Comfort*: How long can I wear them before they start to hurt?
-*Style/Attractiveness*: How good looking are they? This is purely subjective.
-*Portability*: Can or should you use these during your commute?
-*Value for Price*: Is this a good buy for the money?
-*Sound*: How do they sound? Do they sound okay with a sound enhancement system or DAC? Do they sound good without one?
-*Build*: Are they made of quality materials? Do they break easily?
+- *Comfort*: How long can I wear them before they start to hurt?
+- *Style/Attractiveness*: How good looking are they? This is purely subjective.
+- *Portability*: Can or should you use these during your commute?
+- *Value for Price*: Is this a good buy for the money?
+- *Sound*: How do they sound? Do they sound okay with a sound enhancement system or DAC? Do they sound good without one?
+- *Build*: Are they made of quality materials? Do they break easily?
 
 I will give each criterion a rating of&nbsp; <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e4e; color: #ffffff;">Great</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #f5a105; color: #ffffff;">Good</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #e0e019; color: #ffffff;">Okay</a> <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #de1b1b; color: #ffffff;">Bad</a>&nbsp;.Great is obviously the best you can get, Good is just slightly above average, Okay is average, and Bad is just *the worst*.
 

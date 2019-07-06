@@ -62,37 +62,37 @@
   @include notice(lighten($base-color, 90%));
 }
 
-/* Primary notice */
+// /* Primary notice */
 
-.notice--primary {
-  @include notice(mix(#fff, $flickr-color, 70%));
-  border-left: 7px solid #920358;
-}
+// .notice--primary {
+//   @include notice(mix(#fff, $primary-color, 70%));
+//   border-left: 9px solid #920358 !important;
+// }
 
 /* Info notice */
 
 .notice--info {
   @include notice(mix(#fff, $info-color, 70%));
-  border-left: 7px solid #52adc8;
+  border-left: 9px solid #920358;
 }
 
 /* Warning notice */
 
 .notice--warning {
   @include notice(mix(#fff, $warning-color, 70%));
-  border-left: 7px solid #f89406;
+  border-left: 9px solid #f89406;
 }
 
 /* Success notice */
 
 .notice--success {
   @include notice(mix(#fff, $success-color, 70%));
-  border-left: 7px solid #62c462;
+  border-left: 9px solid #62c462;
 }
 
 /* Danger notice */
 
 .notice--danger {
   @include notice(mix(#fff, $danger-color, 70%));
-  border-left: 7px solid #ee5f5b;
+  border-left: 9px solid #D72323;
 }
