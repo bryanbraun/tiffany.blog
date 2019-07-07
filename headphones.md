@@ -3,6 +3,7 @@ title: "Headphone Reviews"
 layout: collection
 collection: headphones
 sort_by: date
+sort_order: reverse
 permalink: /headphones/
 entries_layout: grid
 ---

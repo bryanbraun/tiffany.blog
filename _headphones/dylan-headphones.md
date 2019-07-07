@@ -1,5 +1,6 @@
 ---
 title: "Pick of the Month: Dylan Wireless Headphones"
+date: 2019-07-03
 image:
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1552082511/IMG_3245.jpg
   thumbnail: /images/dylan-quiet-peace.jpg

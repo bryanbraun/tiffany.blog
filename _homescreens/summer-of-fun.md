@@ -1,5 +1,6 @@
 ---
 title: "Summer of Fun: Home screen"
+date: 2019-06-19
 image:
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1560824800/bagus-hernawan-445936-unsplash.jpg
   thumbnail: /images/iphone-screen-thumb.jpg

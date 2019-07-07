@@ -1,5 +1,6 @@
 ---
 title: "iPadOS and Chill"
+date: 2019-06-27
 image:
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1561701948/roberto-nickson-hLgYtX0rPgw-unsplash-1.jpg
   thumbnail: /images/ipados-thumb.jpg

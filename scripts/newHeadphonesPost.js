@@ -9,6 +9,7 @@ if (!title) {
 }
 const slug = slugify(title.toLowerCase());
 const dir = `./_headphones/${slug}`;
+const date = dateFns.format(new Date(), 'YYYY-MM-DD');
 
 if (!dir) {
   throw 'this directory does not exist!';
@@ -18,6 +19,7 @@ fs.writeFileSync(
   `${dir}.md`,
   `---
 title: "${title}"
+date: "${date}"
 image:
   path:
   thumbnail:

@@ -1,5 +1,6 @@
 ---
 title: "Moving On Up Means New Home Screens"
+date: 2019-07-07
 image:
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1562469066/Homescreens/koby-kelsey-CrE4LzakN8Y-unsplash-1.jpg
   thumbnail: /images/iphone-july-thumb.jpg
