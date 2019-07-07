@@ -7,11 +7,11 @@ permalink: /privacy-policy/
 ---
 Effective date: September 03, 2018
 
-That Mac Nerd ("us", "we", or "our") operates the [https://thatmacnerd.com](https://thatmacnerd.com) website (the "Service").
+That Mac Nerd ("us", "we", or "our") operates the [https://thatmacnerd.net](https://thatmacnerd.net) website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for That Mac Nerd is powered by [FreePrivacyPolicy.com](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://thatmacnerd.com](https://thatmacnerd.com).
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://thatmacnerd.net](https://thatmacnerd.net).
 
 Information Collection And Use
 ------------------------------
@@ -98,13 +98,13 @@ These third parties have access to your Personal Data only to perform these task
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
 *   **Google Analytics**
-    
+
     Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
-    
+
     You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
-    
+
     For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
-    
+
 
 Links To Other Sites
 --------------------
