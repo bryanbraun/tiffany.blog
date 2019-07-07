@@ -5,6 +5,8 @@ image:
   thumbnail: /images/iphone-july-thumb.jpg
 ---
 
+*New job, who dis*.
+
 So I am *finally employed* as a software engineer again, this time, *not* an internship, not contract to hire, but *full-time, salaried, software engineer* for a great company.
 
 As such, my home screens have to reflect this. I have my main home screen on my iPhone and my secondary screen has most of the things I need for work[^1]. I've also thrown in my iMac screens.
