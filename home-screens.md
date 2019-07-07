@@ -2,6 +2,7 @@
 title: Home Screens
 layout: collection
 collection: homescreens
+sort_by: date
 permalink: /home-screens/
 entries_layout: grid
 ---
