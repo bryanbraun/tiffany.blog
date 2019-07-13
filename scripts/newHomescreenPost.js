@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const slugify = require('slug');
+const dateFns = require('date-fns');
 const title = process.argv[2];
 
 if (!title) {
