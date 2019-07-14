@@ -141,6 +141,9 @@ footer_links:
   - title: YouTube
     url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
     icon: fab fa-youtube
+  - title: Status
+    url: https://status.thatmacnerd.net
+    icon: fas fa-file-medical-alt
   - title: Instagram
     url: https://www.instagram.com/trwhitephoto
     icon: fab fa-instagram

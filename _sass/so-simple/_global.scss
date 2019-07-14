@@ -273,7 +273,10 @@
       &.current.disabled {
         @include yiq-contrasted(mix(#000, $border-color, 25%));
       }
-
+      &:hover {
+        background-color: #999999 !important;
+        color: #fff !important;
+      }
       &.disabled {
         color: $border-color;
         pointer-events: none;
