@@ -62,7 +62,7 @@ pwa:
     - "fonts/**/*"
 
 # Build settings
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 feed:
   path: atom.xml
