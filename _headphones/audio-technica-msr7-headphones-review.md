@@ -1,6 +1,6 @@
 ---
 title: "Audio Technica MSR7 Headphones Review"
-date: 2019-07-05
+date: 2018-01-01
 image:
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1531446720/IMG_3124.jpg
   thumbnail: /images/audio-technica-review.jpg
