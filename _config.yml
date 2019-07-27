@@ -45,6 +45,9 @@ collections:
   headphones:
     output: true
     permalink: /:collection/:path/
+  bags:
+    output: true
+    permalink: /:collection/:path/
 # Liquid
 liquid:
   error_mode: strict
@@ -115,6 +118,13 @@ defaults:
   - scope:
       path: "_headphones"
       type: headphones
+    values:
+      layout: post
+      comments: false
+      share: true
+  - scope:
+      path: "_bags"
+      type: bags
     values:
       layout: post
       comments: false

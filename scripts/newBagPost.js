@@ -24,6 +24,7 @@ date: "${date}"
 image:
   path:
   thumbnail:
+  caption:
 ---`,
   function(err) {
     if (err) {

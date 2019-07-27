@@ -1,9 +1,9 @@
 ---
-title: Bags
+title: "Bags"
 layout: collection
 collection: bags
-# sort_by: date
-# sort_order: reverse
+sort_by: date
+sort_order: reverse
 permalink: /bags/
 entries_layout: grid
 ---
@@ -30,5 +30,3 @@ I am going to give a rating to the following properties:
 - *Build*: Is it made of quality materials? Does it fall apart easily? Does it have YKK zippers and zipper pulls?
 
 I will give each criterion a rating of&nbsp; <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e4e; color: #ffffff;">Great</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #f5a105; color: #ffffff;">Good</a>&nbsp;<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #e0e019; color: #ffffff;">Okay</a> <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #de1b1b; color: #ffffff;">Bad</a>&nbsp;.Great is obviously the best you can get, Good is just slightly above average, Okay is average, and Bad is just *the worst*.
-
-

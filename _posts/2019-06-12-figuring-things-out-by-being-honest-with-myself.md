@@ -9,7 +9,7 @@ tags:
   - learning
   - growing
   - being who I am
-link: https://www.rocketpanda.net/2019/06/10/being-honest-with.html
+link: https://rocketpanda.net/2019/06/being-honest-with-myself/
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1560312692/6CF630EC-3E46-4C27-ACCE-8EB53C45B921.jpg
 description: Imitation is the sincerest form of flattery...until it isn't.
 ---
@@ -21,11 +21,11 @@ Jeff Perry,  writing for Rocket Panda:
 
 This is *exactly* what I am trying to do with this blog now.
 
-I look back at posts like [this one](https://thatmacnerd.netlify.com/end-year-mac-app-roundup-part-2/)[^1] and shudder.
+I look back at posts like [this one](https://thatmacnerd.net/2016/12/23/end-year-mac-app-roundup-part-2/)[^1] and shudder.
 
 This blog is red because of [MacStories](https://www.macstories.net/)[^2]. I tried listicles, in depth coverage, reporting and app reviews not because I enjoyed that process, but because *I felt like I had to have a voice in the Apple Community*, to be *seen* and have that blue checkmark on Twitter for my *Apple journalism*.
 
-It started to [become a chore](https://thatmacnerd.netlify.com/moving-on-for-now/) and, well, *it just wasn't fun anymore*.
+It started to [become a chore](https://thatmacnerd.net/2019/04/01/moving-on-for-now/) and, well, *it just wasn't fun anymore*.
 
 I missed it though. I vowed to just be chill about it; no analytics, just stuff I am passionate about in this community.
 
