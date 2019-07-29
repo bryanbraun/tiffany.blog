@@ -25,6 +25,8 @@ layout: post
 categories:
 tags:
 image:
+  path:
+  caption:
 excerpt:
 description:
 ---`,

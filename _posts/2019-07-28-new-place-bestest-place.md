@@ -57,7 +57,7 @@ Some pics:
     </figcaption>
 </figure>
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1564353891/New%20Place%20Post/new-place-4.jpg" />
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1564353892/New%20Place%20Post/new-place-13.jpg" />
     <figcaption style="text-align: center;">
        Living room 2
     </figcaption>
