@@ -1,7 +1,7 @@
 {
-    "name": "That Mac Nerd",
-    "short_name": "That Mac Nerd",
-    "description": "A Blog About Apple, Workflows, and Things I Like.",
+    "name": "Tiffany.blog",
+    "short_name": "Tiffany.blog",
+    "description": "your friend tiffany's little corner of the internet.",
     "dir": "auto",
     "lang": "en-US",
     "display": "standalone",
@@ -16,8 +16,8 @@
         "type": "image/png"
       },
       {
-        "src": "/icons/apple-touch-icon-60x60.png",
-        "sizes": "48x48",
+        "src": "/icons/apple-touch-icon-120x120.png",
+        "sizes": "120x120",
         "type": "image/png"
       },
       {
@@ -38,6 +38,11 @@
       {
         "src": "/icons/apple-icon-touch-152x152.png",
         "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/apple-icon-touch-114x114.png",
+        "sizes": "114x114",
         "type": "image/png"
       },
       {
