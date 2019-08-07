@@ -16,7 +16,7 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Tiffany.blog"
+title: "tiffany.blog"
 description: "your friend tiffany's little corner of the internet"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://tiffanywhite.blog
