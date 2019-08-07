@@ -16,11 +16,11 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "That Mac Nerd"
-description: "A Blog About Apple, Workflows, and Things I Like"
+title: "Tiffany.blog"
+description: "your friend tiffany's little corner of the internet"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://thatmacnerd.net
-logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1554081599/tmn.svg
+url: https://tiffanywhite.blog
+logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1565141494/twblog-avi-min.png
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -133,9 +133,9 @@ defaults:
 # Site Author
 author:
   name: Tiffany White
-  picture: https://res.cloudinary.com/thatmacnerd/image/upload/v1536021608/About%20Page%20Photos/profile3.png
-  email: hello@thatmacnerd.com
-  twitter: ThatMacNerd
+  picture: https://res.cloudinary.com/thatmacnerd/image/upload/v1565138125/color-avi_copy-min.png
+  email:
+  twitter: tiffanywhitedev
   links:
     - title: Pinterest
       url: https://www.pinterest.com/tiffanywhitedev/
@@ -152,7 +152,7 @@ footer_links:
     url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
     icon: fab fa-youtube
   - title: Status
-    url: https://status.thatmacnerd.net
+    url: https://status.tiffanywhite.blog
     icon: fas fa-file-medical-alt
   - title: Instagram
     url: https://www.instagram.com/trwhitephoto
