@@ -20,7 +20,7 @@ title: "tiffany.blog"
 description: "your friend tiffany's little corner of the internet"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://tiffanywhite.blog
-logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1565141494/twblog-avi-min.png
+logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1565224506/twhiteblog-avi.png
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
