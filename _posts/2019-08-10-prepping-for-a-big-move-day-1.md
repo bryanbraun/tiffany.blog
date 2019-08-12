@@ -37,7 +37,7 @@ So in *this* round of *Things to Buy* I bought two more HOLMO floor lamps, as we
 
 ## First purchases
 
-I've purchased another ALEX Drawer and soon, probably in the beginning of next month, I am going to be purchasing a KARLBY 98" wooden/wood grain tabletop from IKEA to replace this LINNMON tabletop. I'm trying to up my *office space game* by getting a wooden table top, getting *serious* lighting, and cleaning up my cable management, kinda, [MacSparky](https://www.macsparky.com/studio)[^2].
+I've purchased another ALEX Drawer and soon, probably in the beginning of next month, I am going to be purchasing a KARLBY 98" wooden/wood grain tabletop from IKEA to replace this LINNMON tabletop. I'm trying to up my *office space game* by getting a wooden table top, getting *serious* lighting, and cleaning up my cable management, kinda like [MacSparky](https://www.macsparky.com/studio)[^2].
 
 My inspiration for my current setup was Jeremy Siers:
 
