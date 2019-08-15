@@ -20,16 +20,19 @@ IKEA is probably one of my favorite places to buy *stylish things*[^1].
 Two of my living room floor lights are [HOLMO lights](https://www.ikea.com/us/en/catalog/products/70394126/):
 
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,h_2868/v1565568256/Moving%20Series/couch-light.jpg" />
+    <img class="align-center" data-lightbox="couch-light" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,h_2868/v1565568256/Moving%20Series/couch-light.jpg" />
     <figcaption style="text-align: center;">
        Couch light
+       <a href="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,h_2868/v1565568256/Moving%20Series/couch-light.jpg">(View full size)</a>
     </figcaption>
 </figure>
+
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1565568256/Moving%20Series/chair-light.jpg" />
     <figcaption style="text-align: center;">
        Chair light
+       <a href="https://res.cloudinary.com/thatmacnerd/image/upload/v1565568256/Moving%20Series/chair-light.jpg">(View full size)</a>
     </figcaption>
 </figure>
 

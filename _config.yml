@@ -32,7 +32,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "PT Sans"
     weights: "400,400i,700,700i"
-google_analytics: UA-74642295-1
+google_analytics:
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
