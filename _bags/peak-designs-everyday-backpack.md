@@ -10,7 +10,7 @@ image:
 I got the whole shebang y'all.
 
 
-# *Update*:
+*Update*:
 
 I tested it with the MacBook Pro in it and it is quite heavy. I still didn't feel fatigue in my shoulders which is a very nice bonus.
 
