@@ -9,6 +9,11 @@ image:
 
 I got the whole shebang y'all.
 
+
+# *Update*:
+
+I tested it with the MacBook Pro in it and it is quite heavy. I still didn't feel fatigue in my shoulders which is a very nice bonus.
+
 ## Whooooo!
 
 I *finally got my hands on a [Peak Designs Everyday Backpack](https://www.peakdesign.com/collections/everyday-bags/products/everyday-backpack?variant=9783961583660)*!! I've wanted this since...probably somewhere in the middle of 2017, before I started working for the company I was interning at[^1].

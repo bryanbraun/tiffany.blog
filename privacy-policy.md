@@ -7,11 +7,11 @@ permalink: /privacy-policy/
 ---
 Effective date: September 03, 2018
 
-That Mac Nerd ("us", "we", or "our") operates the [https://thatmacnerd.net](https://thatmacnerd.net) website (the "Service").
+tiffany.blog ("us", "we", or "our") operates the [https://tiffanywhite.blog](https://tiffanywhite.blog) website (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy for That Mac Nerd is powered by [FreePrivacyPolicy.com](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://thatmacnerd.net](https://thatmacnerd.net).
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://tiffanywhite.blog](https://tiffanywhite.blog).
 
 Information Collection And Use
 ------------------------------
@@ -134,4 +134,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
-*   By email: [hello@thatmacnerd.com](mailto:hello@thatmacnerd.com)
+*   By email: [Blog email](mailto:hey@tiffanyrwhite.com)
