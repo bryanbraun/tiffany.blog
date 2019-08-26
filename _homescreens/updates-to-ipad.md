@@ -9,7 +9,7 @@ image:
 Just streamlining the dock.
 
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1566859268/Homescreens/ipad-august.png />
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1566859268/Homescreens/ipad-august.png"/>
     <figcaption style="text-align: center;">
        Moving apps in and out of the dock
        <a href="https://res.cloudinary.com/thatmacnerd/image/upload/v1566859268/Homescreens/ipad-august.png">(View full size)</a>
