@@ -28,10 +28,10 @@ I've moved all the apps on my iPhone to *one screen* with six folders, four stre
 Not much change here. Still on iPadOS.
 
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1566690261/Homescreens/new-ipad-july-end.png" />
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1566859268/Homescreens/new-ipad-july-end.png" />
     <figcaption style="text-align: center;">
        Meh ¯\_(ツ)_/¯
-       <a href="https://res.cloudinary.com/thatmacnerd/image/upload/v1566690261/Homescreens/new-ipad-july-end.png">(View full size)</a>
+       <a href="https://res.cloudinary.com/thatmacnerd/image/upload/v1566859268/Homescreens/new-ipad-july-end.png">(View full size)</a>
     </figcaption>
 </figure>
 
