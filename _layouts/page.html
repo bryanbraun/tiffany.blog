@@ -3,10 +3,12 @@ layout: default
 ---
 
 <main id="main" class="main-content" aria-label="Content">
+
   <article>
     {% include page-image.html %}
     <div class="page-wrapper">
       <header class="page-header">
+        <!-- <button id="theme-toggle" onclick="console.log(modeSwitcher())"></button> -->
         {% if page.id %}
           {% assign title = page.title | markdownify | strip_html %}
         {% else %}
@@ -28,4 +30,6 @@ layout: default
     </div>
     <a href="#menu-toggle" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </article>
+
 </main>
+
