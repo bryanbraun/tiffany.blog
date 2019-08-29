@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "https://thatmacnerd.net/*"
-  to = "https://tiffanywhite.blog/:splat"
-  status = 301
-  force = true
