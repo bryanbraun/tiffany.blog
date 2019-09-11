@@ -1,5 +1,5 @@
 ---
-title: "Fear Innoculum is a Disappointment"
+title: "Fear Inoculum is a Disappointment"
 date: 2019-09-10
 layout: post
 categories:
