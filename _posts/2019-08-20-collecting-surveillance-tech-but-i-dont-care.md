@@ -70,9 +70,9 @@ Part of the appeal of this system to me was passing off audio from the Music app
 </figure>
 
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1567030266/Studio-Creation-Series/sonos-play-5.jpg" />
+    <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1567030266/Studio-Creation-Series/top-of-sonos-box.jpg" />
     <figcaption style="text-align: center;">
-       <a href="https://res.cloudinary.com/thatmacnerd/image/upload/v1567030266/Studio-Creation-Series/sonos-play-5.jpg">(View full size)</a>
+       <a href="https://res.cloudinary.com/thatmacnerd/image/upload/v1567030266/Studio-Creation-Series/top-of-sonos-box.jpg">(View full size)</a>
     </figcaption>
 </figure>
 
