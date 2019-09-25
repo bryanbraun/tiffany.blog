@@ -18,6 +18,8 @@ These headphones sound *okay* so far. Here's my review.
 
 These things are *incredibly light*. I wore them for at least 4 hours while at my desk without my ears hurting. Contrast this with my Audio-Technica MSR7s which I can only wear for a couple hours before they become heavy and cumbersome. This is a welcome change.
 
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ## Style/Attractiveness
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #f5a105; color: #ffffff;">Good</a>
 
@@ -30,10 +32,14 @@ They aren't *sexy* in that Audio-Technica or Grado way but they look interesting
     </figcaption>
 </figure>
 
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ## Portability
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #e0e019; color: #ffffff;">Okay</a>
 
 No case or bag and they don't fold. They are light enough but if you're thinking of traveling or commuting with these, then these are a solid pass.
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ## Value for Price
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e4e; color: #ffffff;">Great</a>

@@ -70,11 +70,15 @@ I really wanted the Gun Metal Grey version of these as they look so much better;
     </figcaption>
 </figure>
 
-<h3>Portability</h3>
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
+### Portability
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #e0e019; color: #ffffff;">Okay</a>
 You can certainly wear these out on your commute; they are light enough and small enough to do so. But for long commutes, it could be a struggle as the longer you wear them, the more they begin to fatigue your ears and hurt.
 
 Also, the cord is quite long. It comes with three cords, most of which I haven’t looked at. But they all seem relatively long and because of that, can get caught on bus/train seats or stepped on by other passengers. This is why I only gave these an Okay.
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ### Sound
 
@@ -97,10 +101,14 @@ Out of the box they are great headphones. With [Boom 3D](http://www.globaldeligh
 
 These headphones are much clearer and have better detail than their predecessors, the M50s and while I love the M50s, I prefer these a lot more.
 
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ### Build
 
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e4e; color: #ffffff;">Great</a>
 They are standard aluminum, some plastic, good quality build. No breakage so far.
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ### Value
 

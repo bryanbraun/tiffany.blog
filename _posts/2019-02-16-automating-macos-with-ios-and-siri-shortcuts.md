@@ -36,6 +36,8 @@ For this particular task, we are going to setup Keyboard Maestro to open a few a
 
 From there, we'll setup using ssh to login to your Mac to run these Keyboard Maestro scripts with iOS and Shortcuts.
 
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ## Setting up Keyboard Maestro {#id}
 
 You can create a new macro and call it whatever you want, assign it whatever trigger you want as well. It doesn't matter at this point. In the following example, I have a macro called *Coding Time* that I named after the shortcut I would create when setting this up on Shortcuts on iOS.
@@ -51,6 +53,8 @@ In this next example, Keyboard Maestro selects the 2nd tab in the new Chrome win
 The final touch is opening my code note taking app, Quiver and maximizing it.
 
 ![](https://res.cloudinary.com/thatmacnerd/image/upload/v1550306685/Automating%20macOS%20with%20iOS/Screenshot-2019-02-16_03-20-19_AM.png)
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 
 ## Setting up BetterTouchTool {#id}
@@ -71,6 +75,8 @@ tell application "BetterTouchTool"
 end tell
 ```
 
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ## Running scripts over ssh {#id}
 
 Here is the fun part where Shortcuts comes in.
@@ -78,6 +84,8 @@ Here is the fun part where Shortcuts comes in.
 {% notice warning %}
 It is not within the scope of this article to tell you how to enable sshing into your Mac. [Here is a really good article](https://www.booleanworld.com/access-mac-ssh-remote-login/) that covers this.
 {% endnotice %}
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ### Creating a timer with Toggl
 
@@ -90,6 +98,8 @@ Here is what this looks like in Shortcuts:
 ![](https://res.cloudinary.com/thatmacnerd/image/upload/v1550379388/Automating%20macOS%20with%20iOS/toggl_shot_shortcuts.png)
 
 There are some intermediate steps, but if you just want to get the shortcut, click on the *Start Work Timer* below to import into Shortcuts to play around with it.
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ### Using ssh to login to your Mac and run your macro
 
@@ -113,6 +123,9 @@ Adding this to Siri is a good way to trigger this shortcut with your voice as I 
 
 {% include responsive-embed url="https://www.youtube.com/embed/pZiJgM_M9S0" ratio="16:9" %}
 
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ## Other fun things
 
 You can trigger iTunes from your iOS device with Shortcuts, Siri, and Applescript, much like I have done here:
@@ -122,6 +135,8 @@ You can trigger iTunes from your iOS device with Shortcuts, Siri, and Applescrip
 Here is what the shortcut looks like:
 
 ![](https://res.cloudinary.com/thatmacnerd/image/upload/v1550378695/Automating%20macOS%20with%20iOS/choose_itunes_playlist_shortcuts.png)
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ## Available Shortcuts
 

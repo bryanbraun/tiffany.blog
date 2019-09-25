@@ -58,11 +58,15 @@ Oh and can we just appreciate this packaging?
     </figcaption>
 </figure>
 
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ### Comfort
 
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e4e; color: #ffffff;">Great</a>
 
 This thing feels *great* on my arthritic shoulders. With most bags, if there is any type of load at all, I need to lift the bag off my shoulders for a bit to stop it from fatiguing my shoulders and causing pain. Granted, I haven't worn it with my 15" MacBook Pro in it[^3] but that's coming next Friday.
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ### Organization
 
@@ -110,11 +114,15 @@ I went to the Dollar Tree to find little items of note I could put in the Clear 
 
 This is something I am new to, using pouches. Chase is a *big* proponent of them and they make sense, especially if you do a lot of traveling, which is something that is going to happen in my near future.
 
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ### Build
 
 <a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e4e; color: #ffffff;">Great</a>
 
 *Oh man oh man*. This bag is...*incredible*. The build quality, from the metal clasps, YKK zippers, and bag material, the lining inside of the zipper flaps, everything is thoroughly considered and *premium*.
+
+<a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ### Value for Price
 
