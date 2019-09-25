@@ -12,8 +12,6 @@
   url: /search/
 - title: Archive
   url: /archive/
-- title: About
-  url: /about/
 - title: Gear
   url: /gear/
 - title: Home Screens
@@ -26,5 +24,9 @@
   url: "https://social.tiffanywhite.blog"
 # - title: Contact
 #   url: /contact/
-- title: Privacy Policy
-  url: /privacy-policy/
+# - title: Privacy Policy
+#   url: /privacy-policy/
+- title: Now
+  url: /now/
+- title: About
+  url: /about/

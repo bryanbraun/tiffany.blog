@@ -30,6 +30,10 @@ q {
   border-color: #d72323;
   border-width: 0.5em;
   background-color:rgb(247, 247, 247);
+   /*Box Shadow - (Optional)*/
+   -moz-box-shadow: 2px 2px 15px #ccc;
+   -webkit-box-shadow: 2px 2px 15px #ccc;
+   box-shadow: 2px 2px 15px #ccc;
   footer {
     font-size: 80%;
     font-style: normal;
