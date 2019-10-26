@@ -28,5 +28,7 @@
 #   url: /privacy-policy/
 - title: Now
   url: /now/
+- title: Feeds
+  url: /feeds/
 - title: About
   url: /about/

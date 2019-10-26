@@ -10,6 +10,10 @@ entries_layout: grid
 
 Reading [Marco Arment’s headphone reviews](https://marco.org/headphones-closed-portable), and me being the music fiend I am, I decided to dedicate some time to reviewing mid to high-end headphones that I purchase throughout the next couple years. This collection chronicles my time with entry-level audiophile headphones.
 
+Chase Reeves has a few headphone reviews on his YouTube channel too.
+
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/1_UXDcVFrA8" ratio="16:9" %}
+
 Over time I will get more general audiophile headphones and review them here.
 
 {% notice info %}
@@ -35,4 +39,9 @@ I will give each criterion a rating of&nbsp; <a class="fasc-button fasc-size-med
 You can check out my [Collection of Cans Pinterest board](https://www.pinterest.com/tiffanywhitedev/collection-of-cans/) or my [Cans Amazon Ideas List](http://a.co/8z3OUC2) to see the absurd amounts of money I'm willing to pay for cans[^1].
 
 
+The RSS feed for this collection:
+
+<a href="/feed/headphones.xml">Headphones&nbsp;<span><i class="fas fa-rss" style="color: #fa9b39; font-size: .8rem; text-decoration: none;"></i></span></a><br />
+
 [^1]: Let's be honest: the ones > $500 I am not *really* going to buy off the bat, more than likely saving for them. I am not Marco, and while I am finally, *finally* employed after a long wait making more than market rate for my title and area, I *still* just won't be Marco, not now, and probably not ever.
+

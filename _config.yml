@@ -67,8 +67,18 @@ pwa:
 # Build settings
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
+
 feed:
   path: atom.xml
+  categories:
+    - App Review
+    - iOS Automation
+    - Pick of the month
+    - Linked Post
+  collections:
+    - headphones
+    - homescreens
+    - bags
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
@@ -98,6 +108,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-json-feed
 
 # Front Matter Defaults
 defaults:
@@ -133,7 +144,7 @@ defaults:
 # Site Author
 author:
   name: Tiffany White
-  picture: https://res.cloudinary.com/thatmacnerd/image/upload/v1565138125/color-avi_copy-min.png
+  picture: https://res.cloudinary.com/thatmacnerd/image/upload/v1565224506/twhiteblog-avi.png
   email:
   twitter: tiffanywhitedev
   links:
@@ -160,6 +171,9 @@ footer_links:
   - title: Pinterest
     url: https://www.pinterest.com/tiffanywhitedev/
     icon: fab fa-pinterest-square
-  - title: Feed
+  - title: RSS Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: JSON Feed
+    url: feed.json
+    icon: fas fa-code
