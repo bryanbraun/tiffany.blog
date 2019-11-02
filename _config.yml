@@ -159,18 +159,18 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/tiffanywhitedev
     icon: fab fa-twitter-square
-  - title: YouTube
-    url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
-    icon: fab fa-youtube
+  # - title: YouTube
+  #   url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
+  #   icon: fab fa-youtube
   - title: Status
     url: https://status.tiffanywhite.blog
     icon: fas fa-file-medical-alt
   - title: Instagram
     url: https://www.instagram.com/trwhitephoto
     icon: fab fa-instagram
-  - title: Pinterest
-    url: https://www.pinterest.com/tiffanywhitedev/
-    icon: fab fa-pinterest-square
+  # - title: Pinterest
+  #   url: https://www.pinterest.com/tiffanywhitedev/
+  #   icon: fab fa-pinterest-square
   - title: RSS Feed
     url: atom.xml
     icon: fas fa-rss-square
