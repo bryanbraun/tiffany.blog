@@ -1,5 +1,5 @@
 ---
-title: "Build & Automate, My YouTube Channel"
+title: "Tiff Talks Tech, My YouTube Channel"
 date: 2019-09-24
 layout: post
 categories:
@@ -9,13 +9,13 @@ tags:
   - smart home
   - crazy ideas
 image:
-  path: https://res.cloudinary.com/thatmacnerd/image/upload/v1569198474/Build_Automate.png
+  path: https://res.cloudinary.com/thatmacnerd/image/upload/v1574647080/tiff-talks-tech.png
   caption: Header for the channel
 excerpt: I'm in pretty deep.
 description: I'm in pretty deep.
 ---
 
-I've started a YouTube channel called *Build & Automate* so that I have an excuse to indulge my smart home habit. I also love creating videos and editing them[^1]. And all my favorite smart home tech folks on YouTube are *folks of a certain age* which makes me feel good; YouTube generally is a young person's game, and I don't want to feel out of my element. The tech YouTubers I watch are all mid-thirties, early to mid-forties. It gives an old gal hope.
+I've started a YouTube channel called *Tiff Talks Tech* so that I have an excuse to indulge my smart home habit. I also love creating videos and editing them[^1]. And all my favorite smart home tech folks on YouTube are *folks of a certain age* which makes me feel good; YouTube generally is a young person's game, and I don't want to feel out of my element. The tech YouTubers I watch are all mid-thirties, early to mid-forties. It gives an old gal hope.
 
 *The channel*
 
@@ -23,7 +23,7 @@ I've started a YouTube channel called *Build & Automate* so that I have an excus
 
 If just creating a YouTube channel wasn't enough, I have a Twitter account for it...
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just a YouTube channel, on the internet, tweeting so that it has something to embed on its website.</p>&mdash; Build &amp; Automate (@_BuildAutomate) <a href="https://twitter.com/_BuildAutomate/status/1176665740226826240?ref_src=twsrc%5Etfw">September 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just a YouTube channel, on the internet, tweeting so that it has something to embed on its website.</p>&mdash; Build &amp; Automate (@_TiffTalksTech) <a href="https://twitter.com/_TiffTalksTech/status/1176665740226826240?ref_src=twsrc%5Etfw">September 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 And an Instagram...
@@ -33,7 +33,7 @@ And an Instagram...
 
 
 
-And a [Build & Automate](https://buildandautomate.org/) website...
+And a [Tiff Talks Tech](https://tiffanytalkstech.com) website...
 
 *Maybe I'm way in over my head but I don't care*.
 

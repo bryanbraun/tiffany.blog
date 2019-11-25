@@ -32,7 +32,7 @@ Robots and DIY anyone?
 
 ## Smart Home Stuff
 
-Getting more and more into all this. Check out [Build & Automate](https://buildandautomate.org) for more of this stuff.
+Getting more and more into all this. Check out [Tiff Talks Tech](https://tiffanytalkstech.com) for more of this stuff.
 
 <iframe src="https://kit.com/embed?url=https%3A%2F%2Fkit.com%2Ftiffanywhitedev%2Fultimate-smart-apartment" style="display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px" scrolling="no"></iframe> <br />
 

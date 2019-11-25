@@ -17,7 +17,7 @@ npm-debug.log*
 /_yardoc/
 /doc/
 /rdoc/
-
+scripts/
 ## Environment normalization:
 /.bundle/
 /vendor/
