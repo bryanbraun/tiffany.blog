@@ -154,6 +154,9 @@ author:
     - title: Instagram
       url: https://www.instagram.com/trwhitephoto
       icon: fab fa-instagram
+    - title: Apple Music
+      url: https://music.apple.com/profile/tiffanywhitedev
+      icon: fab fa-itunes
 # Footer Links
 footer_links:
   - title: Twitter
@@ -162,12 +165,12 @@ footer_links:
   # - title: YouTube
   #   url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
   #   icon: fab fa-youtube
-  - title: Status
-    url: https://status.tiffanywhite.blog
-    icon: fas fa-file-medical-alt
   - title: Instagram
     url: https://www.instagram.com/trwhitephoto
     icon: fab fa-instagram
+  - title: Apple Music
+    url: https://music.apple.com/profile/tiffanywhitedev
+    icon: fab fa-itunes
   # - title: Pinterest
   #   url: https://www.pinterest.com/tiffanywhitedev/
   #   icon: fab fa-pinterest-square
@@ -177,3 +180,6 @@ footer_links:
   - title: JSON Feed
     url: feed.json
     icon: fas fa-code
+  - title: Status
+    url: https://status.tiffanywhite.blog
+    icon: fas fa-file-medical-alt
