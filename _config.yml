@@ -171,6 +171,9 @@ footer_links:
   - title: Apple Music
     url: https://music.apple.com/profile/tiffanywhitedev
     icon: fab fa-itunes
+  - title: Spotify
+    url: https://open.spotify.com/user/carvingcarver
+    icon: fab fa-spotify
   # - title: Pinterest
   #   url: https://www.pinterest.com/tiffanywhitedev/
   #   icon: fab fa-pinterest-square
