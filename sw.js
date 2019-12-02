@@ -67,9 +67,10 @@ self.addEventListener('install', (event) => {
     const cache = await caches.open(CACHE_NAME);
     return cache.addAll(
       [
-        '/css/offline.css',
-        '/js/cats.js',
-        '/offline.html'
+        '/assets/css/offline.css',
+        '/assets/js/cats.js',
+        '/assets/images/tiffb.png',
+        '/offline.html',
       ]
     ),
     // Setting {cache: 'reload'} in the new request will ensure that the response
