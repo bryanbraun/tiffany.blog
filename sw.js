@@ -57,22 +57,22 @@ Copyright 2015, 2019 Google Inc. All Rights Reserved.
 
 // Incrementing OFFLINE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const OFFLINE_VERSION = 1;
+const OFFLINE_VERSION = 1.1;
 const CACHE_NAME = 'offline';
+const ASSETS = [
+  '/assets/css/offline.css',
+  '/assets/js/cats.js',
+  '/assets/images/tiffb.png',
+  '/offline.html',
+];
 // Customize this with a different URL if needed.
 const OFFLINE_URL = 'offline.html';
 
 self.addEventListener('install', (event) => {
   event.waitUntil((async () => {
-    const cache = await caches.open(CACHE_NAME);
-    return cache.addAll(
-      [
-        '/assets/css/offline.css',
-        '/assets/js/cats.js',
-        '/assets/images/tiffb.png',
-        '/offline.html',
-      ]
-    ),
+    const cache = await caches.open(CACHE_NAME).then(function (cache) {
+      return cache.addAll(ASSETS);
+    });
     // Setting {cache: 'reload'} in the new request will ensure that the response
     // isn't fulfilled from the HTTP cache; i.e., it will be from the network.
     await cache.add(new Request(OFFLINE_URL, { cache: 'reload' }));
