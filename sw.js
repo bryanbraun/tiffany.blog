@@ -18,8 +18,7 @@ const CACHE_NAME = 'offline';
 const ASSETS = [
   '/assets/css/offline.css',
   '/assets/js/cats.js',
-  '/assets/images/tiffb.png',
-  '/offline.html',
+  '/assets/images/tiffb.png'
 ];
 // Customize this with a different URL if needed.
 const OFFLINE_URL = 'offline.html';
