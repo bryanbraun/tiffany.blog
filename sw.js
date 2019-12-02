@@ -1,47 +1,3 @@
-// set names for both precache & runtime cache
-// workbox.core.setCacheNameDetails({
-//     prefix: 'tiffany-white-blog',
-//     suffix: 'v9.6',
-//     precache: 'precache',
-//     runtime: 'runtime-cache'
-//   });
-
-//   // let Service Worker take control of pages ASAP
-//   workbox.skipWaiting();
-//   workbox.clientsClaim();
-
-//   // let Workbox handle our precache list
-//   workbox.precaching.precacheAndRoute(self.__precacheManifest);
-
-//   // use `networkFirst` strategy for `*.html`, like all my posts
-//   workbox.routing.registerRoute(
-//     /\.html$/,
-//     workbox.strategies.networkFirst()
-//   );
-
-//   workbox.routing.registerRoute(/(.*)article(.*)\.html/, args => {
-//     return articleHandler.handle(args).then(response => {
-//       if (!response) {
-//         return caches.match('offline.html');
-//       } else if (response.status === 404) {
-//         return caches.match('404.html');
-//       }
-//       return response;
-//     });
-//   });
-
-//   // use `cacheFirst` strategy for images
-//   workbox.routing.registerRoute(
-//     /assets\/(img|icons)/,
-//     workbox.strategies.cacheFirst()
-//   );
-
-//   // third party files
-//   workbox.routing.registerRoute(
-//     /^https?:\/\/cdn.staticfile.org/,
-//     workbox.strategies.staleWhileRevalidate()
-//   )
-
 /*
 Copyright 2015, 2019 Google Inc. All Rights Reserved.
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -57,7 +13,7 @@ Copyright 2015, 2019 Google Inc. All Rights Reserved.
 
 // Incrementing OFFLINE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const OFFLINE_VERSION = 1.2;
+const OFFLINE_VERSION = 1.3;
 const CACHE_NAME = 'offline';
 const ASSETS = [
   '/assets/css/offline.css',
