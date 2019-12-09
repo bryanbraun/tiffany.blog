@@ -14,7 +14,6 @@ This collection is inspired by this man below. I don't do YouTube but I thought 
 
 {% include responsive-embed url="https://www.youtube-nocookie.com/embed/_9dvl0H1De0" ratio="16:9" %}
 
-
 {% notice info %}
   Listed is a criteria template I will use for each review. 
 {% endnotice %}
