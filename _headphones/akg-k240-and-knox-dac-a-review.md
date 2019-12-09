@@ -1,5 +1,6 @@
 ---
 title: "AKG k240 and Knox DAC, A Review"
+date: "2019-06-29"
 image:
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1562351115/Headphones/headphones-stand.jpg
   thumbnail: /images/akg-thumb.jpg
