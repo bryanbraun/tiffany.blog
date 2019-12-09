@@ -12,7 +12,8 @@ I am a bag kinda girl. No offense to women who love purses, but that kind of eve
 
 This collection is inspired by this man below. I don't do YouTube but I thought I'd write about bags instead.
 
-{% include responsive-embed url="https://www.youtube.com/embed/_9dvl0H1De0" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/_9dvl0H1De0" ratio="16:9" %}
+
 
 {% notice info %}
   Listed is a criteria template I will use for each review. 
