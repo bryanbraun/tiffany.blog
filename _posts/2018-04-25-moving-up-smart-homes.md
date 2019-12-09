@@ -31,9 +31,7 @@ Luckily for me there are plenty of remote opportunities and a company that asked
 
 The internship allowed me to save enough money to move into *my dream place*. It is super nice and super cheap. This place could go for so much more but I am glad it is what it is.
 
-<div class="responsive-embed responsive-embed-16by9">
-  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/e1zc3isQFvE"></iframe>
-</div>
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/e1zc3isQFvE" ratio="16:9" %}
 
 ## New Office Space
 
@@ -46,8 +44,6 @@ Rocking dual monitors is key for developer productivity and all the rest is grav
 ## Smart Things
 
 I bought a set of LIFX lights and a LIFX LED strip, another Echo but this time an Echo Dot. I am still cleaning things up and putting things together but I am having fun with the *smart home* stuff as evidenced here:
-
-{% include responsive-embed url="https://www.youtube-nocookie.com/embed/e1zc3isQFvE" ratio="16:9" %}
 
 
 {% include responsive-embed url="https://www.youtube-nocookie.com/embed/v2UZEEOFSlQ" ratio="16:9" %}
