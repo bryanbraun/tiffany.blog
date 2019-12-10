@@ -92,7 +92,7 @@ I listened to my Audio Testing playlist using the flat setting on my equalizer s
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="1000" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/audio-testing/pl.u-JP9rZCE8mE00"></iframe><br />
 
 #### Spotify, Audio Testing
-<iframe src="https://open.spotify.com/embed/playlist/4fR2fe0OjEFknh3DTH2LLz" width="660" height="1000" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br />
+<iframe src="https://open.spotify.com/embed/playlist/4fR2fe0OjEFknh3DTH2LLz" style="width:100%;max-width:660px;overflow:hidden;" height="1000" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br />
 
 *These are the best sounding headphones I have, right out of the box.* Everything, for the most part, was clear and crisp. However, I did have some issue listening to songs with loud cymbals; the crashing of the cymbals were harsh and made it hard to listen. I had to turn them down to get it to be comfortable enough to listen. With some songs, the bass was a bit muddy, but not with all. I suppose it is the way in which these songs were recorded that makes the difference.
 
