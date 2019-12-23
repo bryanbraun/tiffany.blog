@@ -12,5 +12,8 @@
     "statusBar.background": "#df1a28",
     "statusBarItem.hoverBackground": "#e9434f",
     "statusBar.foreground": "#e7e7e7"
-  }
+  },
+  "editor.fontSize": 18,
+  "editor.fontFamily": "Operator Mono Lig",
+  "editor.tabSize": 2
 }
