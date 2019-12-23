@@ -43,7 +43,7 @@ There is only so much time in the day and I am lucky to have my job and, by some
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/twhiteblog) Or don’t. 🤷🏿
 
-*Last Updated: 2019-09-21 16.54.58*
+*Last Updated: 2019-12-22 23.15.48*
 
 [^1]: Name inspired by Bill Gates [Gates Notes](https://www.gatesnotes.com/Books).
 [^2]: I need to get settled into my new apartment and also figure out who I should ask to cohost. I have a couple people in mind.
