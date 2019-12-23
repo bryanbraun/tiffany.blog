@@ -23,7 +23,7 @@ Working on an API to consume in a frontend project using React.js, shards-react 
 
 I am working on three blogs: this one, tiffany.blog, my book review blog, [Book Notes by Tiffany](https://booknotesbytiffany.net)[^1], a [YouTube channel called Tiff Talks Tech](https://www.youtube.com/channel/UCWi0HlYe3si17IRc-dauGGg) and its [companion blog/site](https://tiffanytalkstech.com/), and my dev blog [Tiffany R. White Blog](https://tiffanywhite.dev/). I also started yet *another* dev podcast called [Good First Issue](https://goodfirstissue.org/)[^2].
 
-I've also become more interested in stocism and minimalism as good practices for someone my age. [Matt D'Avella's YouTube channel](https://www.youtube.com/user/blackboxfilmcompany), my own mortality and worsening health, and wanting to have financial freedom has really inspired me to make a change, even _before_ the start of the new year.
+I've also become more interested in stoicism and minimalism as good practices for someone my age. [Matt D'Avella's YouTube channel](https://www.youtube.com/user/blackboxfilmcompany), my own mortality and worsening health, and wanting to have financial freedom has really inspired me to make a change, even _before_ the start of the new year.
 
 ## Learning
 
