@@ -41,7 +41,7 @@ I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite)
 
 There is only so much time in the day and I am lucky to have my job and, by some measures, just friends and no spouse or kids[^4]. I have an 8 hour workday, 5 days a week, which means there is ample time to have side hustles and projects. Focusing on what is important is key.
 
-What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/twhiteblog) Or don’t. 🤷🏿
+What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/twhiteblog) Or don’t. 🤷🏾‍♀️
 
 *Last Updated: 2019-12-22 23.15.48*
 
