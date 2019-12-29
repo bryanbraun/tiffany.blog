@@ -9,7 +9,7 @@ Derek Sivers set up a website called [nownownow.com](http://nownownow.com/about)
 
 ## Location
 
-I am living in Swatara Twp, PA, a small suburb of Harrisburg, PA, Pennsylvania's capitol
+I am living in Swatara Twp, PA.
 
 ## Work
 
