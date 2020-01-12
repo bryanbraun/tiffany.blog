@@ -14,6 +14,7 @@ $min-vw: $small !default;
 $max-vw: $xlarge !default;
 $min-font-size: 22px !default;
 $max-font-size: 27px !default;
+$text-width: $medium;
 
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
@@ -67,7 +68,7 @@ $primary-color: #920358 !default;
 $success-color: #62c462 !default;
 $warning-color: #f89406 !default;
 $danger-color: #d72323 !default;
-$info-color: #920358 !default;
+$info-color: #4bc3d5 !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: #000 !default;
