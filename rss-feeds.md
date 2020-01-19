@@ -4,7 +4,10 @@ layout: page
 permalink: /feeds/
 ---
 
-Links to the various categories on this site and *finally a JSON feed*!!! You can also find the JSON feed in the footer with the <i class="fas fa-code" style="color: #00bf8f; font-size: .8rem;"></i> code brackets.
+{% notice info %}
+  Links to the various categories on this site and *finally a JSON feed*!!! You can also find the JSON feed in the footer with the <i class="fas fa-code" style="color: #00bf8f; font-size: .8rem;"></i> code brackets.
+{% endnotice %}
+
 
 ## Category feeds
 
