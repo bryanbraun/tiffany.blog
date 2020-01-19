@@ -25,8 +25,12 @@ The following YouTube video on a _whole HomeKit home_ inspired my own wall-mount
 
 {% include responsive-embed url="https://www.youtube-nocookie.com/embed/akeYkBk1PWM" ratio="16:9" %}
 
+{% notice warning %}
+  Finally got the wall mount and adapter, thus a better video.
+{% endnotice %}
+
 ## What I am working with
 
 My setup:
 
-{% include responsive-embed url="https://player.vimeo.com/video/379393688" ratio="16:9" %}
+{% include responsive-embed url="https://player.vimeo.com/video/385627662?color=d72323" ratio="16:9" %}
