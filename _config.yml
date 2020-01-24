@@ -79,6 +79,7 @@ feed:
     - headphones
     - homescreens
     - bags
+    - fitness
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
@@ -136,6 +137,13 @@ defaults:
   - scope:
       path: "_bags"
       type: bags
+    values:
+      layout: post
+      comments: false
+      share: true
+  - scope:
+      path: "_fitness"
+      type: fitness
     values:
       layout: post
       comments: false
