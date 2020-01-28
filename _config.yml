@@ -51,7 +51,7 @@ collections:
   fitness:
     output: true
     permalink: /:collection/:path/
-    
+
 
 # Liquid
 liquid:
@@ -84,6 +84,7 @@ feed:
     - headphones
     - homescreens
     - bags
+    - fitness
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10

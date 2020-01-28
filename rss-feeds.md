@@ -14,6 +14,7 @@ permalink: /feeds/
 <a href="/feed/ios%20automation.xml">iOS Automation&nbsp;<span><i class="fas fa-rss" style="color: #fa9b39; font-size: .8rem; text-decoration: none;"></i></span></a><br />
 <a href="/feed/app%20review.xml">App Review&nbsp;<span><i class="fas fa-rss" style="color: #fa9b39; font-size: .8rem;  text-decoration: none;"></i></span></a><br />
 <a href="/feed/pick%20of%20the%20month.xml">Pick of the Month&nbsp;<span><i class="fas fa-rss" style="color: #fa9b39; font-size: .8rem; text-decoration: none;"></i></span></a><br />
+<a href="/feed/fitness.xml">Fitness Journey<span><i class="fas fa-rss" style="color: #fa9b39; font-size: .8rem; text-decoration: none;"></i></span></a><br />
 
 ## JSON feed:
 
