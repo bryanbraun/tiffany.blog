@@ -8,6 +8,8 @@ image:
 
 I use MyFitnessPal and MapMyFitness to keep track of my eating and fitness. I use Day One to monitor my mental health and goals[^1].
 
+{% include toc %}
+
 This all starts with making sure each app is on my home screen.
 
 <figure>
@@ -24,7 +26,6 @@ This all starts with making sure each app is on my home screen.
 
 Let's take a look at some UI elements of each.
 
-{% include toc %}
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1580170956/Fitness/IMG_0723.png" />
