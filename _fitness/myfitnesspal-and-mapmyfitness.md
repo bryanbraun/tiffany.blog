@@ -7,7 +7,9 @@ image:
   thumbnail: images/mfp-thumb.jpg
 ---
 
-I use MyFitnessPal and MapMyFitness to keep track of my eating and fitness. I use Day One to monitor my mental health and goals[^1].
+I use MyFitnessPal and MapMyFitness to keep track of my eating and fitness.
+
+I use Day One to monitor my mental health and goals[^1].
 
 {% include toc %}
 
