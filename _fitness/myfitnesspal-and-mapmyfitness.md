@@ -2,6 +2,7 @@
 title: "MyFitnessPal, MapMyFitness, and Day One: The Trifecta of Habits"
 date: "2020-01-28"
 image:
+  caption: Photo by [juan pablo rodriguez on Unsplash](https://unsplash.com/@juanparodriguez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   path: https://res.cloudinary.com/thatmacnerd/image/upload/v1580263983/Fitness/mfp.jpg
   thumbnail: images/mfp-thumb.jpg
 ---
