@@ -216,7 +216,7 @@ I was into all this before but it wasn't healthy back then; all the bunk science
 
 If I gain weight I don't want to feel ashamed about it. I just want to get back on the wagon. The culture around fitness can be toxic and I'm cutting all that toxicity *out of my life* while still enjoying the community.
 
-If you are on a journey, hit me up! I am [waisted78 on MyFitnessPal](https://www.myfitnesspal.com/profile/waisted78) and my fitness Instagram nametag is below.
+If you are on a journey, hit me up! I am [waisted78 on MyFitnessPal](https://www.myfitnesspal.com/profile/waisted78) and [Tiffany White on MapMyFitness](https://www.mapmyfitness.com/profile/Tiffany162207718/) and my Instagram nametag is below.
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/c_scale,h_677/v1580342633/Fitness/insta-nametag.jpg" />
