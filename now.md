@@ -13,7 +13,7 @@ I am living in Swatara Twp, PA.
 
 ## Work
 
-I am working as a junior frontend developer at [ICF](www.icf.com).
+I was working as a junior frontend developer at [ICF](www.icf.com) and am currently looking for my next role.
 
 ## Fun Programming Side Projects
 
