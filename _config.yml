@@ -159,34 +159,31 @@ author:
   name: Tiffany White
   picture: https://res.cloudinary.com/thatmacnerd/image/upload/v1565224506/twhiteblog-avi.png
   email:
-  twitter: tiffanywhitedev
+  twitter: twhiteblog
   links:
-    - title: Pinterest
-      url: https://www.pinterest.com/tiffanywhitedev/
-      icon: fab fa-pinterest-square
     - title: Instagram
       url: https://www.instagram.com/trwhitephoto
       icon: fab fa-instagram
     - title: Apple Music
       url: https://music.apple.com/profile/tiffanywhitedev
       icon: fab fa-itunes
+    - title: YouTube
+      url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
+      icon: fab fa-youtube
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/tiffanywhitedev
+    url: https://twitter.com/twhiteblog
     icon: fab fa-twitter-square
-  # - title: YouTube
-  #   url: https://www.youtube.com/channel/UCANizz_NF-Xr6DrnSLg0Ogg
-  #   icon: fab fa-youtube
   - title: Instagram
     url: https://www.instagram.com/trwhitephoto
     icon: fab fa-instagram
   - title: Apple Music
     url: https://music.apple.com/profile/tiffanywhitedev
     icon: fab fa-itunes
-  - title: Spotify
-    url: https://open.spotify.com/user/carvingcarver
-    icon: fab fa-spotify
+  - title: Vimeo
+    url: https://vimeo.com/tiffanywhite
+    icon: fab fa-vimeo-square
   # - title: Pinterest
   #   url: https://www.pinterest.com/tiffanywhitedev/
   #   icon: fab fa-pinterest-square
