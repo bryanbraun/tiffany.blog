@@ -10,7 +10,7 @@
 {%- else -%}
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
-
+  <!-- <script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script> -->
   <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
 {%- endif -%}
 
@@ -31,15 +31,6 @@
 <!-- MathJax -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 {% endif %}
-
-<!-- <script>
-  navigator.serviceWorker.getRegistrations().then(function (registrations) {
-      for (let registration of registrations) {
-        registration.unregister()
-        document.location.reload()
-      }
-    })
-</script> -->
 
 {%- if page.layout == "search" -%}
   {% include lunr-search-scripts.html %}

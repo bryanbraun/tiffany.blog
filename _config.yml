@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 locale: en-US
 title: "tiffany.blog"
 description: "your friend tiffany's little corner of the internet"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: # baseurl
 url: https://tiffanywhite.blog
 logo: https://res.cloudinary.com/thatmacnerd/image/upload/v1565224506/twhiteblog-avi.png
 date_format: "%B %-d, %Y"
