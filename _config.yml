@@ -154,6 +154,7 @@ defaults:
       comments: false
       share: true
 
+
 # Site Author
 author:
   name: Tiffany White
