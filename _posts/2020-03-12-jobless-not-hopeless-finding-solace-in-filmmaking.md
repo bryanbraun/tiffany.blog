@@ -5,7 +5,7 @@ layout: post
 categories:
   - Random
 carousel:
-  - image: /assets/images/slides/street-photos/1.1.jpg
+  - image:
   - image: /assets/images/slides/street-photos/1.2.jpg
   - image: /assets/images/slides/street-photos/1.3.jpg
   - image: /assets/images/slides/street-photos/1.5.jpg
@@ -31,7 +31,11 @@ When I started to get *really into* computers I was doing the online dating thin
 
 Still, I wanted to shoot video and tell gritty stories, much like the stories I'd written.
 
-{% include flexslider-posts.html %}
+![](/assets/images/slides/street-photos/1.1.jpg){: .align-left}
+![](/assets/images/slides/street-photos/1.3.jpg){: .align-right}
+![](/assets/images/slides/street-photos/1.5.jpg){: .align-left}
+![](/assets/images/slides/street-photos/1.6.jpg){: .align-right}
+
 
 ## Bought the gear
 
