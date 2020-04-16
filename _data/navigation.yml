@@ -22,8 +22,10 @@
   url: /bags/
 - title: Fitness Journey
   url: /fitness-journey/
-- title: Updates
-  url: "https://social.tiffanywhite.blog"
+# - title: Updates
+#   url: "https://social.tiffanywhite.blog"
+- title: Shortcuts Archive
+  url: /shortcuts/
 # - title: Contact
 #   url: /contact/
 # - title: Privacy Policy

@@ -8,6 +8,10 @@ entries_layout: grid
 permalink: /fitness-journey/
 ---
 
+{% notice warning %}
+  This collection is deprecated. I moved the journey to its own site, [Distinguished Fat Loss](https://distinguishedfatloss.com).
+{% endnotice %}
+
 *So this is it*.
 
 Matt D'Avella has, in a sense, saved my life as well as my sanity.
