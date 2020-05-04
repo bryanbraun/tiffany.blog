@@ -1,6 +1,6 @@
 ---
-title: "Setting Up for YouTube: Gear and Backdrop"
-date: 2020-02-21
+title: "Job Searching, Filmmaking, and Cooking Good Food"
+date: 2020-05-03
 layout: post
 categories:
 tags:
