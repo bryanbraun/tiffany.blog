@@ -50,7 +50,7 @@ First, there was *The Class Mac Nerd*[^2]. I copied everything, even the little 
     </figcaption>
 </figure>
 
-Tired of being *too* much of a copycat, I went with That Mac Nerd. I started to blog about [apps](/2016/05/27/that-mac-nerd-10-best-productivity-apps-ios/) and [producticity](/2017/03/07/productivity-system-overhaul/), even trying to be a [breaking](/2017/05/06/guardian-pulls-apple-news/) [Apple news site](/2017/05/06/apple-shrinks-affiliate-commissions/) much like [Daring Fireball](https://daringfireball.net/) or [MacStories](https://www.macstories.net/).
+Tired of being *too* much of a copycat, I went with That Mac Nerd. I started to blog about [apps](/2016/05/27/that-mac-nerd-10-best-productivity-apps-ios/) and [productivity](/2017/03/07/productivity-system-overhaul/), even trying to be a [breaking](/2017/05/06/guardian-pulls-apple-news/) [Apple news site](/2017/05/06/apple-shrinks-affiliate-commissions/) much like [Daring Fireball](https://daringfireball.net/) or [MacStories](https://www.macstories.net/).
 
 ## The endless Apple Pundit rat race
 
