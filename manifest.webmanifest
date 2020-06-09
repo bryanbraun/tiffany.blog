@@ -8,7 +8,7 @@
     "orientation": "any",
     "start_url": "/",
     "background_color": "#efefef",
-    "theme_color": "#D72323",
+    "theme_color": "#e60023",
     "icons": [
       {
         "src": "/icons/apple-touch-icon-57x57.png",
