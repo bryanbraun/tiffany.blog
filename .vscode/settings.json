@@ -11,9 +11,14 @@
     "titleBar.inactiveForeground": "#e7e7e799",
     "statusBar.background": "#df1a28",
     "statusBarItem.hoverBackground": "#e9434f",
-    "statusBar.foreground": "#e7e7e7"
+    "statusBar.foreground": "#e7e7e7",
+    "activityBar.activeBackground": "#e9434f",
+    "activityBar.activeBorder": "#29e41b",
+    "statusBar.border": "#df1a28",
+    "titleBar.border": "#df1a28"
   },
   "editor.fontSize": 18,
   "editor.fontFamily": "Operator Mono Lig",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "peacock.color": "#df1a28"
 }
