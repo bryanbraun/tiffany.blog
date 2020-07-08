@@ -13,7 +13,7 @@ description: Are you as light as or lighter than this paper bag?
 
 When I was with my Aunt over the holidays, we got to talking about my grandma's old car, a rare one, even for the 70s whose name I cannot recall.
 
-My Aunt relayed how she totalled it.
+*My Aunt relayed how she totalled it*.
 
 "It was a sunny day and I was dancing in the car, not even paying much attention"
 
