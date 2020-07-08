@@ -152,7 +152,7 @@ It's coming along!
 
 ## Getting there
 
-These are the most exciting parts of the apartment, the places I spend the most time. My bedroom is just meh. The bathrooms have tech in them but they're *bathrooms* and completely unrelevant.
+These are the most exciting parts of the apartment, the places I spend the most time. My bedroom is just meh. The bathrooms have tech in them but they're *bathrooms* and completely irrelevant.
 
 I like it here. I still long for my last place but I am here now and I like it.
 
