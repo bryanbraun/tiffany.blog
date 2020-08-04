@@ -13,7 +13,7 @@ I live in Swatara Twp, PA.
 
 ## Work
 
-I was working as a junior frontend developer at [ICF](www.icf.com) and am currently looking for my next role.
+I was working as a junior frontend developer at [ICF](www.icf.com) and am currently interviewing for new frontend or fullstack JavaScript roles. Interested in chatting? Check out my [resume](https://resume.tiffanyrwhite.com/), [portfolio](https://www.tiffanyrwhite.com/) which is being refactored, my [GitHub](https://github.com/twhite96) or [LinkedIn](https://linkedin.com/in/tiffanyrwhite). Or, you can <a href="mailto:tiffany@tiffanyrwhite.com">come say hi</a>!
 
 ## Fun Programming Side Projects
 
@@ -58,7 +58,7 @@ There is only so much time in the day and I am lucky to have just my friends and
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/twhiteblog). Or don’t. 🤷🏾‍♀️
 
-*Last Updated: 2020-06-26 03.51.48*
+*Last Updated: 2020-07-30 02.46.30*
 
 [^1]: Name inspired by Bill Gates [Gates Notes](https://www.gatesnotes.com/Books).
 [^2]: I need to get settled into my new apartment and also figure out who I should ask to cohost. I have a couple people in mind.
