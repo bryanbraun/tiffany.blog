@@ -8,7 +8,7 @@ last_modified_at: 2018-06-22 01.43.55
 excerpt: "I'm sure that you've seen that I haven't posted here for a couple months. In between my internship ending and the abrupt ending of my lease, I have had a pretty stressful couple of months."
 layout: post
 link: >
-  https://thatmacnerd.com/moving-up-smart-homes/
+   
 published: true
 tags:
   - lifx

@@ -7,7 +7,7 @@ post_date: 2017-05-10 00:29:16
 excerpt: I have been writing about Apple in some form or another for the past two years. Starting as an app blog for non-traditional students, to moving my work over to The Apple Fancast, then back to my blog. I've had this thing running just a fraction of the time of other indie blogs and that's because I didn't get my first Apple device until October of 2013.
 layout: post
 link: >
-  https://thatmacnerd.com/three-years-apple-fangirl/
+   
 published: true
 tags:
   - Apple
@@ -18,7 +18,7 @@ tags:
 categories:
   - The Apple Experience
 ---
-<img class=" wp-image-1258 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-10-37-PM.png" width="971" height="728" />
+<img class=" wp-image-1258 aligncenter" src=" 
 
 I have been writing about Apple in some form or another for the past two years. Starting as an app blog for non-traditional students, to moving my work over to The Apple Fancast [^1], then back to my blog.
 
@@ -34,7 +34,7 @@ By 2000 I was enamored with the web and computers. My first experience with a mo
 
 I went into the Mac lab and sat down at this beautiful Bondi Blue iMac.
 
-[caption id="attachment_1256" align="alignnone" width="1280"]<img class="alignnone size-full wp-image-1256" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-10-36-PM.jpeg" alt="Bondi Blue iMac, circa 1999-2003" width="1280" height="720" /> Bondi Blue iMac, circa 1999-2003[/caption]
+[caption id="attachment_1256" align="alignnone" width="1280"]<img class="alignnone size-full wp-image-1256" src=" 
 
 It had no icons on the desktop and a hidden dock. It was inscrutable to me - I didn't know how to navigate it without a desktop full of icons.
 
@@ -80,9 +80,9 @@ The apps were all pulled down from iCloud rather seamlessly. It felt like heaven
 
 I brought it home and found the apps on it to look and respond *better*.
 
-[caption id="attachment_1250" align="aligncenter" width="403"]<img class="wp-image-1250" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-10-35-PM.jpeg" alt="Newsstand, iOS 2013" width="403" height="537" /> Newsstand, iOS 2013[/caption]
+[caption id="attachment_1250" align="aligncenter" width="403"]<img class="wp-image-1250" src=" 
 
-[caption id="attachment_1254" align="aligncenter" width="238"]<img class="alignnone wp-image-1254" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-10-34-PM.jpeg" alt="Android Goodreads app circa 2013" width="238" height="423" /> Android Goodreads app circa 2013[/caption]
+[caption id="attachment_1254" align="aligncenter" width="238"]<img class="alignnone wp-image-1254" src=" 
 
 It was then that I decided I needed an iPhone.
 
@@ -90,17 +90,17 @@ It was then that I decided I needed an iPhone.
 
 One of the selling points of the iPhone was its superior camera.
 
-[caption id="attachment_1253" align="aligncenter" width="387"]<img class="alignnone wp-image-1253" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-10-41-PM.jpeg" alt="My First iPhone, the iPhone 5s, 2014" width="387" height="387" /> My First iPhone, the iPhone 5s, 2014[/caption]
+[caption id="attachment_1253" align="aligncenter" width="387"]<img class="alignnone wp-image-1253" src=" 
 
 I fancied myself a photographer and the camera was basically what drove me over, as well as the quality apps.
 
 I downloaded a ton of camera apps and joined iPhoneography forums, and went out taking lots of amateurish photos with some gems thrown in.
 
-[caption id="attachment_1251" align="aligncenter" width="594"]<img class="alignnone wp-image-1251" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-10-44-PM.jpeg" alt="Shot with my Samsung Note II but edited on my iPhone 5s" width="594" height="264" /> Shot with my Samsung Note II but edited on my iPhone 5s[/caption]
+[caption id="attachment_1251" align="aligncenter" width="594"]<img class="alignnone wp-image-1251" src=" 
 
-[caption id="attachment_1255" align="aligncenter" width="604"]<img class="alignnone wp-image-1255" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-10-48-PM.jpeg" alt="Pittsburgh" width="604" height="400" /> Pittsburgh[/caption]
+[caption id="attachment_1255" align="aligncenter" width="604"]<img class="alignnone wp-image-1255" src=" 
 
-[caption id="attachment_1252" align="aligncenter" width="508"]<img class="alignnone wp-image-1252" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-11-03-PM.jpeg" alt="Sometimes you get the decisive moment by luck." width="508" height="470" /> Sometimes you get the decisive moment by luck.[/caption]
+[caption id="attachment_1252" align="aligncenter" width="508"]<img class="alignnone wp-image-1252" src=" 
 
 I spent the better part of a year just playing around with my iPhone 5s, then 6.
 
@@ -118,7 +118,7 @@ Listening to Joe tell me about his plan, I decided to get a degree in English *a
 
 How does the MacBook Pro fit into this? *It was such a pleasure to use*. I couldn't stop working on it. The UI, the ease of bash, the apps [^8]. I became borderline obsessed with the computer - my productivity skyrocketed.
 
-[caption id="attachment_1257" align="aligncenter" width="523"]<img class="alignnone wp-image-1257" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-9-17-11-22-PM.jpeg" alt="First Mac" width="523" height="392" /> First Mac[/caption]
+[caption id="attachment_1257" align="aligncenter" width="523"]<img class="alignnone wp-image-1257" src=" 
 
 It set me on a path to actually make a healthy living as a developer [^9] instead of a barista at Starbucks and it made me *enjoy computing instead of tolerating it*.
 

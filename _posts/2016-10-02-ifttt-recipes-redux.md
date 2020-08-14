@@ -6,7 +6,7 @@ author: Tiffany White
 post_date: 2016-10-02 02:38:38
 layout: post
 link: >
-  https://thatmacnerd.com/ifttt-recipes-redux/
+   
 published: true
 tags:
   - automation
@@ -15,7 +15,7 @@ categories:
   - Uncategorized
 excerpt: Are you still using IFTTT recipes? I am. 
 ---
-<img class="alignnone size-full wp-image-784" src="https://thatmacnerd.com/wp-content/uploads/2016/10/IFTTT-1.jpg" width="500" height="300" alt="IFTTT recipes"/>
+<img class="alignnone size-full wp-image-784" src=" 
 
 Are you still using IFTTT recipes?
 

@@ -13,7 +13,7 @@ excerpt: >
   WorkflowHQ.
 layout: post
 link: >
-  https://thatmacnerd.com/apple-acquires-workflow/
+   
 published: true
 tags:
   - acquisitions
@@ -22,7 +22,7 @@ tags:
 categories:
   - News
 ---
-<img class="alignnone size-full wp-image-1058" src="https://thatmacnerd.com/wp-content/uploads/2017/03/Screenshot2017-03-30-20.16.20.png" width="2890" height="1708">
+<img class="alignnone size-full wp-image-1058" src=" 
 <p style="text-align: center;">&nbsp;</p>
 I have had *write post about Workflow* in my OmniFocus list for weeks now. Looks like I am too late. Apple has acquired WorkflowHQ.
 

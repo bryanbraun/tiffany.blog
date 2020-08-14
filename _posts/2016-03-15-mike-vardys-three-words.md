@@ -6,14 +6,14 @@ author: Tiffany White
 post_date: 2016-03-15 04:33:34
 layout: post
 link: >
-  https://thatmacnerd.com/mike-vardys-three-words/
+   
 published: true
 tags: uncategorized
 categories:
   - Uncategorized
 excerpt: Mike Vardy is the ultra-successful productivity blogger, podcaster, and coach. He runs The Productivityist blog and podcast.
 ---
-<img class="aligncenter size-full wp-image-401" src="https://thatmacnerd.com/wp-content/uploads/2016/03/Productivityist_20Podcast_20-_20Patreon_20September_202014.jpg" alt="Productivityist_20Podcast_20-_20Patreon_20September_202014.jpg" width="402" height="402" />
+<img class="aligncenter size-full wp-image-401" src=" 
 
 Mike Vardy is the ultra-successful productivity blogger, podcaster, and coach. He runs The Productivityist <a href="http://productivityist.com/">blog</a> and <a href="https://itunes.apple.com/us/podcast/productivityist-podcast-ideas/id913414044?mt=2">podcast</a>.
 
@@ -27,6 +27,6 @@ Mike usually keeps the first letter of each word the same. I haven’t copied th
  	<li>Health</li>
  	<li>Effort</li>
 </ul>
-<img class="aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2016/03/Screenshot2016-03-15_12-21-30_AM.png" alt="day_one" />
+<img class="aligncenter" src=" 
 
 There’s a myriad of things and apps you could use to keep track of your three words. The advantages to the three-word system are that it prevents you from setting arbitrary productivity goals and provides a framework for productivity throughout the year, as long as you <strong>keep to those themes</strong> and only do things that align with them.

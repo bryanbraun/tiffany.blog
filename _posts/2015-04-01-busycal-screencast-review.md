@@ -6,7 +6,7 @@ author: Tiffany White
 post_date: 2015-04-01 17:30:34
 layout: post
 link: >
-  https://thatmacnerd.com/busycal-screencast-review/
+   
 published: true
 tags:
   - app review
@@ -17,7 +17,7 @@ categories:
   - App Review
 excerpt: As promised, here is my screencast review of BusyCal.
 ---
-<h1>&nbsp;<img class="aligncenter size-large wp-image-583" src="https://thatmacnerd.com/wp-content/uploads/2016/06/BusyCal-1024x595.png" alt="" width="960" height="558"></h1>
+<h1>&nbsp;<img class="aligncenter size-large wp-image-583" src=" 
 As promised, here is my screencast review of BusyCal. There are a few around but people seem to be in love with Fantastical 2 since it has just been released. It’s receiving high praise so I’ll test it out and report back. I don’t plan on buying <em>another</em> calendar replacement app, but I will utilize the free trial.
 
 In any case, here is the BusyCal screencast.

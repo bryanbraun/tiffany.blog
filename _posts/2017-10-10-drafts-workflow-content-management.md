@@ -15,7 +15,7 @@ excerpt: >
   it down quickly and into Trello.
 layout: post
 link: >
-  https://thatmacnerd.com/drafts-workflow-content-management/
+   
 published: true
 tags:
   - automation
@@ -44,7 +44,7 @@ And searching through the long list of dictionary items to find the exact ones y
 
 If you have boards set up like this one for instance:
 
-<img class="aligncenter wp-image-2326 size-large" src="https://thatmacnerd.com/wp-content/uploads/2017/10/Image-10-10-17-5-45-PM-1024x768.png" alt="" width="960" height="720" />
+<img class="aligncenter wp-image-2326 size-large" src=" 
 
 You can then start adding cards to lists in your preferred board.
 

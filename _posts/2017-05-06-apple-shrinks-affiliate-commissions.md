@@ -9,7 +9,7 @@ excerpt: >
   This makes business sense for Apple: Affiliates most likely don't generate the kind of revenue that Apple would like. It also doesn't bring as much traffic to its App Stores.
 layout: post
 link: >
-  https://thatmacnerd.com/apple-shrinks-affiliate-commissions/
+   
 published: true
 tags:
   - affiliates

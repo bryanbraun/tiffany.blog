@@ -10,7 +10,7 @@ excerpt: >
 layout: post
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1527286131/iPhone_8_Plus.jpg
 link: >
-  https://thatmacnerd.com/iphone-8-plus-first-impressions/
+   
 published: true
 tags:
   - iPhone

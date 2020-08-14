@@ -6,14 +6,14 @@ author: Tiffany White
 post_date: 2016-03-28 01:18:02
 layout: post
 link: >
-  https://thatmacnerd.com/my-bestfavorite-ifttt-recipes/
+   
 published: true
 tags: uncategorized
 categories:
   - Uncategorized
 excerpt: The above caveat aside, IFTTT remains a significant tool in home and web service automation. It is the glue to the Internet of Things and remains an important part of many workflows, including my own.
 ---
-<img src="https://thatmacnerd.com/wp-content/uploads/2016/03/IFTTT.jpg" alt="IFTTT" width="640" height="466" class="aligncenter size-full wp-image-476" />
+<img src=" 
 
 <em>Caveat: IFTTT has been in a battle with a few of its services for using the developers it relies on and making them create custom APIs that IFTTT claims all rights to.</em>
 

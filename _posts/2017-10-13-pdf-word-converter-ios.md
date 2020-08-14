@@ -13,7 +13,7 @@ excerpt: >
   convert between different formats.
 layout: post
 link: >
-  https://thatmacnerd.com/pdf-word-converter-ios/
+   
 published: true
 tags:
   - app review
@@ -35,7 +35,7 @@ It is free to try but there are three IAP. One is for lifetime unlimited access 
 
 Upon opening the app, you are greeted with the following screens:
 
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/10/pdf2word_screens-min.png"><img class="aligncenter wp-image-2367" src="https://thatmacnerd.com/wp-content/uploads/2017/10/pdf2word_screens-min.png" alt="" width="874" height="548" /></a>
+<a href=" 
 
 &nbsp;
 
@@ -49,7 +49,7 @@ Connecting a cloud provider is simple yet searching for your documents isn’t.
 
 There is no search option so if you have a lot of folders and documents stored in Dropbox, it is hard to actually find them. The folders and documents aren’t sorted in alphabetical order, and there are no sort options available.
 
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/10/dropbox_pdf2word-min-2.png"><img class="aligncenter wp-image-2356" src="https://thatmacnerd.com/wp-content/uploads/2017/10/dropbox_pdf2word-min-2.png" alt="" width="584" height="779" /></a>
+<a href=" 
 
 ## Conversion
 
@@ -57,19 +57,19 @@ Conversion with the fast conversion is fairly quick, but if you have graphics of
 
 &nbsp;
 
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/10/bgmicro-min.png"><img class="aligncenter wp-image-2368" src="https://thatmacnerd.com/wp-content/uploads/2017/10/bgmicro-min.png" alt="" width="874" height="542" /></a>
+<a href=" 
 
 &nbsp;
 
 <hr class="ttfmake-hr" style="border-style: solid; border-top-width: 1px;" />
 
-[caption id="attachment_2355" align="aligncenter" width="845"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/10/feedly_dropbox-min-2.jpeg"><img class="wp-image-2355" src="https://thatmacnerd.com/wp-content/uploads/2017/10/feedly_dropbox-min-2.jpeg" alt="Feedly in Dropbox as PDF" width="845" height="634" /></a> Feedly in Dropbox as PDF[/caption]
+[caption id="attachment_2355" align="aligncenter" width="845"]<a href=" 
 
 &nbsp;
 
 &nbsp;
 
-[caption id="attachment_2353" align="aligncenter" width="584"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/10/feedly_pdf2word-min-2.jpeg"><img class="wp-image-2353" src="https://thatmacnerd.com/wp-content/uploads/2017/10/feedly_pdf2word-min-2.jpeg" alt="Converted with PDF to Word" width="584" height="779" /></a> Converted with PDF to Word[/caption]
+[caption id="attachment_2353" align="aligncenter" width="584"]<a href=" 
 
 &nbsp;
 
@@ -81,7 +81,7 @@ Conversion with the fast conversion is fairly quick, but if you have graphics of
 
 Converting PDFs with no graphics works fine though there are some formatting issues.
 
-[caption id="attachment_2357" align="aligncenter" width="584"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/10/wdb_pdf2word_shrink-2.png"><img class="wp-image-2357" src="https://thatmacnerd.com/wp-content/uploads/2017/10/wdb_pdf2word_shrink-2.png" alt="PDF converted though letter spacing is off." width="584" height="779" /></a> PDF converted though letter spacing is off.[/caption]
+[caption id="attachment_2357" align="aligncenter" width="584"]<a href=" 
 
 ## Worth It?
 

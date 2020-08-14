@@ -11,7 +11,7 @@ excerpt: >
   find one cheaply.
 layout: post
 link: >
-  https://thatmacnerd.com/new-addition-amazon-echo/
+   
 published: true
 tags:
   - alexa

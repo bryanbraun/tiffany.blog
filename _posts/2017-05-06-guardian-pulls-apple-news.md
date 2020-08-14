@@ -12,7 +12,7 @@ excerpt: >
   news site from the app.
 layout: post
 link: >
-  https://thatmacnerd.com/guardian-pulls-apple-news/
+   
 published: true
 tags:
   - Apple
@@ -20,7 +20,7 @@ tags:
 categories:
   - News
 ---
-<img class="size-full wp-image-1227 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-4-25-17-6-44-AM.png" width="1250" height="902" />
+<img class="size-full wp-image-1227 aligncenter" src=" 
 
 Good E-reader reports that Apple News partner, The Guardian, is pulling its news site from the app [^1].
 

@@ -11,7 +11,7 @@ excerpt: >
   and where Streak CRM for Gmail comes in.
 layout: post
 link: >
-  https://thatmacnerd.com/streak-crm-gmail/
+   
 published: true
 tags:
   - g suite

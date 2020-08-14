@@ -5,7 +5,7 @@ title: GTD Resources
 author: Tiffany White
 post_date: 2017-04-16 02:20:47
 layout: page
-link: https://thatmacnerd.com/gtd-resources/
+link:  
 published: true
 tags: uncategorized
 categories: [ ]

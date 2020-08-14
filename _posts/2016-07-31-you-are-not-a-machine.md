@@ -6,14 +6,14 @@ author: Tiffany White
 post_date: 2016-07-31 01:18:24
 layout: post
 link: >
-  https://thatmacnerd.com/you-are-not-a-machine/
+   
 published: true
 tags: uncategorized
 categories:
   - Uncategorized
 excerpt: Take a break. Smell the flowers. Be human.
 ---
-<img class="size-large wp-image-703 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2016/07/Optimized-machine-1024x682.jpeg" alt="Optimized-machine" width="620" height="413" />
+<img class="size-large wp-image-703 aligncenter" src=" 
 I am trying to remember this:
 
 You are not a machine.

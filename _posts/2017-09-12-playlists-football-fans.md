@@ -12,7 +12,7 @@ excerpt: >
   Spotify for tailgating.
 layout: post
 link: >
-  https://thatmacnerd.com/playlists-football-fans/
+   
 published: true
 tags:
   - music
@@ -21,7 +21,7 @@ tags:
 categories:
   - Now Playing
 ---
-I listen to music all day, everyday. My [Dylan QS1 headphones](https://thatmacnerd.com/pick-month-dylan-headphones/) on, I code, write, and surf the web with Spotify [^1].
+I listen to music all day, everyday. My [Dylan QS1 headphones]( 
 
 I listen to all genres of music but my favorite is alternative rock, metal, and dubstep. Eclectic mix, I know.
 

@@ -10,7 +10,7 @@ excerpt: >
   Transmit 4.
 layout: post
 link: >
-  https://thatmacnerd.com/pick-month-transmit-5/
+   
 published: true
 tags:
   - Mac
@@ -20,7 +20,7 @@ tags:
 categories:
   - Pick of the Month
 ---
-[caption id="attachment_2267" align="aligncenter" width="1034"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/09/transmit.png"><img class="wp-image-2267" src="https://thatmacnerd.com/wp-content/uploads/2017/09/transmit.png" alt="Transit 5. Image credit: [Panic, Inc](https://panic.com/)" width="1034" height="543" /></a> Transmit 5. Image credit: <a href="https://panic.com/">Panic, Inc</a>[/caption]One of the first Mac programming apps I ever bought [^1] was [Coda 2](https://panic.com/coda/) from the famed Mac and iOS developers Panic, Inc.
+[caption id="attachment_2267" align="aligncenter" width="1034"]<a href=" 
 
 I saw a video on it from the now-on-hiatus dev channel DevTips. Travis was giving away a copy and it looked *beautiful*. You could see previews of your app/site right in the app. It also came with books [^2]!
 
@@ -32,7 +32,7 @@ Panic released Transmit 4 in 2010. I bought it in 2014.
 
 The interface is more modern now. Not only that, file transfers are much faster. You can have site icons to differentiate between servers. Also Rackspace, Dropbox, Google Drive, and many other cloud providers have signed on.
 
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/09/Screenshot2017-09-04_09-43-18_PM.jpg"><img class="aligncenter wp-image-2268" src="https://thatmacnerd.com/wp-content/uploads/2017/09/Screenshot2017-09-04_09-43-18_PM.jpg" alt="" width="926" height="634" /></a>
+<a href=" 
 
 You can add the cloud providers as disks in Finder so that you can easily drop files into them for uploading. You can also delete massive folders off of your SSD because now you have local access to your Dropbox or Google Drive right in Transmit on your Mac.
 

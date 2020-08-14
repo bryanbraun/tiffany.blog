@@ -15,7 +15,7 @@ description: Dark mode all the...Things?
 [Things 3 for iPad](https://itunes.apple.com/us/app/things-3-for-ipad/id904244226?mt=8&uo=4) and [Things 3 for iPhone](https://itunes.apple.com/us/app/things-3/id904237743?mt=8&uo=4)
 recently got an update which included dark mode.
 
-I am a [big time fan of dark mode](https://thatmacnerd.com/virtues-dark-uis/) on most things. But for Things on the Mac, I was resistant to it for a long time[^1].
+I am a [big time fan of dark mode]( 
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/thatmacnerd/image/upload/v1530171557/Screenshot-2018-06-28_03-36-56_AM.png" />

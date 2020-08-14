@@ -10,7 +10,7 @@ excerpt: |
   It's WWDC season and I usually turn off notifications and non-essential phone calls and texts. I fire up my 3rd Gen Apple TV, sit back on the couch and watch the keynote.
 layout: post
 link: >
-  https://thatmacnerd.com/my-wwdc-2017-wishlist/
+   
 published: true
 tags:
   - Apple Keynote
@@ -19,7 +19,7 @@ tags:
 categories:
   - The Apple Experience
 ---
-<img class="aligncenter size-full wp-image-1398" src="https://thatmacnerd.com/wp-content/uploads/2017/06/Image-6-1-17-5-38-PM.png" alt="" width="3840" height="2160" />
+<img class="aligncenter size-full wp-image-1398" src=" 
 
 I love this time of year.
 

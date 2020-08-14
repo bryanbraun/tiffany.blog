@@ -6,7 +6,7 @@ author: Tiffany White
 post_date: 2017-03-07 19:22:44
 layout: post
 link: >
-  https://thatmacnerd.com/productivity-system-overhaul/
+   
 published: true
 tags:
   - clutter
@@ -18,7 +18,7 @@ categories:
   - Uncategorized
 excerpt: I recently overhauled my productivity system.
 ---
-<img class="alignnone size-full wp-image-1005" src="https://thatmacnerd.com/wp-content/uploads/2017/03/DeathtoStock_ModernWorkshop-05.compressed.jpg" width="5760" height="3840" />
+<img class="alignnone size-full wp-image-1005" src=" 
 
 I recently overhauled my productivity system.
 

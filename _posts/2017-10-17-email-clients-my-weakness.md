@@ -10,7 +10,7 @@ excerpt: >
   immediately like email clients.
 layout: post
 link: >
-  https://thatmacnerd.com/email-clients-my-weakness/
+   
 published: true
 tags:
   - email clients
@@ -34,13 +34,13 @@ When Airmail came to iOS, I was thrilled. I used it on the Mac for a while but s
 
 Right away, I was happy with the iOS version.
 
-<img class=" wp-image-2376 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/10/main_airmail_composite-min.png" width="585" height="508" />
+<img class=" wp-image-2376 aligncenter" src=" 
 
 Design-wise, it is very clean.
 
 Snooze, Send Later, Saved Searches, and Custom Actions, which were added later, were a selling feature of using Airmail over other email clients.
 
-[caption id="attachment_2383" align="aligncenter" width="319"]<a href="https://thatmacnerd.com/wp-content/uploads/2017/10/IMG_4146-min.png"><img class="wp-image-2383" src="https://thatmacnerd.com/wp-content/uploads/2017/10/IMG_4146-min.png" alt="Custom actions" width="319" height="568" /></a> Custom actions[/caption]
+[caption id="attachment_2383" align="aligncenter" width="319"]<a href=" 
 
 While Airmail is definitely an app for email power users, bugs plague the app. Sometimes archiving an email or emails doesn’t work as expected [^1]. Other times I’ve had crashed when composing an email or not all of my email is being shown. Sometimes I’d have to use another app like Gmail to see all my emails.
 
@@ -48,7 +48,7 @@ It is a very powerful app but the bugs outweigh its usefulness.
 
 ## Email
 
-<img class="aligncenter wp-image-2375" src="https://thatmacnerd.com/wp-content/uploads/2017/10/email-min.png" alt="" width="319" height="567" />
+<img class="aligncenter wp-image-2375" src=" 
 
 This seems like an obvious name for an app. I don’t know how I came upon this [^2] but I had to try it.
 
@@ -60,19 +60,19 @@ But it is powerful in its feature set.
 
 The Email sidebar has a lot of nifty features: *Subscriptions*, *Bills &amp; Receipts*, *Packages*, *Travel*, *Entertainment*, and *Security*.
 
-<img class=" wp-image-2379 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/10/email_composite-min.png" width="626" height="469" />
+<img class=" wp-image-2379 aligncenter" src=" 
 
 This is useful for tracking your packages, seeing what you’ve spent money on, and getting your itineraries, etc.
 
 The nicer things, however, are being able to bulk unsubscribe from newsletters [^3] and adding newsletters as favorites. Also, being able to see if your email account has been breached is a big plus for me and for many others.
 
-<img class=" wp-image-2377 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/10/email_subscriptions_view-min.png" width="566" height="424" />
+<img class=" wp-image-2377 aligncenter" src=" 
 
 I don’t use this client often. I appreciate that they are security conscious and are thinking of encryption and user privacy. But it is free and I am not sure how long it will be around and, as in lots of situations like these, if they will sell to someone who is not so privacy focused.
 
 ## Astrobot
 
-<img class="aligncenter wp-image-2380" src="https://thatmacnerd.com/wp-content/uploads/2017/10/astrobot-min.jpeg" alt="" width="319" height="567" />
+<img class="aligncenter wp-image-2380" src=" 
 
 I only downloaded this after realizing that the excellent Astrobot skill I got for Alexa would need something like this.
 
@@ -82,7 +82,7 @@ https://vimeo.com/238661367
 
 ## Spark
 
-<img class=" wp-image-2381 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/10/spark.png" width="495" height="447" />
+<img class=" wp-image-2381 aligncenter" src=" 
 
 Whenever I change email clients away from Spark, I always come back.
 
@@ -94,7 +94,7 @@ Having web service integration is really nice, but some people don’t use Todoi
 
 With Spark on the Mac [^4] you can send an email to OmniFocus, lessening the need for OmniFocus Clip-O-Tron in Mail.app
 
-<img class="wp-image-2382 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/10/Screenshot2017-10-17-17.11.47-min.jpeg" width="1499" height="843" />
+<img class="wp-image-2382 aligncenter" src=" 
 
 The implementation of this is my favorite so far. I also like the design of the modal.
 
@@ -108,7 +108,7 @@ These are some of my favorite features of Spark, which is becoming a direct comp
 
 ## Newton
 
-<img class="aligncenter wp-image-2378" src="https://thatmacnerd.com/wp-content/uploads/2017/10/newton_all_inboxes_view-min.png" alt="" width="319" height="567" />
+<img class="aligncenter wp-image-2378" src=" 
 
 I won’t get into too much about Newton as I am saving the review for later. But I will say I really like what I am seeing. Fast, fluid, beautiful, and useful for people who need to connect with clients, employers, and other business related tasks.
 

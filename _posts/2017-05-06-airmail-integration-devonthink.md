@@ -11,7 +11,7 @@ excerpt: >
   Office support to its Mac App.
 layout: post
 link: >
-  https://thatmacnerd.com/airmail-integration-devonthink/
+   
 published: true
 tags:
   - Airmail
@@ -19,7 +19,7 @@ tags:
 categories:
   - News
 ---
-<img class="aligncenter wp-image-1202" src="https://thatmacnerd.com/wp-content/uploads/2017/05/IMG_3403-1024x643.jpg" alt="Airmail" width="625" height="393" />
+<img class="aligncenter wp-image-1202" src=" 
 
 Airmail finally adds DEVONthink Pro Office support to its Mac App.
 
@@ -31,7 +31,7 @@ Unfortunately for us heavy Airmail and DEVONthink users, the emails are saved as
 
 ## iOS Integration
 
-<img class="aligncenter wp-image-1194" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-5-17-3-55-PM.jpeg" alt="Airmail_iOS" width="417" height="366" />
+<img class="aligncenter wp-image-1194" src=" 
 
 DEVONthink on iOS has a deeper integration with Airmail with DEVONthink's advanced automation [^1].
 
@@ -41,7 +41,7 @@ You can add a custom action in the Settings, something like *Add to DEVONthink*.
 
 Add to your swipes [^2] or however you'd like to access the action. The resulting email in DEVONthink looks like this:
 
-<img class="aligncenter wp-image-1192" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Image-5-5-17-4-08-PM-576x1024.jpeg" alt="Devonthink_Airmail" width="238" height="423" />
+<img class="aligncenter wp-image-1192" src=" 
 
 The integration with iOS seems much farther along than that of the Mac. This is interesting to see the Mac become a second class citizen for Bloop.
 

@@ -6,7 +6,7 @@ author: Tiffany White
 post_date: 2015-05-30 02:10:12
 layout: post
 link: >
-  https://thatmacnerd.com/trello-for-project-management/
+   
 published: true
 tags:
   - getting things done

@@ -28,7 +28,7 @@ I really like them. But they aren't a game changer for me. When I sit at the des
 
 ## Parting thoughts
 
-Pairing is the best part of AirPods. Really great, seamless pairing unlike anything I've yet to experience. This is why they are my [Pick of the Month](https://thatmacnerd.com/categories/#pick-of-the-month).
+Pairing is the best part of AirPods. Really great, seamless pairing unlike anything I've yet to experience. This is why they are my Pick of the Month.
 
 
 [^1]: Software engineering is nice work if you can get it.

@@ -12,7 +12,7 @@ tags:
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1533602679/PastedGraphic-5.png
 ---
 
-Last year, [I wrote about Apple shrinking affiliate commissions](https://thatmacnerd.com/apple-shrinks-affiliate-commissions/) from 7% down to 2.5%. The collective Apple-verse screamed a primal scream: indie media outlets depended on the affiliate income Apple provided. Not only that, but it provided Apple a way for users to discover apps in the App Store, because let's face it, App Store discovery *still sucks*[^1].
+Last year, [I wrote about Apple shrinking affiliate commissions]( 
 
 Now, it seems, Apple doesn't need sites like Touch Arcade and developers like [Steve Troughton-Smith](https://twitter.com/stroughtonsmith) who tweets:
 

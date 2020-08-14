@@ -6,7 +6,7 @@ author: Tiffany White
 post_date: 2016-10-28 00:48:32
 layout: post
 link: >
-  https://thatmacnerd.com/siri-for-mac-practically-worthless/
+   
 published: true
 tags:
   - Mac
@@ -15,7 +15,7 @@ categories:
   - Uncategorized
 excerpt: Siri for Mac is worthless for people with MacBook Pros with limited storage.
 ---
-<img class="wp-image-797 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2016/10/macos-sierra-siri-app-icon.png" width="346" height="346" />
+<img class="wp-image-797 aligncenter" src=" 
 
 Let me preface this with a caveat:  **for MacBook Pros with 256gb of storage of less**.
 

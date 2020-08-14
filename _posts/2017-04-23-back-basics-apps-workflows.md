@@ -9,7 +9,7 @@ excerpt: >
   Last year, I was inspired by a few of my productivity heroes to write about productivity instead of just apps. I thought it was a perfect opportunity to expand my reach and grow the blog beyond what it had become.
 layout: post
 link: >
-  https://thatmacnerd.com/back-basics-apps-workflows/
+   
 published: true
 tags:
   - apps
@@ -22,7 +22,7 @@ categories:
 ---
 &nbsp;
 
-<img class="aligncenter size-large wp-image-1150" src="https://thatmacnerd.com/wp-content/uploads/2017/04/Image-4-23-17-7-00-PM-1024x683.jpeg" alt="" width="960" height="640">
+<img class="aligncenter size-large wp-image-1150" src=" 
 
 I wanted to write a quick post on the focus of the blog going forward.
 

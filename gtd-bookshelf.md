@@ -9,7 +9,7 @@ permalink: /books/
 collection: books
 entries_layout: grid
 ---
-<img class="aligncenter size-full wp-image-813" src="https://thatmacnerd.com/wp-content/uploads/2016/03/dhk_mju83z0-kazuend_shrink.jpg" alt="dhk_mju83z0-kazuend_shrink" width="6000" height="4000">
+<img class="aligncenter size-full wp-image-813" src=" 
 
 &nbsp;
 
@@ -17,7 +17,7 @@ You are a productivity junkie. Getting Things Done™ is a trait of the most suc
 <h2>The Productive Person's Bookshelf</h2>
 &nbsp;
 
-<a href="https://www.amazon.com/gp/product/1591845572/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8"><img class="alignleft wp-image-808" src="https://thatmacnerd.com/wp-content/uploads/2016/03/So-Good-Cal-Newport-199x300.jpg" alt="so-good-cal-newport" width="126" height="190"></a>
+<a href="https://www.amazon.com/gp/product/1591845572/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8"><img class="alignleft wp-image-808" src=" 
 
 <a href="https://www.amazon.com/gp/product/1591845572/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">So Good They Can't Ignore You</a> by Cal Newport
 
@@ -25,13 +25,13 @@ I read this as an audible book and it was by far one of the best books I read th
 <p style="text-align: left;"><a class="fasc-button fasc-size-xlarge fasc-type-flat fasc-ico-before dashicons-book-alt" style="background-color: #dc383f; color: #ffffff;" target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/1455509124/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">Get This Book</a></p>
 &nbsp;
 
-<a href="https://www.amazon.com/gp/product/0312430000/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">The Checklist Manifesto</a><a href="https://www.amazon.com/gp/product/0312430000/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8"><img class="alignleft wp-image-810" src="https://thatmacnerd.com/wp-content/uploads/2016/03/The-Checklist-200x300.jpg" alt="the-checklist" width="126" height="189"></a> by Atul Gawande
+<a href="https://www.amazon.com/gp/product/0312430000/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">The Checklist Manifesto</a><a href="https://www.amazon.com/gp/product/0312430000/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8"><img class="alignleft wp-image-810" src=" 
 
 This book helps you&nbsp;to understand the todo list, how it fits into our lives, and how we can work with it. Understanding the why of any behavior is the perfect way to change that behavior. This book will get you on that path to making your to-do list work for you.
 <p style="text-align: left;"><a class="fasc-button fasc-size-xlarge fasc-type-flat fasc-ico-before dashicons-book-alt" style="background-color: #dc383f; color: #ffffff;" target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/0312430000/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">Get This Book</a></p>
 &nbsp;
 
-<a href="https://www.amazon.com/gp/product/0143126563/ref=oh_aui_detailpage_o02_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">Getting Things Done</a><a href="https://www.amazon.com/gp/product/0143126563/ref=oh_aui_detailpage_o02_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8"><img class="alignleft wp-image-811" src="https://thatmacnerd.com/wp-content/uploads/2016/03/GTD-Cover-200x300.jpg" alt="gtd-cover" width="126" height="189"></a> by David Allen
+<a href="https://www.amazon.com/gp/product/0143126563/ref=oh_aui_detailpage_o02_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">Getting Things Done</a><a href="https://www.amazon.com/gp/product/0143126563/ref=oh_aui_detailpage_o02_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8"><img class="alignleft wp-image-811" src=" 
 
 I originally picked up this book a couple years ago when I began to take my passion for productivity seriously. At that time it was the same book released in 2001. I couldn't get through it. Picked it up again and it's definitely a game-changer for me.
 
@@ -39,7 +39,7 @@ I originally picked up this book a couple years ago when I began to take my pass
 
 &nbsp;
 
-<img class="size-full wp-image-717 alignleft" src="https://thatmacnerd.com/wp-content/uploads/2016/03/Personal-Mbs-e1480641660731.jpg" alt="Personal Mbs" width="126" height="193">
+<img class="size-full wp-image-717 alignleft" src=" 
 
 <a href="https://www.amazon.com/gp/product/1591845572/ref=oh_aui_detailpage_o01_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">The Personal MBA</a>&nbsp;by Josh Kaufman
 
@@ -51,7 +51,7 @@ Even if you don't want to start a million dollar business, this is definitely a 
 
 &nbsp;
 
-<img class="size-full wp-image-818 alignleft" src="https://thatmacnerd.com/wp-content/uploads/2016/03/Smarter-Faster-Better-e1480641902740.jpg" alt="smarter-faster-better" width="126" height="191">&nbsp;<a href="https://www.amazon.com/gp/product/081299339X/ref=oh_aui_detailpage_o02_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">Smarter Faster Better</a> by Charles Duhigg
+<img class="size-full wp-image-818 alignleft" src=" 
 
 This is the follow-up to The Power of Habit and it doesn't disappoint. If you want to learn how successful people and companies outperform the competition, this book is the one you want. Charles gives a lot of real world anecdotes that make sense in context. Pick it up, it's a great read.
 
@@ -59,7 +59,7 @@ This is the follow-up to The Power of Habit and it doesn't disappoint. If you wa
 
 &nbsp;
 
-<img class="alignleft size-full wp-image-819" src="https://thatmacnerd.com/wp-content/uploads/2016/03/Personal-Investing-e1480643283456.jpg" alt="personal-investing" width="132" height="190"><a href="https://www.amazon.com/gp/product/1449381782/ref=oh_aui_detailpage_o03_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">Personal Investing: The Missing Manual</a> by Bonnie Biafore
+<img class="alignleft size-full wp-image-819" src=" 
 
 I haven't started this book though I have purchased it. I plan on reading <em>Your Money&nbsp;</em>first before this one. Wealth acquisition and management is important to your long-term success. It's a good time as any to think about investing.
 
@@ -67,7 +67,7 @@ I haven't started this book though I have purchased it. I plan on reading <em>Yo
 
 &nbsp;
 
-<img class="alignleft size-full wp-image-820" src="https://thatmacnerd.com/wp-content/uploads/2016/03/The-Power-of-Habit-e1480643601225.jpg" alt="the-power-of-habit" width="126" height="194">
+<img class="alignleft size-full wp-image-820" src=" 
 
 <a href="https://www.amazon.com/gp/product/081298160X/ref=oh_aui_detailpage_o04_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">The Power of Habit</a> by Charles Duhigg
 
@@ -77,7 +77,7 @@ This is the first book I read by Duhigg and it changed the way I choose to do th
 
 &nbsp;
 
-<img class="alignleft size-full wp-image-821" src="https://thatmacnerd.com/wp-content/uploads/2016/03/Your-Money-e1480643873375.jpg" alt="your-money" width="126" height="189">
+<img class="alignleft size-full wp-image-821" src=" 
 
 <a href="https://www.amazon.com/gp/product/0596809409/ref=oh_aui_detailpage_o04_s00?psc=1&amp;tag=thatmacnerd-20&amp;ie=UTF8">Your Money: The Missing Manual</a> by J.D. Roth
 
@@ -89,7 +89,7 @@ Personally, this is something I struggle with getting a handle on. Some of us co
 
 &nbsp;
 
-<a href="https://www.amazon.com/dp/B015X8QODU?tag=thatmacnerd-20&amp;ascsubtag=1ba00-01000-a0049-mac00-other-nomod-us000-pcomp-feature-scomp-wm-4"><img class="wp-image-974 alignleft" src="https://thatmacnerd.com/wp-content/uploads/2016/03/cpydl.jpg" alt="" width="130" height="207">Your Digital Life</a> by Carl Pullein
+<a href="https://www.amazon.com/dp/B015X8QODU?tag=thatmacnerd-20&amp;ascsubtag=1ba00-01000-a0049-mac00-other-nomod-us000-pcomp-feature-scomp-wm-4"><img class="wp-image-974 alignleft" src=" 
 
 This book has opened up a whole new world of GTD principles and concepts to me I otherwise wouldn't have figured out myself, as GTD is a broad, sometimes complex, system. Highly recommended.
 
@@ -99,7 +99,7 @@ This book has opened up a whole new world of GTD principles and concepts to me I
 
 &nbsp;
 
-<img class="wp-image-2190 alignleft" src="https://thatmacnerd.com/wp-content/uploads/2016/03/deep-work-cal-newport-lrg-199x300.jpg" alt="" width="133" height="200">
+<img class="wp-image-2190 alignleft" src=" 
 
 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=tmm_hrd_swatch_0?_encoding=UTF8&amp;qid=1501564020&amp;sr=1-1 https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=tmm_hrd_swatch_0?qid=1501564020&amp;sr=1-1&amp;tag=thatmacnerd-20&amp;_encoding=UTF8">&nbsp;Deep Work</a> by Cal Newport
 

@@ -17,3 +17,4 @@ excerpt: HomeKit-ifying my apartment and some Smartthings upgrades.
 description: HomeKit-ifying my apartment and some Smartthings upgrades.
 ---
 
+{% include responsive-embed url="https://player.vimeo.com/video/447386307?color=d72323" ratio="16:9" %}

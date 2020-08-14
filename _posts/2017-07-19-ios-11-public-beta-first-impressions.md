@@ -11,7 +11,7 @@ excerpt: >
   list out the new features.
 layout: post
 link: >
-  https://thatmacnerd.com/ios-11-public-beta-first-impressions/
+   
 published: true
 tags:
   - drag and drop
@@ -21,7 +21,7 @@ tags:
 categories:
   - News
 ---
-<img class="alignnone size-full wp-image-2153" src="https://thatmacnerd.com/wp-content/uploads/2017/07/opt-ipad-multitasking-ios-11.jpg" width="2348" height="1348" />
+<img class="alignnone size-full wp-image-2153" src=" 
 
 So I have played with the iOS 11 public beta, first on my iPad Pro and then the 2nd beta on my iPhone [^1].
 
@@ -44,13 +44,13 @@ You can bring up Spotlight search and drag an app from there, though I haven’t
 
 Some drag and drop examples:
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/07/Three_apps_one_screen-1.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/07/Screenshot2017-07-19_10-36-16_PM.jpg" width="2732" height="2048"]
+[fvplayer src=" 
 ###### Three apps, one screen
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/07/Drag_anddrop_multitasking.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/07/Screenshot2017-07-19_10-38-22_PM.jpg" width="2732" height="2048"]
+[fvplayer src=" 
 ###### Drag and drop for multitasking
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/07/Moving_icons_iPhone.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/07/Screenshot2017-07-19_10-41-08_PM.jpg" width="1334" height="750"]
+[fvplayer src=" 
 ###### Batch icon rearranging
 
 ## Native Screen Recording on iOS
@@ -59,7 +59,7 @@ I didn’t think I’d see the day, but here it is. I have recorded a few screen
 
 Here is a little short of me using Federico Viticci’s [Prizmo Go Workflow](https://workflow.is/workflows/4eec184dfc444aeea97b8c8c2a177a3d) for capturing text from books in [Marvin](http://www.appstafarian.com/marvin.html) as book notes I can store in DEVONthink to Go.
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/07/Prismo_go_workflow.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/07/Screenshot2017-07-19_11-07-54_PM.jpg" width="2732" height="2048"]
+[fvplayer src=" 
 
 ## The Files App
 
@@ -69,7 +69,7 @@ Most of the document providers I use have utilized the Files API. I am still wai
 
 You can access any of your document providers in Files app with ease.
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/07/Files_app.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/07/Screenshot2017-07-19_10-57-27_PM.jpg" width="2732" height="2048"]
+[fvplayer src=" 
 
 You also have access to files on your iPad but not at a system level.
 

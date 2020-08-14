@@ -5,7 +5,7 @@ title: GTD Toolkit
 author: Tiffany White
 post_date: 2016-12-03 00:05:21
 layout: page
-link: https://thatmacnerd.com/gtd-toolkit/
+link:  
 published: true
 tags: uncategorized
 categories: [ ]

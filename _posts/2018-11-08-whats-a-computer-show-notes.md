@@ -20,6 +20,6 @@ It's almost like a running joke among Apple fans and PC fans alike. The smugness
 ## Show Notes
 
 - Apple's ad: [iPad Pro — What’s a computer — Apple - YouTube](https://www.youtube.com/watch?v=pI-iJcC9JUc)
-- Me trying to work on an iPad: [Working on iPad Pro: The Beginning](https://thatmacnerd.com/working-ipad-pro-beginning-2/)
+- Me trying to work on an iPad: [Working on iPad Pro: The Beginning]( 
 
 <iframe src="https://anchor.fm/thatmacnerd/embed/episodes/2-Whats-a-Computer-e2i5us"  height="50%" width="95%" frameborder="0" scrolling="no"></iframe>

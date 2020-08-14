@@ -13,7 +13,7 @@ excerpt: >
   Pick of the Month for February.
 layout: post
 link: >
-  https://thatmacnerd.com/apple-watch-pick/
+   
 published: true
 tags:
   - apple watch

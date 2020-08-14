@@ -5,7 +5,7 @@ title: DEVONthink
 author: Tiffany White
 post_date: 2015-04-18 17:33:07
 layout: post
-link: https://thatmacnerd.com/devonthink/
+link:  
 published: true
 tags:
   - academic
@@ -16,7 +16,7 @@ categories:
   - App Review
 excerpt: I am currently playing with DEVONthink, the 150 hour free trial. 
 ---
-<img class="aligncenter size-full wp-image-572" src="https://thatmacnerd.com/wp-content/uploads/2016/05/Devonthink.png" alt="" width="620" height="230">
+<img class="aligncenter size-full wp-image-572" src=" 
 
 &nbsp;
 

@@ -13,7 +13,7 @@ excerpt: >
   dark editors."
 layout: post
 link: >
-  https://thatmacnerd.com/virtues-dark-uis/
+   
 published: true
 image: https://res.cloudinary.com/thatmacnerd/image/upload/v1527286157/computer-apple-business-workplace-159807.jpg
 tags:

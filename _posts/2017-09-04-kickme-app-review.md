@@ -12,7 +12,7 @@ excerpt: >
   Linux.
 layout: post
 link: >
-  https://thatmacnerd.com/kickme-app-review/
+   
 published: true
 tags:
   - KickMe

@@ -9,7 +9,7 @@ excerpt: >
   stay productive while working remotely.
 layout: post
 link: >
-  https://thatmacnerd.com/apps-working-remotely/
+   
 published: true
 tags:
   - hourstracker

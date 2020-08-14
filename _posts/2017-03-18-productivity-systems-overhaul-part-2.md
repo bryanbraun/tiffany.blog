@@ -6,7 +6,7 @@ author: Tiffany White
 post_date: 2017-03-18 16:56:56
 layout: post
 link: >
-  https://thatmacnerd.com/productivity-systems-overhaul-part-2/
+   
 published: true
 tags:
   - apps
@@ -104,7 +104,7 @@ The apps I would like to use more frequently include some reading apps. Maybe th
 
 What’s interesting here is that the apps you use to get *real work done* are apps I want to use more frequently [^5]. This doesn’t surprise me as I am/was a huge procrastinator. Taking time to figure out what I am supposed to be doing and when has really helped with this. I am hoping to have usage of these apps sort of like my Alfred statistics [^6] :
 
-<a href="https://thatmacnerd.com/wp-content/uploads/2017/03/Screenshot2017-03-18_04-15-44_PM.jpg"><img class="alignnone wp-image-1051 size-full" src="https://thatmacnerd.com/wp-content/uploads/2017/03/Screenshot2017-03-18_04-15-44_PM.jpg" alt="" width="3638" height="2254" /></a>
+<a href=" 
 
 ## What You Can Do to Take Inventory of Your Tools
 

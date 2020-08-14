@@ -5,7 +5,7 @@ title: BusyContacts
 author: Tiffany White
 post_date: 2015-07-03 17:00:18
 layout: post
-link: https://thatmacnerd.com/busycontacts/
+link:  
 published: true
 tags:
   - app review

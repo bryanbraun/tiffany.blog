@@ -10,13 +10,13 @@ excerpt: >
   regularly updated it for months until
   recently.
 layout: post
-link: https://thatmacnerd.com/im-still-here/
+link:  
 published: true
 tags: uncategorized
 categories:
   - News
 ---
-<img class="wp-image-2142 size-large aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/07/woman_headphones-1024x682.jpeg" alt="" width="960" height="639" />
+<img class="wp-image-2142 size-large aligncenter" src=" 
 
 If you have been reading my blog for any length of time this year, I have regularly updated it for months until recently.
 

@@ -12,7 +12,7 @@ excerpt: |
   Mom and I weren’t exactly middle class so we would trek to the local library where we’d check out a mountain of books, all of which I’d read in about a week.
 layout: post
 link: >
-  https://thatmacnerd.com/app-spotlight-calibre-3-beta/
+   
 published: true
 tags:
   - app review
@@ -21,7 +21,7 @@ tags:
 categories:
   - App Review
 ---
-<img class="wp-image-1294 aligncenter" src="https://thatmacnerd.com/wp-content/uploads/2017/05/Screenshot2017-05-14_09-00-03_PM.jpg" width="1200" height="773">
+<img class="wp-image-1294 aligncenter" src=" 
 
 You could never chastise me for not reading enough.
 
@@ -51,25 +51,25 @@ One of the things the app does is *convert* ebook formats. There are a ton of fi
 
 This is useful if you don’t want to read books you get from Amazon in the Kindle app and the app you want to read them in is an epub only app like Marvin. You can convert the mobi, azw, azw3 files to epub with calibre.
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/05/Adding-books.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/05/Screenshot2017-05-14_09-00-03_PM.jpg" width="1280" height="720"]
+[fvplayer src=" 
 
 ## Adding Metadata
 
 Editing metadata for your books is as easy as right or ⌥ clicking the book, or, selecting multiple books and ⌥ clicking and selecting *download metadata*. This will give you a couple of options like just downloading the metadata or covers or both. You can review the metadata before you add it to make sure it is correct.
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/05/Adding-metadata.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/05/Screenshot2017-05-14_09-00-03_PM.jpg" width="1280" height="720"]
+[fvplayer src=" 
 
 ## Dragging Tags
 
 In order to add tags that may be missing from your books you can drag the books onto the tags [^5] you want to add.
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/05/Dragging-tags.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/05/Screenshot2017-05-14_09-00-03_PM.jpg" width="1280" height="720"]
+[fvplayer src=" 
 
 ## Editing Books
 
 You can edit books directly in the main interface but you get plenty more options by hitting *e* when a book or multiple books are selected. Here you can add custom metadata, if you’ve made your own columns [^6], add star ratings, etc. I use this option all the time as it makes bulk editing and editing in general easier.
 
-[fvplayer src="https://thatmacnerd.com/wp-content/uploads/2017/05/Editing.mp4" splash="https://thatmacnerd.com/wp-content/uploads/2017/05/Screenshot2017-05-14_09-00-03_PM.jpg" width="1280" height="720"]
+[fvplayer src=" 
 
 ## More Tips and Advanced Features in Another Post
 
