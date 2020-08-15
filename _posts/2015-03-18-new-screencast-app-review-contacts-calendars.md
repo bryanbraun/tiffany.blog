@@ -1,7 +1,5 @@
 ---
 title:: "New Screencast App Review: Contacts & Calendars"
-excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
-last_modified_at: 2015-03-18
 tags:
   - BusyCal
   - BusyContacts
