@@ -1,5 +1,5 @@
 ---
-title:: "New Screencast App Review: Contacts & Calendars"
+title: "New Screencast App Review: Contacts & Calendars"
 tags:
   - BusyCal
   - BusyContacts
@@ -11,7 +11,6 @@ tags:
 categories:
   - Uncategorized
 ---
-<h1></h1>
 
 <img class=" alignright" src="https://nontradmacstudent.files.wordpress.com/2015/03/wpid-busycal2_ico-100011192-gallery.png" alt="BusyMac" width="416" height="278" />
 
