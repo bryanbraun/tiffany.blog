@@ -1,11 +1,8 @@
 ---
-ID: 142
 title: DEVONthink
-# devonthink
 author: Tiffany White
-post_date: 2015-04-18 17:33:07
+date: 2015-04-18
 layout: post
-link:  
 published: true
 tags:
   - academic
