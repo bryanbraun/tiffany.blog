@@ -20,19 +20,19 @@
   url: /headphones/
 - title: Bags
   url: /bags/
-- title: Fitness Journey
-  url: /fitness-journey/
+# - title: Fitness Journey
+#   url: /fitness-journey/
 # - title: Updates
 #   url: "https://social.tiffanywhite.blog"
 - title: Shortcuts Archive
   url: /shortcuts/
-# - title: Contact
-#   url: /contact/
-# - title: Privacy Policy
-#   url: /privacy-policy/
+- title: Games
+  url: /games/
 - title: Now
   url: /now/
 - title: Feeds
   url: /feeds/
 - title: About
   url: /about/
+- title: Contact
+  url: /contact/
