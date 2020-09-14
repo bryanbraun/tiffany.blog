@@ -9,6 +9,11 @@ I'm back on my gaming bullshit. I bought a PS4 because we are in the darkest tim
 I bought a subscription to a game tracking database I used years ago when I had a Windows box[^1] and now I have their web app on my Mac. I exported a CSV from that database and set up an Airtable to embed here just for fun. I like [CLZ databases](https://www.clz.com/)[^2].
 
 
+## Grid View
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrbPGAbGIIUQfyxy?backgroundColor=pink&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<br />
+
+## Gallery View
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr93dur5i4oGT9Bv?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 Here are a couple of my databases, shared with CLZ Cloud.
