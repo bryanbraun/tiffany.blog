@@ -8,10 +8,13 @@
     <script src="{{ script_path }}"></script>
   {%- endfor -%}
 {%- else -%}
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+  <link rel="preload" href="https://code.jquery.com/jquery-3.3.1.min.js" as="script">
+  <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" defer></script> -->
+  <link rel="preload" href="{{ '/assets/js/main.min.js' | relative_url }}" as="script">
+  <!-- <script src="{{ '/assets/js/main.min.js' | relative_url }}" defer></script> -->
   <!-- <script src="{{ '/assets/js/dark-mode.js' | relative_url }}"></script> -->
-  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+  <link rel="preload" href="https://use.fontawesome.com/releases/v5.0.12/js/all.js" as="script">
+  <!-- <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js" defer></script> -->
 {%- endif -%}
 
 {%- if jekyll.environment == 'production' and site.google_analytics -%}
