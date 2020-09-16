@@ -184,9 +184,6 @@ footer_links:
   - title: Vimeo
     url: https://vimeo.com/tiffanywhite
     icon: fab fa-vimeo-square
-  # - title: Pinterest
-  #   url: https://www.pinterest.com/tiffanywhitedev/
-  #   icon: fab fa-pinterest-square
   - title: RSS Feed
     url: atom.xml
     icon: fas fa-rss-square
