@@ -19,7 +19,7 @@ I bought a subscription to a game tracking database I used years ago when I had 
 Here are a couple of my databases, shared with CLZ Cloud.
 
 - [My Games on CLZ Cloud](https://cloud.collectorz.com/trwhite6978/games)
-- [My Books on CLZ Cloud](https://cloud.collectorz.com/trwhite6978/books?viewType=cover)
+- [My Books on CLZ Cloud](https://cloud.collectorz.com/trwhite6978/books?viewType=shelf)
 
 
 [^1]: They refuse to make a Mac app. I asked 6 years ago and now, in 2020, no Mac app. I don't think they a. like the Mac, they all use Windows, and b. I don't think they develop the best Mac UIs as I have their CLZ Books app and it is crazy ugly.
