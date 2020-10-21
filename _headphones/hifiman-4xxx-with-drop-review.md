@@ -75,6 +75,8 @@ At first I thought you would need a DAC and you still might. But over the past c
 <a href="#entry-table-of-contents" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ### Build
+<a class="fasc-button fasc-size-medium fasc-type-flat fasc-rounded-medium" style="background-color: #339e4e; color: #ffffff;">Great</a>
+
 Oh. My. God. These are built solid and heavy, even heavier than the beyerdynamics I have. Both are metal but these are...just...monsters. I'm pretty sure if I swung at someone with these in my hands they'd get a bump whereever I hit them, they're *tanks*.
 
 ### Value for Price
