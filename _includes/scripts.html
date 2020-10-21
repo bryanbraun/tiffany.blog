@@ -38,3 +38,11 @@
 {%- if page.layout == "search" -%}
   {% include lunr-search-scripts.html %}
 {%- endif -%}
+
+<script src="https://cdn.jsdelivr.net/npm/anchor-js/anchor.min.js"></script>
+<script>
+  anchors.options = {
+    placement: 'left',
+  };
+  anchors.add('h2, h3, h4, h5')
+</script>

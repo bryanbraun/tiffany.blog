@@ -80,7 +80,7 @@
 
 .notice--warning {
   @include notice(mix(#fff, $warning-color, 70%));
-  border-left: 9px solid #f5cf3e;
+  border-left: 9px solid #fc678d;
 }
 
 /* Success notice */
