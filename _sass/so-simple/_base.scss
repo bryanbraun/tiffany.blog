@@ -103,6 +103,13 @@ h6 {
   @include fluid-type($min-vw, $max-vw, $h6-min, $h6-max);
 }
 
+.anchorjs-link:hover {
+  color: #fb2300;
+}
+*:hover > .anchorjs-link {
+  transition: color .25s linear;
+}
+
 dt {
   font-weight: bold;
 

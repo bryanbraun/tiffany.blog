@@ -7,19 +7,16 @@
 -->
 
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
-    {% include skip-links.html %}
-    {% include navigation.html %}
-    {% include masthead.html %}
+<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %} {% include navigation.html %} {% include masthead.html %}
     <!-- <div class="button-container">
       <a href="#" id="theme-toggle" onclick="modeSwitcher()" class="theme-toggle-button" role="button"></a>
     </div> -->
     {{ content }}
     <!-- <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a> -->
-    {% include footer.html %}
-    {% include scripts.html %}
-  </body>
+    {% include footer.html %} {% include scripts.html %}
+</body>
 
 </html>

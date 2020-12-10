@@ -18,6 +18,8 @@
   url: /home-screens/
 - title: Headphone Reviews
   url: /headphones/
+- title: Game Reviews
+  url: /game-reviews/
 - title: Bags
   url: /bags/
 # - title: Fitness Journey
@@ -26,13 +28,15 @@
 #   url: "https://social.tiffanywhite.blog"
 - title: Shortcuts Archive
   url: /shortcuts/
-- title: Games
-  url: /games/
+- title: Smart Home Gear
+  url: /smart-home-gear/
+# - title: Games
+#   url: /games/
 - title: Now
   url: /now/
-- title: Feeds
-  url: /feeds/
+# - title: Feeds
+#   url: /feeds/
 - title: About
   url: /about/
-- title: Contact
-  url: /contact/
+# - title: Contact
+#   url: /contact/

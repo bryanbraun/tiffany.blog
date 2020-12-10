@@ -51,6 +51,9 @@ collections:
   fitness:
     output: true
     permalink: /:collection/:path/
+  games:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Liquid
@@ -72,7 +75,8 @@ pwa:
 # Build settings
 permalink: /:year/:month/:day/:title/
 markdown: kramdown
-
+kramdown:
+  auto_ids: true
 feed:
   path: atom.xml
   categories:
@@ -149,6 +153,13 @@ defaults:
   - scope:
       path: "_fitness"
       type: fitness
+    values:
+      layout: post
+      comments: false
+      share: true
+  - scope:
+      path: "_game-reviews"
+      type: games
     values:
       layout: post
       comments: false
