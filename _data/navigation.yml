@@ -16,21 +16,23 @@
   url: /gear/
 - title: Home Screens
   url: /home-screens/
-- title: Headphone Reviews
+- title: Headphones
   url: /headphones/
-- title: Game Reviews
-  url: /game-reviews/
 - title: Bags
   url: /bags/
+- title: Games
+  url: /game-reviews/
 # - title: Fitness Journey
 #   url: /fitness-journey/
 # - title: Updates
 #   url: "https://social.tiffanywhite.blog"
-- title: Shortcuts Archive
+- title: Shortcuts
   url: /shortcuts/
-- title: Smart Home Gear
-  url: /smart-home-gear/
-# - title: Games
+- title: Smart Home
+  url: /smart-home/
+# - title: Books I'm Reading
+#   url: /books/
+# # - title: Games
 #   url: /games/
 - title: Now
   url: /now/

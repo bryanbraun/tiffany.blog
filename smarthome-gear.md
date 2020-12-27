@@ -1,7 +1,7 @@
 ---
 title: My Smart Home Gear
 layout: page
-permalink: /smart-home-gear/
+permalink: /smart-home/
 featured_image: https://res.cloudinary.com/thatmacnerd/image/upload/v1577123638/20191220-ttt-nanoleaf-reddit-macsetups.jpg
 ---
 

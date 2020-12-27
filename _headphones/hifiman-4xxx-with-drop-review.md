@@ -12,7 +12,7 @@ image:
 ## Ratings
 
 {% notice warning %}
-  Completely subjective but fun to write. If you enjoy these reviews, why not <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">share them on Twitter</a>?
+Completely subjective but fun to write. If you enjoy these reviews, why not <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;">share them on Twitter</a>?
 {% endnotice %}
 
 {% include toc %}

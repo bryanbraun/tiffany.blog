@@ -134,4 +134,4 @@ Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
 
-*   By email: [Blog email](mailto:hey@tiffanyrwhite.com)
+*   By email: [Blog email](mailto:tiffany@tiffanywhite.blog)
