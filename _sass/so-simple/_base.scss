@@ -224,3 +224,48 @@ a {
 .hidden {
   display: none;
 }
+
+p::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+h1::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+h2::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+h3::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+h4::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+code::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+ul::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+ol::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
+
+li::selection {
+  background: hsla(351, 100%, 45%, .7);
+  color: #fff;
+}
