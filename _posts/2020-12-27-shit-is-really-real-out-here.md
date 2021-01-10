@@ -14,6 +14,7 @@ image:
   caption: Photo by [Dollar Gill](https://unsplash.com/@dollargill?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/depressed?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 excerpt: "CW: Suicide or when you can't get up off the mat long enough to see the sun."
 description: When you can't get up off the mat long enough to see the sun.
+published: false
 ---
 
 The amount of times I have thought about killing myself this year is a non-zero number. In fact, I can count it on one hand, all five fingers, which is too much, for any year, for any life.
