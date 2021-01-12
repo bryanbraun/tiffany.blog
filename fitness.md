@@ -8,8 +8,8 @@ entries_layout: grid
 permalink: /fitness-journey/
 ---
 
-{% notice info %}
-⚠️ &nbsp;This collection is deprecated. I moved the journey to its own site, [Fat To Fit Dev](https://fat2fitdev.com).
+{% notice warning %}
+  This collection is deprecated. I moved the journey to its own site, [Distinguished Fat Loss](https://distinguishedfatloss.com).
 {% endnotice %}
 
 *So this is it*.
@@ -17,7 +17,7 @@ permalink: /fitness-journey/
 Matt D'Avella has, in a sense, saved my life as well as my sanity.
 
 {% notice info %}
-⚠️ &nbsp; I will reference Matt D'Avella *a lot*. Here is one of the videos that got me going.
+  I will reference Matt D'Avella *a lot*. Here is one of the videos that got me going.
 {% endnotice %}
 
 {% include responsive-embed url="https://www.youtube-nocookie.com/embed/YBwWdOJcQTY" ratio="16:9" %}

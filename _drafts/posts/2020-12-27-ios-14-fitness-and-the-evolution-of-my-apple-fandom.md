@@ -14,4 +14,3 @@ image:
 excerpt: We got widgets.
 description: We got widgets. This makes my old Android using heart happy.
 ---
-

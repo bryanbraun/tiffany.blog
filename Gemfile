@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 3.9"
 gem "jekyll-theme-so-simple"
 gem 'octokit', :git => 'https://github.com/octokit/octokit.rb.git'
 gem "kramdown-parser-gfm"
@@ -12,7 +12,6 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
-  gem "jekyll-pwa-plugin"
   gem "jekyll-redirect-from"
   gem "jekyll-archives"
   gem 'jekyll-json-feed'
